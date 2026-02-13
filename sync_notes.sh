@@ -7,7 +7,7 @@ git add .
 git pull --rebase origin main
 
 if ! git diff-index --quiet HEAD; then
-    git commit -m "Auto-sync: $(date '+%y/%b/%d %H:%M:%S')"
+    git commit -m "Auto-sync: $(date '+%b %d %H:%M')"
     git push origin main
 fi
 
