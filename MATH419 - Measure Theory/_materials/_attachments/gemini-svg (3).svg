@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 380" width="100%" height="100%">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 1 2 L 8 5 L 1 8 Z" fill="currentColor" />
+    </marker>
+  </defs>
+
+  <rect x="50" y="135" width="580" height="45" fill="currentColor" fill-opacity="0.06" />
+
+  <g stroke="currentColor" stroke-width="1.5" stroke-dasharray="8,5" opacity="0.8">
+    <line x1="50" y1="135" x2="630" y2="135" />
+    <line x1="50" y1="180" x2="630" y2="180" />
+  </g>
+
+  <g stroke="currentColor" stroke-width="1.75" fill="none" stroke-linecap="round">
+    <line x1="50" y1="300" x2="630" y2="300" marker-end="url(#arrow)" />
+    <line x1="180" y1="340" x2="180" y2="50" marker-end="url(#arrow)" />
+  </g>
+
+  <g stroke="currentColor" stroke-width="1.5" stroke-linecap="round">
+    <line x1="173" y1="90" x2="187" y2="90" />
+    <line x1="171" y1="135" x2="189" y2="135" />
+    <line x1="171" y1="180" x2="189" y2="180" />
+    <line x1="173" y1="225" x2="187" y2="225" />
+    <line x1="173" y1="270" x2="187" y2="270" />
+    <line x1="173" y1="315" x2="187" y2="315" />
+  </g>
+
+  <path d="M 65 230 C 75 200, 85 185, 95 180 C 125 165, 155 146, 190 146 C 230 146, 260 165, 285 180 C 315 198, 345 210, 380 210 C 420 210, 455 198, 480 180 C 515 154, 550 142, 580 135 C 598 131, 612 115, 625 95" 
+        fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" />
+
+  <g stroke="currentColor" stroke-width="1.5" stroke-dasharray="4,4" opacity="0.75">
+    <line x1="95" y1="180" x2="95" y2="300" />
+    <line x1="285" y1="180" x2="285" y2="300" />
+    <line x1="480" y1="180" x2="480" y2="300" />
+    <line x1="580" y1="135" x2="580" y2="300" />
+  </g>
+
+  <g stroke="currentColor" stroke-width="2.2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 101 286 L 95 286 L 95 314 L 101 314" />
+    <path d="M 279 286 L 285 286 L 285 314 L 279 314" />
+    <path d="M 486 286 L 480 286 L 480 314 L 486 314" />
+    <path d="M 574 286 L 580 286 L 580 314 L 574 314" />
+  </g>
+
+  <g stroke="currentColor" stroke-width="1.75" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <polyline points="98,300 102,295 106,305 110,295 114,305 118,295 122,305 126,295 130,305 134,295 138,305 142,295 146,305 150,295 154,305 158,295 162,305 166,295 170,305 174,295 178,305 182,295 186,305 190,295 194,305 198,295 202,305 206,295 210,305 214,295 218,305 222,295 226,305 230,295 234,305 238,295 242,305 246,295 250,305 254,295 258,305 262,295 266,305 270,295 274,305 278,295 282,300" />
+    <polyline points="483,300 487,295 491,305 495,295 499,305 503,295 507,305 511,295 515,305 519,295 523,305 527,295 531,305 535,295 539,305 543,295 547,305 551,295 555,305 559,295 563,305 567,295 571,305 574,295 577,300" />
+  </g>
+
+  <g font-family="Times New Roman, serif" fill="currentColor">
+    <text x="110" y="70" font-size="24">
+      <tspan font-style="italic">f</tspan>(<tspan font-style="italic">x</tspan>)
+    </text>
+    <text x="645" y="306" font-size="24" font-style="italic">x</text>
+    <text x="160" y="96" font-size="22" text-anchor="end">
+      <tspan font-style="italic">c</tspan><tspan font-size="15" font-style="italic" baseline-shift="sub">i</tspan>
+    </text>
+  </g>
+</svg>
