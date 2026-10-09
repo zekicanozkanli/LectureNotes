@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 480" width="100%" height="100%">
+  <g stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="250" y1="100" x2="402" y2="211" />
+    <line x1="250" y1="100" x2="344" y2="390" />
+    <line x1="402" y1="211" x2="344" y2="390" />
+    <line x1="402" y1="211" x2="156" y2="390" />
+    <line x1="156" y1="390" x2="344" y2="390" />
+    <line x1="98" y1="211" x2="156" y2="390" />
+  </g>
+
+  <g fill="currentColor">
+    <circle cx="250" cy="100" r="6" />
+    <circle cx="402" cy="211" r="6" />
+    <circle cx="344" cy="390" r="6" />
+    <circle cx="156" cy="390" r="6" />
+    <circle cx="98" cy="211" r="6" />
+  </g>
+
+  <g font-family="Times New Roman, serif" font-size="26" fill="currentColor">
+    <text x="250" y="68" text-anchor="middle">1</text>
+    <text x="430" y="219" text-anchor="start">2</text>
+    <text x="364" y="425" text-anchor="start">3</text>
+    <text x="136" y="425" text-anchor="end">4</text>
+    <text x="70" y="219" text-anchor="end">5</text>
+  </g>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="340" viewBox="0 0 420 340" role="img" aria-label="Schematic redraw of the filled triangle with vertices zero zero, one zero, and zero one">
+<rect width="420" height="340" fill="#fff"/>
+<defs><pattern id="hatch" width="12" height="12" patternUnits="userSpaceOnUse" patternTransform="rotate(35)"><line x1="0" y1="0" x2="0" y2="12" stroke="#bcc9ce" stroke-width="2"/></pattern></defs>
+<g stroke="#284650" stroke-width="2.5" fill="none"><path d="M85 35 L85 290 M55 255 L350 255"/><path d="M85 255 L85 65 L280 255 Z" fill="url(#hatch)"/></g>
+<g fill="#203943" font-family="Arial, sans-serif" font-size="20"><text x="25" y="54">(0,1)</text><text x="25" y="313">(0,0)</text><text x="270" y="286">(1,0)</text></g></svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="930" height="270" viewBox="0 0 930 270" role="img" aria-label="Three simplicial complex examples">
+<rect width="930" height="270" fill="white"/>
+<defs>
+<pattern id="h" width="10" height="10" patternUnits="userSpaceOnUse" patternTransform="rotate(35)"><line x1="0" y1="0" x2="0" y2="10" stroke="#bacbd1" stroke-width="2"/></pattern>
+<pattern id="h-right" width="10" height="10" patternUnits="userSpaceOnUse" patternTransform="rotate(-35)"><line x1="0" y1="0" x2="0" y2="10" stroke="#bacbd1" stroke-width="2"/></pattern>
+</defs>
+<g stroke="#284650" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" fill="none">
+<g xmlns="http://www.w3.org/2000/svg" transform="translate(50,45)"><path d="M20 150 L85 50 L125 150 Z" fill="url(#h)" /><path d="M85 50 L165 25 L125 150 M165 25 L205 120" /><g fill="#284650"><circle cx="20" cy="150" r="3" /><circle cx="85" cy="50" r="3" /><circle cx="125" cy="150" r="3" /><circle cx="165" cy="25" r="3" /><circle cx="205" cy="120" r="3" /><circle cx="220" cy="40" r="3" /></g></g>
+
+<g xmlns="http://www.w3.org/2000/svg" transform="translate(345,45)"><path d="M20 165 L70 55 L200 55 L130 165 Z" /><path d="M20 165 L70 55 L130 165 Z" fill="url(#h)" /></g>
+
+<g xmlns="http://www.w3.org/2000/svg" transform="translate(650,35)"><path d="M115 20 L45 115 L115 195 L180 115 Z" fill="url(#h)" /><path d="M115 20 L115 195" /></g>
+
+</g>
+<g font-family="Arial, sans-serif" font-size="19" fill="#203943" text-anchor="middle"><text x="160" y="255">i.</text><text x="460" y="255">ii.</text><text x="765" y="255">iii.</text></g>
+</svg>

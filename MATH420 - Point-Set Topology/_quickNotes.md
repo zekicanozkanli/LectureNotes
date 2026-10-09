@@ -1,0 +1,1 @@
+Topology studies the properties of spaces that remain unchanged under continuous deformations.

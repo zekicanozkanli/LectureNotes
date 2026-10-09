@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="270" viewBox="0 0 1000 270" role="img" aria-label="Schematic redraw of the board's zero, one, two and three dimensional simplices">
+<rect width="1000" height="270" fill="#fff"/>
+<defs><pattern id="hatch" width="10" height="10" patternUnits="userSpaceOnUse" patternTransform="rotate(35)"><line x1="0" y1="0" x2="0" y2="10" stroke="#bcc9ce" stroke-width="2"/></pattern></defs>
+<g stroke="#284650" stroke-width="3" stroke-linejoin="round">
+<circle cx="110" cy="125" r="5" fill="#284650"/>
+<path d="M310 155 L395 65"/>
+<path d="M545 160 L610 60 L680 160 Z" fill="url(#hatch)"/>
+<path d="M810 150 L850 40 L950 120 L885 185 Z" fill="#e4edf0"/>
+<path d="M850 40 L885 185 L950 120" fill="url(#hatch)"/>
+<path d="M810 150 L950 120" stroke-dasharray="7 6" fill="none"/>
+</g>
+<g fill="#203943" font-family="Arial, sans-serif" font-size="20" text-anchor="middle">
+<text x="110" y="222">0-simplex</text><text x="110" y="248">(vertex)</text>
+<text x="350" y="222">1-simplex</text><text x="350" y="248">(edge)</text>
+<text x="612" y="222">2-simplex</text><text x="612" y="248">(triangle)</text>
+<text x="880" y="222">3-simplex</text><text x="880" y="248">(tetrahedron)</text>
+</g></svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="270" viewBox="0 0 720 270" role="img">
+<rect width="720" height="270" fill="white"/>
+<defs><pattern id="h" width="13" height="13" patternUnits="userSpaceOnUse" patternTransform="rotate(35)"><line x1="0" y1="0" x2="0" y2="13" stroke="#b9cbd1" stroke-width="2"/></pattern></defs>
+<g stroke="#284650" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M35 140 C25 75 90 60 135 96 C156 117 173 117 195 97 C240 62 305 80 305 139 C305 199 242 212 198 177 C174 158 159 158 136 178 C90 210 32 202 35 140 Z" fill="#f3f7f8"/>
+<path d="M76 150 C80 168 107 168 112 150 M82 152 C84 147 104 147 108 152 M218 151 C222 169 251 168 254 150 M224 151 C226 146 247 146 250 151"/>
+<circle cx="251" cy="117" r="18" stroke-dasharray="4 5"/>
+<path d="M267 112 C342 101 392 115 480 128 M396 115 L386 105 M396 115 L383 123"/>
+<path d="M490 223 L490 48 M485 59 L490 48 L495 59 M445 205 L675 205 M664 200 L675 205 L664 210"/>
+<circle cx="550" cy="132" r="36" stroke-dasharray="5 5"/>
+<circle cx="550" cy="132" r="3" fill="#284650"/>
+</g>
+</svg>
