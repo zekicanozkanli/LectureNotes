@@ -1,4 +1,5 @@
-> [!def] [[Definition 10 (Degree Sequence And Regularity)]]: The degree sequence of a graph $G$ is the list of its degrees, usually in non-increasing order. The minimum and maximum degree is denoted by $\delta(G)$ and $\Delta(G)$, respectively. A graph is called $k$-regular if every vertex has the same degree $k$; it is $k$-regular if the common degree is $k$. A $3$-regular graph is  a cubic graph.
+
+> [!def] [[Definition 10 (Degree Sequence And Regularity)]]: The degree sequence of a graph $G$ is the list of its degrees, usually in non-increasing order. The minimum and maximum degree is denoted by $\delta(G)$ and $\Delta(G)$, respectively. A graph is called $k$-regular if every vertex has the same degree $k$. A $3$-regular graph is  a cubic graph.
 
 ###### Examples.
 

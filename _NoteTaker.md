@@ -1,4 +1,8 @@
 
+* CALLOUT 'lar için marjin'i ortadan kaldır.
+___
+
+* follow the same style; but not add such sentences "no edges no size".
 * eğer bu bir lecture ise bib Pamuk M. (2026F). *Lecture* biçiminde verilmeli
 * before processing files, NoteTaker ilk çağırıldığında kullanıcıya sorular yöneltmeli.
 * şundan uzunsa kısalt, yoksa şöyle et şeysini tamamen kaldır.
@@ -12,7 +16,3 @@
 * Never manipulate proof.
 * Özellikle süslü parantez, ve bazı diğer komutların başına \ işaretini koymayı unutuyor.
 * yazmaya bir satır boşluk bırakarak başlarsa, yeni açılan sayfada raw md'yi görmemize gerek kalmaz.
-
-
-
-* CALLOUT 'lar için marjin'i ortadan kaldır.

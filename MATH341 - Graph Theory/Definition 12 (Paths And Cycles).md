@@ -1,3 +1,4 @@
+
 > [!def] [[Definition 12 (Paths And Cycles)]]: A path $P_n$ has vertices numbered $v_1,\ldots,v_n$ and edges $v_1v_2,\ldots,v_{n-1}v_n$. A cycle $C_n$ has vertices numbered $v_1,\ldots,v_n$ and edges $v_1v_2,\ldots,v_{n-1}v_n,v_nv_1$. An even cycle has even $n$; an odd cycle has odd $n$.
 ###### Examples.
 

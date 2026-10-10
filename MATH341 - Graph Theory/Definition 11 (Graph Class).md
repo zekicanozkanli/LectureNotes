@@ -1,3 +1,4 @@
+
 > [!def] [[Definition 11 (Graph Class)]]: A graph class $\mathbb G$ is a set of graphs.
 
 ###### Examples.

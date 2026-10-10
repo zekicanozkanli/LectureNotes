@@ -1,3 +1,4 @@
+
 > [!def] [[Definition 5 (Adjacency Matrix)]]: An adjacency list has each vertex in a separate row, followed by the vertices adjacent to it. For $V(G)=\{v_1,\ldots,v_n\}$, an adjacency matrix is an $n\times n$ matrix with $(i,j)$ entry $1$ when $v_iv_j\in E(G)$, and $0$ otherwise.
 
 For a graph, the adjacency matrix is symmetric with zero diagonal. An adjacency list uses less space for sparse graphs; for dense graphs, space usage is comparable.

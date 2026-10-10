@@ -1,6 +1,7 @@
+
 > [!def] [[Definition 13 (Complete And Empty Graphs)]]: A complete graph $K_n$ has order $n$ and every pair of vertices is adjacent. An empty graph $\bar{K}_n$ has order $n$ and no edges. The unique graph $K_1$ with one vertex is called the trivial graph.
 
-Note that $m(K_n)=\binom n2=n(n-1)/2$. Complete and empty graphs have the largest and smallest possible sizes for order $n$.
+Note that $m(K_n)=\binom n2$. Clearly, complete and empty graphs have the largest and smallest possible sizes for order $n$.
 
 ###### Examples.
 
