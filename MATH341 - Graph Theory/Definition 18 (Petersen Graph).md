@@ -1,4 +1,7 @@
+
 > [!def] [[Definition 18 (Petersen Graph)]]: The Petersen graph has vertices representing the $2$-element subsets of $[5]=\{1,2,3,4,5\}$. Edges join vertices whose subsets are disjoint.
+
+As each vertex represents a 2-element subset $A \subset [5]$ and its 
 
 Its order is $\binom52=10$. There are three elements of $[5]$ not contained in a given 2-element subset, so each vertex is adjacent to three others. Thus, Peterson graph is cubic, and hence has size $\frac{10\cdot3}{2}=15$. There cannot be three disjoint 2-element subsets of $[5]$, so the Petersen graph is triangle-free.
 
