@@ -1,8 +1,9 @@
 *TODOs*
 
+W1-2
 341
-- [ ] Not
-- [ ] Çalışma
+- [x] Not
+- [x] Çalışma
 - [ ] Ex
 353
 - [ ] Not

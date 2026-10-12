@@ -1,18 +1,9 @@
 # Exercise 7 (Continuity Of Two Maps Between Finite Spaces)
 
-Consider the following topologies on $X=\{a,b,c,d\}$ and $Y=\{x,y,z,w\}$, respectively:
-$$\mathcal T=\{\emptyset,\{a\},\{a,b\},\{a,b,c\},X\},$$
-$$\mathcal V=\{\emptyset,\{x\},\{y\},\{x,y\},\{y,z,w\},Y\}.$$
-Moreover, consider the functions $f:X\to Y$ and $g:X\to Y$ defined by the diagrams:
 
-![The two maps f and g between the supplied finite sets](../_support/attachments/66b4ba9f-M9-a95d304486b3.svg)
 
-The mappings shown are
-$$f(a)=y,\quad f(b)=z,\quad f(c)=w,\quad f(d)=z,$$
-$$g(a)=x,\quad g(b)=x,\quad g(c)=z,\quad g(d)=w.$$
-Determine whether $f$ and $g$ are $\mathcal T$-$\mathcal V$ continuous.
 
-^nt-3e02786efc5a6765
+
 
 ###### Proof.
 

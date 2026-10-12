@@ -6,7 +6,8 @@ ___
 * eğer bu bir lecture ise bib Pamuk M. (2026F). *Lecture* biçiminde verilmeli
 * before processing files, NoteTaker ilk çağırıldığında kullanıcıya sorular yöneltmeli.
 * şundan uzunsa kısalt, yoksa şöyle et şeysini tamamen kaldır.
-* attachment 'lar nereye eklenecek ?
+* attachment 'lar nereye eklenecek -ask user?
+* corollary'ler theorem_number.corollary_number olarak isimlendirilmeli
 * ^72832blwkdsxjs  ibaresi kalkmalı, bu ne mk.
   ![[Pasted image 20261009180450.png|476]]
 * svg'ler bir biçimde topluca sorgulanmalı.

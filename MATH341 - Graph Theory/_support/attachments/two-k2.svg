@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="160" viewBox="0 0 560 160" role="img" aria-labelledby="title desc">
+  <title id="title">2K₂</title>
+  <desc id="desc">The disjoint union of two copies of K₂: four unlabeled vertices and two separate edges.</desc>
+  <rect width="560" height="160" fill="white"/>
+  <g stroke="black" stroke-width="2.5" fill="none">
+    <line x1="70" y1="80" x2="210" y2="80"/>
+    <line x1="350" y1="80" x2="490" y2="80"/>
+  </g>
+  <g fill="white" stroke="black" stroke-width="2">
+    <circle cx="70" cy="80" r="12"/>
+    <circle cx="210" cy="80" r="12"/>
+    <circle cx="350" cy="80" r="12"/>
+    <circle cx="490" cy="80" r="12"/>
+  </g>
+</svg>

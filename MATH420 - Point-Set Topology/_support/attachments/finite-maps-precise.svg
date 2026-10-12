@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="520" viewBox="0 0 1240 520" role="img" aria-labelledby="title description">
+  <title id="title">Two functions between finite sets X and Y</title>
+  <desc id="description">Each element is represented by a dot. On the left, f maps a to y, b to z, c to w, and d to z. On the right, g maps a to x, b to x, c to z, and d to w. Labels sit outside the paths of the arrows.</desc>
+  <defs>
+    <marker id="arrow" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="10" viewBox="0 0 12 10" refX="10" refY="5" orient="auto">
+      <path d="M 2 1 L 10 5 L 2 9" fill="none" stroke="#23648c" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+    <style>
+      .boundary { fill: none; stroke: #23648c; stroke-width: 2.2; }
+      .mapping { fill: none; stroke: #23648c; stroke-width: 2.2; stroke-linecap: round; stroke-linejoin: round; marker-end: url(#arrow); }
+      .point { fill: #23648c; }
+      .label { fill: #23648c; font-family: 'Times New Roman', 'Liberation Serif', serif; font-size: 29px; }
+      .set-label { font-size: 33px; text-anchor: middle; }
+      .function-label { font-size: 33px; font-style: italic; text-anchor: middle; }
+      .domain-label { text-anchor: end; }
+    </style>
+  </defs>
+  <rect width="1240" height="520" fill="#ffffff"/>
+
+  <!-- Function f. Labels are left of source dots and right of target dots. -->
+  <g id="function-f">
+    <ellipse class="boundary" cx="155" cy="292" rx="78" ry="196"/>
+    <ellipse class="boundary" cx="475" cy="292" rx="78" ry="196"/>
+    <text class="label set-label" x="155" y="65">X</text>
+    <text class="label set-label" x="475" y="65">Y</text>
+    <path class="mapping" d="M 240 76 Q 315 28 390 76"/>
+    <text class="label function-label" x="315" y="30">f</text>
+
+    <!-- Arrow tips stop short of the destination dots; each shared target has distinct approach directions. -->
+    <path id="f-a-y" class="mapping" d="M 163 158.25 L 463 242.625"/>
+    <path id="f-b-z" class="mapping" d="M 163 247 C 260 260 400 255 467 327"/>
+    <path id="f-c-w" class="mapping" d="M 163 338.25 L 463 422.625"/>
+    <path id="f-d-z" class="mapping" d="M 163 424 C 270 411 400 417 467 345"/>
+
+    <g class="point">
+      <circle cx="155" cy="156" r="5"/><circle cx="155" cy="246" r="5"/>
+      <circle cx="155" cy="336" r="5"/><circle cx="155" cy="426" r="5"/>
+      <circle cx="475" cy="156" r="5"/><circle cx="475" cy="246" r="5"/>
+      <circle cx="475" cy="336" r="5"/><circle cx="475" cy="426" r="5"/>
+    </g>
+    <g class="label domain-label">
+      <text x="137" y="165">a</text><text x="137" y="255">b</text>
+      <text x="137" y="345">c</text><text x="137" y="435">d</text>
+    </g>
+    <g class="label">
+      <text x="493" y="165">x</text><text x="493" y="255">y</text>
+      <text x="493" y="345">z</text><text x="493" y="435">w</text>
+    </g>
+  </g>
+
+  <!-- Function g, with the same set and point spacing as f. -->
+  <g id="function-g" transform="translate(620 0)">
+    <ellipse class="boundary" cx="155" cy="292" rx="78" ry="196"/>
+    <ellipse class="boundary" cx="475" cy="292" rx="78" ry="196"/>
+    <text class="label set-label" x="155" y="65">X</text>
+    <text class="label set-label" x="475" y="65">Y</text>
+    <path class="mapping" d="M 240 76 Q 315 28 390 76"/>
+    <text class="label function-label" x="315" y="30">g</text>
+
+    <path id="g-a-x" class="mapping" d="M 163 156 L 462 156"/>
+    <path id="g-b-x" class="mapping" d="M 163 245 C 280 235 437 218 471 168"/>
+    <path id="g-c-z" class="mapping" d="M 163 336 L 462 336"/>
+    <path id="g-d-w" class="mapping" d="M 163 426 L 462 426"/>
+
+    <g class="point">
+      <circle cx="155" cy="156" r="5"/><circle cx="155" cy="246" r="5"/>
+      <circle cx="155" cy="336" r="5"/><circle cx="155" cy="426" r="5"/>
+      <circle cx="475" cy="156" r="5"/><circle cx="475" cy="246" r="5"/>
+      <circle cx="475" cy="336" r="5"/><circle cx="475" cy="426" r="5"/>
+    </g>
+    <g class="label domain-label">
+      <text x="137" y="165">a</text><text x="137" y="255">b</text>
+      <text x="137" y="345">c</text><text x="137" y="435">d</text>
+    </g>
+    <g class="label">
+      <text x="493" y="165">x</text><text x="493" y="255">y</text>
+      <text x="493" y="345">z</text><text x="493" y="435">w</text>
+    </g>
+  </g>
+</svg>
