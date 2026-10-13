@@ -1,10 +1,7 @@
-> [!def] [[Definition 8 (Topological Invariant)]]: A property $P$ of sets is called a topological property or a topological invariant if, whenever a topological space has the property $P$, any topological space homeomorphic to that topological space also has the property $P$.
 
-
-^nt-564ae45629d2042e
+> [!def] [[Definition 8 (Topological Invariant)]]: A property $P$ of sets is called a topological invariant if, whenever a topological space has the property $P$, any topological space homeomorphic to it also has the property $P$.
 
 ###### Motivation.
-
 Considering the fact that, formally, topology is the study of topological invariants, this is an important definition.
 
 ###### Bibliography.

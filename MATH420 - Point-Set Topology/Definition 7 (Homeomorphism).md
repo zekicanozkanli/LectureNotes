@@ -1,7 +1,5 @@
 
-> [!def] [[Definition 7 (Homeomorphism)]]: Two topological spaces $(X,\mathcal T)$ and $(Y,\mathcal V)$ are called homeomorphic or topologically equivalent if there exists a bijection $f:X\to Y$ such that both $f$ and $f^{-1}$ are continuous. Such a function $f$ is called a homeomorphism or a topological equivalence.
->
-> If $(X,\mathcal T)$ and $(Y,\mathcal V)$ are homeomorphic, then we write $X\cong Y$.
+> [!def] [[Definition 7 (Homeomorphism)]]: Two topological spaces $(X,\mathcal T)$ and $(Y,\mathcal V)$ are called homeomorphic, or topologically equivalent, if there exists a bijection $f:X\to Y$ such that both $f$ and $f^{-1}$ are continuous. Such a function $f$ is called a homeomorphism. We write $X \cong Y$.
 
 ###### Bibliography.
 

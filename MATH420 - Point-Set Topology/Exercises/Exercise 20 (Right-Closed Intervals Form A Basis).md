@@ -7,7 +7,7 @@ Let $X=\mathbb R$ and $\mathcal B=\{(a,b]\mid a,b\in\mathbb R,\ a<b\}$. Show tha
 ###### Proof.
 
 > [!proof]
-> We shall show that $\mathcal B$ satisfies the two properties in [[Theorem 4 (Conditions For A Class To Be A Basis)]].
+> We shall show that $\mathcal B$ satisfies the two properties in [[Theorem 4 (Conditions For A Collection To Form A Basis)]].
 > i. Let $x\in\mathbb R$. Then $x\in(x-1,x]$. Thus
 > $$\mathbb R\subseteq\bigcup_{x\in\mathbb R}(x-1,x]=\bigcup\mathcal B'\subseteq\bigcup\mathcal B\subseteq\mathbb R,$$
 > where $\mathcal B'=\{(x-1,x]\mid x\in\mathbb R\}$. Therefore $\bigcup\mathcal B=\mathbb R$.

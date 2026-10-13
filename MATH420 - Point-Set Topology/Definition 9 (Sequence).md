@@ -1,7 +1,5 @@
-> [!def] [[Definition 9 (Sequence)]]: Let $X$ be a nonempty set. A function $x:\mathbb Z^+\to X$ is called a sequence in $X$. Usually we denote this sequence by $(x_n)$ or $\{x_n\}$.
 
-
-^nt-900426af4c0d1c45
+> [!def] [[Definition 9 (Sequence)]]: Let $X$ be a nonempty set. A function $x:\mathbb N \to X$ is called a sequence in $X$, denoted by $(x_n)$ or $\{x_n\}$.
 
 ###### Bibliography.
 

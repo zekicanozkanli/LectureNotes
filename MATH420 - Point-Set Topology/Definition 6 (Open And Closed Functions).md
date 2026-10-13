@@ -1,10 +1,5 @@
-> [!def] [[Definition 6 (Open And Closed Functions)]]: Let $(X,\mathcal T)$ and $(Y,\mathcal V)$ be topological spaces and $f:X\to Y$ be a function. $f$ is called an open, respectively closed, function if the image of every $\mathcal T$-open, respectively $\mathcal T$-closed, set is $\mathcal V$-open, respectively $\mathcal V$-closed.
->
-> In general, functions which are open need not be closed, and vice versa. Also, in general, functions which are open, respectively closed, need not be continuous. Similarly, a continuous function need not be open, respectively closed.
->
-> In [[Exercises/Exercise 7 (Continuity Of Two Maps Between Finite Spaces)]], $f$ is a continuous function, but it is not an open function. A map which is open but is neither closed nor continuous is given in [[Exercises/Exercise 11 (An Open Map Which Is Neither Closed Nor Continuous)]].
 
-^nt-74702d1af3d97f12
+> [!def] [[Definition 6 (Open And Closed Functions)]]: Let $(X,\mathcal T)$ and $(Y,\mathcal V)$ be two topological spaces, and $f:(X, \mathcal T) \to (Y, \mathcal V)$ be a function. We say $f$ is an open function if $$f(U) \in \mathcal V, \qquad \forall U \in \mathcal T.$$ Closed function is defined similarly.
 
 ###### Bibliography.
 

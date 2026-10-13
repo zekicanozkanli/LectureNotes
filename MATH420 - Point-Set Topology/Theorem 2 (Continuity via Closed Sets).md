@@ -1,7 +1,5 @@
-> [!thm] [[Theorem 2 (Continuity And Inverse Images Of Closed Sets)]]: Let $(X,\mathcal T)$ and $(Y,\mathcal V)$ be topological spaces, and $f:X\to Y$ be a function. Then $f$ is continuous iff the inverse image $f^{-1}(K)$ of every $\mathcal V$-closed subset $K$ of $Y$ under $f$ is a $\mathcal T$-closed subset of $X$.
 
-
-^nt-d6c18c81b75e268e
+> [!thm] [[Theorem 2 (Continuity via Closed Sets)]]: Let $(X,\mathcal T)$ and $(Y,\mathcal V)$ be topological spaces, and $f:X\to Y$ be a function. Then $f$ is continuous if and only if $f^{-1}(K) \in \mathcal T_K$ for every $K \in \mathcal V_K$.
 
 ###### Proof.
 
@@ -14,8 +12,6 @@
 > Thus $f^{-1}(V)\in\mathcal T$. Therefore $f:X\to Y$ is a $\mathcal T$-$\mathcal V$ continuous function.
 
 ###### Bibliography.
-
-[1] *420-Week 1-Lecture 3 (1)*. (n.d.). [Lecture material] (p. 2). [420-Week 1-Lecture 3 (1).pdf](_materials/_sources/420-Week%201-Lecture%203%20(1).pdf)
 [2] *420-Week 1-Lecture 3*. (n.d.). [Lecture material] (p. 2). [420-Week 1-Lecture 3.pdf](_materials/_sources/420-Week%201-Lecture%203.pdf)
 
 #mathematics #point-set-topology #theorem

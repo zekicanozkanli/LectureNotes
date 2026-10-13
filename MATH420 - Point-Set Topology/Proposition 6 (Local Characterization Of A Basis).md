@@ -1,7 +1,5 @@
-> [!prop] [[Proposition 6 (Local Characterization Of A Basis)]]: Let $(X,\mathcal T)$ be a topological space and $\mathcal B\subseteq\mathcal T$. Then $\mathcal B$ is a base for $\mathcal T$ iff, for every $U\in\mathcal T$ and every $x\in U$, there exists $B\in\mathcal B$ such that $x\in B\subseteq U$.
 
-
-^nt-5d4630463935d59f
+> [!prop] [[Proposition 6 (Local Characterization Of A Basis)]]: Let $(X,\mathcal T)$ be a topological space and $\mathcal B\subseteq\mathcal T$. Then $\mathcal B$ is a basis for $\mathcal T$ if and only if for every $U\in\mathcal T$ and every $x\in U$, there exists $B\in\mathcal B$ such that $x\in B\subseteq U$.
 
 ###### Proof.
 

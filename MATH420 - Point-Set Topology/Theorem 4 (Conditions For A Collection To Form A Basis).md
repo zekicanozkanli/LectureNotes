@@ -1,10 +1,7 @@
-> [!thm] [[Theorem 4 (Conditions For A Class To Be A Basis)]]: Let $\mathcal B$ be a class of subsets of a nonempty set $X$. Then $\mathcal B$ is a base for some topology $\mathcal T$ on $X$ iff $\mathcal B$ possesses the following properties:
->
-> i. $\bigcup\mathcal B=X$.
->
-> ii. For every $B_1,B_2\in\mathcal B$ and every $x\in B_1\cap B_2$, there exists $B_3\in\mathcal B$ such that $x\in B_3\subseteq B_1\cap B_2$.
 
-^nt-855b04cf72b35d53
+> [!thm] [[Theorem 4 (Conditions For A Collection To Form A Basis)]]: Let $\mathcal B$ be a collection of subsets of a nonempty set $X$. Then $\mathcal B$ is a basis for some topology $\mathcal T$ on $X$ if and only if $\mathcal B$ possesses the following properties:
+> i. $\bigcup\mathcal B=X$.
+> ii. For every $B_1,B_2\in\mathcal B$ and every $x\in B_1\cap B_2$, there exists $B_3\in\mathcal B$ such that $x\in B_3\subseteq B_1\cap B_2$.
 
 ###### Proof.
 

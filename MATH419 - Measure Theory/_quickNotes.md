@@ -1,3 +1,7 @@
+
+$m^*$ is not countably additive nor finitely additive.
+
+
 *TODOs*
 
 - [ ] Lebesgue Integral, measure theory 'nin motivasyonu mu ?

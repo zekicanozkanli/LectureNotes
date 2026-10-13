@@ -2,6 +2,8 @@
 * CALLOUT 'lar için marjin'i ortadan kaldır.
 ___
 
+* if there are abbreviations, such as, iff, write in full form.
+* use $\Rightarrow$ and $\Leftarrow$ for iff proof cases. If there are other cases, write Case I
 * follow the same style; but not add such sentences "no edges no size".
 * eğer bu bir lecture ise bib Pamuk M. (2026F). *Lecture* biçiminde verilmeli
 * before processing files, NoteTaker ilk çağırıldığında kullanıcıya sorular yöneltmeli.
