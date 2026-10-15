@@ -1,5 +1,7 @@
 *TODOs*
 
+- Obsidian 'daki graph view force edilir makul bir şekil olmaya. Misal, github'daki balık formuna sokulabilir. Üstelik, mümkünse, bunu github'da da yayınlayabilirim.
+
 W1-2
 341
 - [x] Not
