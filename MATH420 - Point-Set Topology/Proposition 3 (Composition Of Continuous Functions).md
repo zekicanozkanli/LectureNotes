@@ -3,8 +3,7 @@
 
 ###### Proof.
 
-> [!proof]
-> Let $U\in\mathcal U$. Because $g:(Y,\mathcal V)\to(Z,\mathcal U)$ is $\mathcal V$-$\mathcal U$ continuous, $g^{-1}(U)\in\mathcal V$, by [[Definition 5 (Continuous Functions)]]. Since $f:(X,\mathcal T)\to(Y,\mathcal V)$ is $\mathcal T$-$\mathcal V$ continuous, $(g\circ f)^{-1}(U) = f^{-1}\left(g^{-1}(U)\right) \in\mathcal T.$
+> [!proof] Let $U\in\mathcal U$. Because $g:(Y,\mathcal V)\to(Z,\mathcal U)$ is $\mathcal V$-$\mathcal U$ continuous, $g^{-1}(U)\in\mathcal V$, by [[Definition 5 (Continuous Functions)]]. Since $f:(X,\mathcal T)\to(Y,\mathcal V)$ is $\mathcal T$-$\mathcal V$ continuous, $(g\circ f)^{-1}(U) = f^{-1}\left(g^{-1}(U)\right) \in\mathcal T.$
 
 ###### Bibliography.
 
