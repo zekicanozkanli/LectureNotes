@@ -1,1 +1,0 @@
-- Minkowski md dosyalarını okuyarak anlatımını şekillendirebilir. Özellikle, proof yaparken bu materyallere bakıp (notlarda aşırı dağınık ve eksiklik içerse bile) düzgün ve formal halini verir.
