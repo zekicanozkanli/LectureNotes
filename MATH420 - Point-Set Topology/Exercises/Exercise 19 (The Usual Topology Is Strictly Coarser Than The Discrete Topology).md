@@ -13,6 +13,6 @@ Let $X=\mathbb R$, and let $\mathcal D$ and $\mathcal T$ be the discrete topolog
 
 ###### Bibliography.
 
-[1] *420-Week 2-Lecture 3*. (n.d.). [Lecture material] (pp. 8, 9). [420-Week 2-Lecture 3.pdf](../_materials/_sources/420-Week%202-Lecture%203.pdf)
+[1] *420-Week 2-Lecture 3*. (n.d.). [Lecture material] (pp. 8, 9). [420-Week 2-Lecture 3.pdf](420-Week%202-Lecture%203.pdf)
 
 #mathematics #point-set-topology #exercise

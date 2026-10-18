@@ -4,4 +4,4 @@
 
 [1] Pamuk M. (2026F). *Lecture*. 
 
-#mathematics #compactness #definition
+#mathematics #computational-topology #definition

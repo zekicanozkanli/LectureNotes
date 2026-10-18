@@ -3,6 +3,6 @@
 
 ###### Bibliography.
 
-[1] *420-Week 1-Lecture 1*. (n.d.). [Lecture material] (pp. 1, 2). [420-Week 1-Lecture 1.pdf](_materials/_sources/420-Week%201-Lecture%201.pdf)
+[1] *420-Week 1-Lecture 1*. (n.d.). [Lecture material] (pp. 1, 2). [420-Week 1-Lecture 1.pdf](420-Week%201-Lecture%201.pdf)
 
 #mathematics #point-set-topology #definition

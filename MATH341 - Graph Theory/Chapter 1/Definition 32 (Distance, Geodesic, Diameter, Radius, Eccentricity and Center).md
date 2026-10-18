@@ -6,7 +6,7 @@ Note that distance gives a metric on the vertex set of a connected graph.
 
 i. In the graph below, $ecc(u)=ecc(v)=ecc(x)=ecc(y)=2$ and $ecc(w)=ecc(z)=3$. Hence, $\operatorname{rad}(G)=2$, $\operatorname{diam}(G)=3$, and the center is the $C_4$ induced by $u,v,x,y$.
 
-![Walk example](_support/attachments/b4aca2c0-M-walk-example-8c930fc08167.svg)
+![Walk example](b4aca2c0-M-walk-example-8c930fc08167.svg)
 ii. For $W_{n+1}=C_n+K_1$ with $n\ge4$, the radius is $1$, the diameter is $2$, and the center is the vertex corresponding to $K_1$.
 ###### Bibliography.
 

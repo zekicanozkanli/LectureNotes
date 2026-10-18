@@ -7,7 +7,7 @@ $$n(Q_k)=2^k,\qquad m(Q_k)=k\,2^{k-1}.$$
 
 i. $Q_1=K_2$, $Q_2=C_4$, and $Q_3$. Equivalently, its vertices are the $k$-digit bitstrings; two are adjacent exactly when they differ in one digit.
 
-![Hypercubes](_support/attachments/b4aca2c0-M-hypercubes-e41d5472152c.svg)
+![Hypercubes](b4aca2c0-M-hypercubes-e41d5472152c.svg)
 
 ###### Bibliography.
 

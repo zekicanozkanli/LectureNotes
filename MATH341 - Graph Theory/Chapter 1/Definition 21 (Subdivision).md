@@ -5,7 +5,7 @@
 
 i. Subdividing the edge $e=uv$.
 
-![Subdivision](_support/attachments/b4aca2c0-M-subdivision-d0d27fe25321.svg)
+![Subdivision](b4aca2c0-M-subdivision-d0d27fe25321.svg)
 
 ###### Bibliography.
 

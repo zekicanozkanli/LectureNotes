@@ -9,7 +9,7 @@ i. $K_2\square K_2=C_4$.
 
 ii. $P_3\square P_4$.
 
-![Cartesian](_support/attachments/b4aca2c0-M-cartesian-v2-8d459b1945bd.svg)
+![Cartesian](b4aca2c0-M-cartesian-v2-8d459b1945bd.svg)
 
 ###### Bibliography.
 

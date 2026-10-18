@@ -16,4 +16,4 @@ To build more complex spaces, we glue simplices together in a structured way.
 
 [1] Pamuk M. (2026F). *Lecture*. 
 
-#mathematics #simplicial-complexes #definition
+#mathematics #computational-topology #definition

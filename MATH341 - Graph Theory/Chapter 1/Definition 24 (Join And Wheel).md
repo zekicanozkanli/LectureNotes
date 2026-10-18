@@ -7,7 +7,7 @@ Joining is associative and commutative.
 
 i. Wheels $W_4,W_5,W_6,W_7$.
 
-![Wheels](_support/attachments/b4aca2c0-M-wheels-4ff653562827.svg)
+![Wheels](b4aca2c0-M-wheels-4ff653562827.svg)
 
 ###### Bibliography.
 

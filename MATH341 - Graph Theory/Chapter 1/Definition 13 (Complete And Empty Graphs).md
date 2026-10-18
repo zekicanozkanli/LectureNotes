@@ -7,7 +7,7 @@ Note that $m(K_n)=\binom n2$. Clearly, complete and empty graphs have the larges
 
 i. $K_3,K_4,K_5,K_6$.
 
-![Complete](_support/attachments/b4aca2c0-M-complete-v2-10ba68b66d40.svg)
+![Complete](b4aca2c0-M-complete-v2-10ba68b66d40.svg)
 
 ###### Bibliography.
 

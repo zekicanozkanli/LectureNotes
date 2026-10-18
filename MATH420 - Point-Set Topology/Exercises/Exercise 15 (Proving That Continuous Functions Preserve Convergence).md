@@ -8,6 +8,6 @@ The supplied lecture specifies “Proof: Exercise” and does not provide a proo
 
 ###### Bibliography.
 
-[1] *420-Week 2-Lecture 2*. (n.d.). [Lecture material] (p. 2). [420-Week 2-Lecture 2.pdf](../_materials/_sources/420-Week%202-Lecture%202.pdf)
+[1] *420-Week 2-Lecture 2*. (n.d.). [Lecture material] (p. 2). [420-Week 2-Lecture 2.pdf](420-Week%202-Lecture%202.pdf)
 
 #mathematics #point-set-topology #exercise

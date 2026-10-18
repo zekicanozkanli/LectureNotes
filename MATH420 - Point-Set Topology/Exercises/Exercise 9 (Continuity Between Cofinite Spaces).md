@@ -18,6 +18,6 @@ Let $(X,\mathcal T)$ and $(Y,\mathcal V)$ be cofinite topological spaces, and le
 ###### Bibliography.
 
 [1] *420-Week 1-Lecture 3 (1)*. (n.d.). [Lecture material] (pp. 6, 7). [420-Week 1-Lecture 3 (1).pdf](../_materials/_sources/420-Week%201-Lecture%203%20(1).pdf)
-[2] *420-Week 1-Lecture 3*. (n.d.). [Lecture material] (pp. 6, 7). [420-Week 1-Lecture 3.pdf](../_materials/_sources/420-Week%201-Lecture%203.pdf)
+[2] *420-Week 1-Lecture 3*. (n.d.). [Lecture material] (pp. 6, 7). [420-Week 1-Lecture 3.pdf](420-Week%201-Lecture%203.pdf)
 
 #mathematics #point-set-topology #exercise

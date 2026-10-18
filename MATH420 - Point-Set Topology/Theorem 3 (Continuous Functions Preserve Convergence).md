@@ -16,6 +16,6 @@ The supplied lecture leaves the proof as an exercise: [[Exercises/Exercise 15 (P
 
 ###### Bibliography.
 
-[1] *420-Week 2-Lecture 2*. (n.d.). [Lecture material] (pp. 2, 3). [420-Week 2-Lecture 2.pdf](_materials/_sources/420-Week%202-Lecture%202.pdf)
+[1] *420-Week 2-Lecture 2*. (n.d.). [Lecture material] (pp. 2, 3). [420-Week 2-Lecture 2.pdf](420-Week%202-Lecture%202.pdf)
 
 #mathematics #point-set-topology #theorem

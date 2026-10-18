@@ -4,7 +4,7 @@
 
 i. $K_{1;3}$ and $K_{3;3}$. The star $K_{1;3}$ is called a claw when it occurs as an induced subgraph.
 
-![Complete bipartite](_support/attachments/b4aca2c0-M-complete-bipartite-34e5bfad996c.svg)
+![Complete bipartite](b4aca2c0-M-complete-bipartite-34e5bfad996c.svg)
 
 ###### Bibliography.
 

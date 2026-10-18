@@ -28,6 +28,6 @@ Let $X=\mathbb Z^+=\{1,2,3,4,\ldots\}$ and $\mathcal T$ be the [[Definition 3 (C
 
 ###### Bibliography.
 
-[1] *420-Week 1-Lecture 2*. (n.d.). [Lecture material] (pp. 4, 5, 6). [420-Week 1-Lecture 2.pdf](../_materials/_sources/420-Week%201-Lecture%202.pdf)
+[1] *420-Week 1-Lecture 2*. (n.d.). [Lecture material] (pp. 4, 5, 6). [420-Week 1-Lecture 2.pdf](420-Week%201-Lecture%202.pdf)
 
 #mathematics #point-set-topology #exercise

@@ -18,7 +18,7 @@ $$
 V(G)=\{v_A,v_B,v_C\},\qquad E(G)=\{\{v_A,v_B\},\{v_B,v_C\}\}.
 $$
 
-![Intersection graph of the fruit sets](_support/attachments/intersection-graph-fruit-sets.svg)
+![Intersection graph of the fruit sets](intersection-graph-fruit-sets.svg)
 
 ###### Bibliography.
 

@@ -4,7 +4,7 @@
 
 i. For the multigraph below,
 
-![Walk matrix](_support/attachments/b4aca2c0-M-walk-matrix-abf66b470dc3.svg)
+![Walk matrix](b4aca2c0-M-walk-matrix-abf66b470dc3.svg)
 
 $$
 A=\begin{bmatrix}

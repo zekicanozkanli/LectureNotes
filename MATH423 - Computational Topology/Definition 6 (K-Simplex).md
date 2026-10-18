@@ -7,10 +7,10 @@ Note that each sum $\sum_{i=0}^{k}t_iv_i$ is a point $x$. For each fixed $x \in 
 
 ###### Examples.
 
-![Schematic redraw of the four simplex diagrams](_support/attachments/23eac36d-M6-0fb30b7b42e7.svg)
+![Schematic redraw of the four simplex diagrams](23eac36d-M6-0fb30b7b42e7.svg)
 
 ###### Bibliography.
 
 [1] Pamuk M. (2026F). *Lecture*. 
 
-#mathematics #simplices #definition
+#mathematics #computational-topology #definition

@@ -6,7 +6,7 @@ and
 $$\mathcal V=\{\emptyset,\{x\},\{y\},\{x,y\},Y\}$$
 be topologies on $X$ and $Y$, respectively. Consider $f:X\to Y$ given by the diagram:
 
-![The supplied mapping from X to Y](../_support/attachments/66b4ba9f-M10-42768629a162.svg)
+![The supplied mapping from X to Y](66b4ba9f-M10-42768629a162.svg)
 
 Thus $f(a)=x$ and $f(b)=f(c)=f(d)=y$.
 
@@ -53,7 +53,7 @@ iii. Is $f$ a continuous function?
 ###### Bibliography.
 
 [1] *420-Week 1-Lecture 3 (1)*. (n.d.). [Lecture material] (pp. 9, 10, 11). [420-Week 1-Lecture 3 (1).pdf](../_materials/_sources/420-Week%201-Lecture%203%20(1).pdf)
-[2] *420-Week 1-Lecture 3*. (n.d.). [Lecture material] (pp. 9, 10, 11). [420-Week 1-Lecture 3.pdf](../_materials/_sources/420-Week%201-Lecture%203.pdf)
-[3] *420-Week 2-Lecture 1*. (n.d.). [Lecture material] (p. 1). [420-Week 2-Lecture 1.pdf](../_materials/_sources/420-Week%202-Lecture%201.pdf)
+[2] *420-Week 1-Lecture 3*. (n.d.). [Lecture material] (pp. 9, 10, 11). [420-Week 1-Lecture 3.pdf](420-Week%201-Lecture%203.pdf)
+[3] *420-Week 2-Lecture 1*. (n.d.). [Lecture material] (p. 1). [420-Week 2-Lecture 1.pdf](420-Week%202-Lecture%201.pdf)
 
 #mathematics #point-set-topology #exercise

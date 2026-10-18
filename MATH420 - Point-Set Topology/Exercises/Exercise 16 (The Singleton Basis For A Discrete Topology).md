@@ -14,6 +14,6 @@ Let $(X,\mathcal D)$ be the discrete space. Show that the class $\mathcal B=\{\{
 
 ###### Bibliography.
 
-[1] *420-Week 2-Lecture 2*. (n.d.). [Lecture material] (p. 6). [420-Week 2-Lecture 2.pdf](../_materials/_sources/420-Week%202-Lecture%202.pdf)
+[1] *420-Week 2-Lecture 2*. (n.d.). [Lecture material] (p. 6). [420-Week 2-Lecture 2.pdf](420-Week%202-Lecture%202.pdf)
 
 #mathematics #point-set-topology #exercise

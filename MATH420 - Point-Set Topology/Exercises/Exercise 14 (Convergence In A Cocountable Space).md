@@ -25,7 +25,7 @@ Let $(X,\mathcal T)$ be a cocountable topological space, and $(x_n)$ be a sequen
 
 ###### Bibliography.
 
-[1] *420-Week 2-Lecture 1*. (n.d.). [Lecture material] (pp. 9, 10). [420-Week 2-Lecture 1.pdf](../_materials/_sources/420-Week%202-Lecture%201.pdf)
-[2] *420-Week 2-Lecture 2*. (n.d.). [Lecture material] (p. 1). [420-Week 2-Lecture 2.pdf](../_materials/_sources/420-Week%202-Lecture%202.pdf)
+[1] *420-Week 2-Lecture 1*. (n.d.). [Lecture material] (pp. 9, 10). [420-Week 2-Lecture 1.pdf](420-Week%202-Lecture%201.pdf)
+[2] *420-Week 2-Lecture 2*. (n.d.). [Lecture material] (p. 1). [420-Week 2-Lecture 2.pdf](420-Week%202-Lecture%202.pdf)
 
 #mathematics #point-set-topology #exercise

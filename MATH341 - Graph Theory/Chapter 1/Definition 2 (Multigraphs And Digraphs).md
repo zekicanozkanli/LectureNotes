@@ -5,7 +5,7 @@
 
 i. A multigraph and a digraph.
 
-![Variants](_support/attachments/b4aca2c0-M-variants-518a6b26e1d2.svg)
+![Variants](b4aca2c0-M-variants-518a6b26e1d2.svg)
 
 ###### Bibliography.
 

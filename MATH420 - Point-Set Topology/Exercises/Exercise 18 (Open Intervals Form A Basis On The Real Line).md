@@ -13,7 +13,7 @@ Let $X=\mathbb R$ and $\mathcal B=\{(a,b)\mid a,b\in\mathbb R,\ a<b\}$. Show tha
 > Hence $\mathbb R=\bigcup\mathcal B$.
 > ii. Let $B_1=(a_1,b_1)$ and $B_2=(a_2,b_2)$ belong to $\mathcal B$, and let $x\in B_1\cap B_2$.
 
-![Intersection of the two supplied open intervals](../_support/attachments/66b4ba9f-M11-7b7fc398a6ef.svg)
+![Intersection of the two supplied open intervals](66b4ba9f-M11-7b7fc398a6ef.svg)
 
 > [!proof]
 > Set $a_3=\max\{a_1,a_2\}$ and $b_3=\min\{b_1,$ {$b_2$} $\}$. Then $x\in(a_3,b_3)\subseteq B_1\cap B_2$, with $(a_3,b_3)\in\mathcal B$. Therefore $\mathcal B$ is a base for $\mathcal T$.
@@ -22,6 +22,6 @@ The source writes $b_3=\min\{b_1,b_3\}$; the braced $b_2$ above is inferred from
 
 ###### Bibliography.
 
-[1] *420-Week 2-Lecture 3*. (n.d.). [Lecture material] (pp. 6, 7, 8). [420-Week 2-Lecture 3.pdf](../_materials/_sources/420-Week%202-Lecture%203.pdf)
+[1] *420-Week 2-Lecture 3*. (n.d.). [Lecture material] (pp. 6, 7, 8). [420-Week 2-Lecture 3.pdf](420-Week%202-Lecture%203.pdf)
 
 #mathematics #point-set-topology #exercise

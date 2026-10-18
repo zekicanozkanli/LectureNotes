@@ -4,7 +4,7 @@
 
 i. A union with overlapping labeled vertex sets.
 
-![Union](_support/attachments/b4aca2c0-M-union-fe74892c84e2.svg)
+![Union](b4aca2c0-M-union-fe74892c84e2.svg)
 
 ii. For unlabeled graphs, the union is taken to be disjoint, that is, we place them side by side.
 

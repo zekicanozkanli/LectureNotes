@@ -4,4 +4,4 @@
 
 [1] Pamuk M. (2026F). *Lecture*. 
 
-#mathematics #connectedness #definition
+#mathematics #computational-topology #definition

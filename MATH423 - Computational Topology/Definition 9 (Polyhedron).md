@@ -7,4 +7,4 @@ The complex $\mathcal K$ is a combinatorial object (a set of simplices), which m
 
 [1] Pamuk M. (2026F). *Lecture*. 
 
-#mathematics #simplicial-complexes #definition
+#mathematics #computational-topology #definition

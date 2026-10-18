@@ -4,11 +4,11 @@
 
 i. Small paths.
 
-![Paths](_support/attachments/b4aca2c0-M-paths-cba8f62897f7.svg)
+![Paths](b4aca2c0-M-paths-cba8f62897f7.svg)
 
 ii. Small cycles.
 
-![Cycles](_support/attachments/b4aca2c0-M-cycles-3e1798b71f1e.svg)
+![Cycles](b4aca2c0-M-cycles-3e1798b71f1e.svg)
 
 ###### Bibliography.
 

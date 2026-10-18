@@ -8,4 +8,5 @@ Two critical invariants are [[Definition 2 (Connectedness)]] and [[Definition 5 
 
 [1] Pamuk M. (2026F). *Lecture*. 
 
-#mathematics #topological-invariants #definition
+#mathematics #computational-topology #definition
+

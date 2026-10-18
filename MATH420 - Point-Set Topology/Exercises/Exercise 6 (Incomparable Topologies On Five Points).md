@@ -15,6 +15,6 @@ $$\mathcal T_2=\{\emptyset,X,\{a\},\{b\},\{a,b\}\}.$$
 
 ###### Bibliography.
 
-[1] *420-Week 1-Lecture 2*. (n.d.). [Lecture material] (p. 10). [420-Week 1-Lecture 2.pdf](../_materials/_sources/420-Week%201-Lecture%202.pdf)
+[1] *420-Week 1-Lecture 2*. (n.d.). [Lecture material] (p. 10). [420-Week 1-Lecture 2.pdf](420-Week%201-Lecture%202.pdf)
 
 #mathematics #point-set-topology #exercise

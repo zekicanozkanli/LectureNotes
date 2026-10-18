@@ -23,6 +23,6 @@ iv. Is there any subset of $X$ which is neither open nor closed?
 
 ###### Bibliography.
 
-[1] *420-Week 1-Lecture 1*. (n.d.). [Lecture material] (pp. 7, 8). [420-Week 1-Lecture 1.pdf](../_materials/_sources/420-Week%201-Lecture%201.pdf)
+[1] *420-Week 1-Lecture 1*. (n.d.). [Lecture material] (pp. 7, 8). [420-Week 1-Lecture 1.pdf](420-Week%201-Lecture%201.pdf)
 
 #mathematics #point-set-topology #exercise

@@ -15,6 +15,6 @@ i. If $X=\mathbb Z^+$, $\mathcal T$ is the trivial topology on $X$, and $(x_n)$ 
 
 ###### Bibliography.
 
-[1] *420-Week 2-Lecture 1*. (n.d.). [Lecture material] (pp. 6, 7). [420-Week 2-Lecture 1.pdf](../_materials/_sources/420-Week%202-Lecture%201.pdf)
+[1] *420-Week 2-Lecture 1*. (n.d.). [Lecture material] (pp. 6, 7). [420-Week 2-Lecture 1.pdf](420-Week%202-Lecture%201.pdf)
 
 #mathematics #point-set-topology #exercise

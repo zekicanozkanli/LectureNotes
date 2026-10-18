@@ -9,7 +9,7 @@
 
 i. In the graph below, $u,z,y,v,u,x,y,v$ is a $u-v$ walk of length $7$, while $u,x,y,v$ is a $u-v$ path of length $3$.
 
-![Walk example](_support/attachments/b4aca2c0-M-walk-example-8c930fc08167.svg)
+![Walk example](b4aca2c0-M-walk-example-8c930fc08167.svg)
 
 ###### Bibliography.
 
