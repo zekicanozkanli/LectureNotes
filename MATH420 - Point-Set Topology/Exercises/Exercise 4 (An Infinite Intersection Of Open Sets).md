@@ -4,8 +4,6 @@ We know that the intersection of finitely many open sets is open. But if we cons
 
 Let $X=\mathbb Z^+=\{1,2,3,4,\ldots\}$ and $\mathcal T$ be the [[Definition 3 (Cofinite Topology)]] on $X$. Consider $A_n=\{1,n,n+1,n+2,n+3,\ldots\}$ for $n=1,2,3,\ldots$. Show that $A_n\in\mathcal T$ for each $n$. Find $\bigcap_{n=1}^\infty A_n$. Is this intersection $\mathcal T$-open?
 
-^nt-a91d6d344080f381
-
 ###### Proof.
 
 > [!proof]

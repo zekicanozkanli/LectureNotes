@@ -2,8 +2,6 @@
 
 Let $(X,\mathcal T)$ and $(Y,\mathcal V)$ be two topological spaces. If $f:X\to Y$ is a constant function, show that $f$ is $\mathcal T$-$\mathcal V$ continuous.
 
-^nt-a3687c51595dc57e
-
 ###### Proof.
 
 > [!proof]

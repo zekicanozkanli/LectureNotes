@@ -4,8 +4,6 @@ Let $X=\{a,b,c,d,e\}$. Show that the following two topologies on $X$ are not com
 $$\mathcal T_1=\{\emptyset,X,\{a\},\{c,d\},\{a,c,d\},\{b,c,d,e\}\},$$
 $$\mathcal T_2=\{\emptyset,X,\{a\},\{b\},\{a,b\}\}.$$
 
-^nt-e5fc2bb4320e266a
-
 ###### Proof.
 
 > [!proof]

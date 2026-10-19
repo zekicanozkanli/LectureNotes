@@ -3,6 +3,8 @@
 > i. $\bigcup\mathcal B=X$.
 > ii. For every $B_1,B_2\in\mathcal B$ and every $x\in B_1\cap B_2$, there exists $B_3\in\mathcal B$ such that $x\in B_3\subseteq B_1\cap B_2$.
 
+>[!rem] *Remark.* $B_1$ and $B_2$ are members of $\mathcal B$, but they need not be distinct. For instance, let $(X, \mathcal D)$ be the discrete topology and $\mathcal B$ the collection of all singletons. Write $B_1 = \{a\}$ and $B_2 = \{b\}$. Then there are two cases: (i) if $a \neq b$, then the condition *(ii)* is automatically satisfied, (ii) if  $a=b$, choose $B_3 = \{a\}$.
+
 ###### Examples.
 > [!eg] Ex. 1: Nondegenerate closed intervals with rational endpoints fail the intersection condition and cannot form a basis (see [[Exercise 22 (Rational Closed Intervals)]]).
 

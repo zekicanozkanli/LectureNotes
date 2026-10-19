@@ -5,8 +5,6 @@ $$n\ge n_0\Rightarrow x_n=x_0.$$
 That is, $(x_n)$ is of the form
 $$(x_n)=(x_1,x_2,\ldots,x_{n_0-1},x_0,x_0,x_0,\ldots).$$
 
-^nt-90d78d445a97b6bf
-
 ###### Proof.
 
 > [!proof]
@@ -18,4 +16,4 @@ $$(x_n)=(x_1,x_2,\ldots,x_{n_0-1},x_0,x_0,x_0,\ldots).$$
 
 [1] *420-Week 2-Lecture 1*. (n.d.). [Lecture material] (pp. 8, 9). [420-Week 2-Lecture 1.pdf](420-Week%202-Lecture%201.pdf)
 
-#mathematics #point-set-topology #exercise
+#mathematics #point-set-topology #exercise #weak 

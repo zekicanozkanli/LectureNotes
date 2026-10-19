@@ -2,15 +2,10 @@
 
 Let $X=\{a,b,c\}$. Can the class $\mathcal B=\{\{a,b\},\{b,c\}\}$ be a base for a topology on $X$?
 
-^nt-195aad46563b69bd
-
 ###### Proof.
+> [!proof] No. If it were a base for some topology $\mathcal T$ on $X$, then $\{a,b\},\{b,c\}\in\mathcal T$. But since $\mathcal T$ is closed under finite intersections, $\{b\} = \{a,b\}\cap\{b,c\} \in\mathcal T$, which cannot be written as a union of members of $\mathcal B$.
 
-> [!proof]
-> No. If it were a base for a topology $\mathcal T$ on $X$, then $\{a,b\},\{b,c\}\in\mathcal T$, by [[Definition 12 (Basis For A Topology)]]. Because $\mathcal T$ is a topology on $X$,
-> $$\{a,b\}\cap\{b,c\}=\{b\}\in\mathcal T$$
-> by topology axiom ii in [[Definition 1 (Topological Space)]]. But then we would be able to express $\{b\}$ as a union of members of $\mathcal B$, which is impossible.
-
+>[!rem] Note that taking the union of no members of  $\mathcal B$ yields the empty set. Hence, a basis need not to contain the empty set.
 ###### Bibliography.
 
 [1] *420-Week 2-Lecture 2*. (n.d.). [Lecture material] (p. 7). [420-Week 2-Lecture 2.pdf](420-Week%202-Lecture%202.pdf)

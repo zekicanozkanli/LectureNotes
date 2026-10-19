@@ -2,12 +2,6 @@
 
 Let $(X,\mathcal T)$ be the indiscrete topological space, and $(x_n)$ be a sequence of points in $X$. Show that $(x_n)$ converges to every point $x$ in $X$.
 
-^nt-fdf49712f02a1e0b
-
-###### Examples.
-
-i. If $X=\mathbb Z^+$, $\mathcal T$ is the trivial topology on $X$, and $(x_n)$ is any sequence of points in $\mathbb Z^+$, then $x_n\to1$, $x_n\to2$, $x_n\to3$, $\ldots$ as $n\to\infty$.
-
 ###### Proof.
 
 > [!proof]

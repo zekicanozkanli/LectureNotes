@@ -11,14 +11,11 @@ iii. If any, find all nonempty proper subsets of $X$ which are both open and clo
 
 iv. Is there any subset of $X$ which is neither open nor closed?
 
-^nt-f1349acc7298bfc6
-
 ###### Proof.
 
 > [!proof]
-> ii. Recall [[Definition 2 (Closed Sets)]]: $A\subseteq X$ is closed, or equivalently $A\in\mathcal T_K$, iff $X\setminus A\in\mathcal T$. Thus
-> $$\mathcal T_K=\{X,\emptyset,\{b,c,d,e\},\{a,b,e\},\{b,e\},\{a\}\}.$$
-> iii. $\{a\}$ and $\{b,c,d,e\}$ are the only nonempty proper subsets of $X$ which are both open and closed.
+> ii. $\mathcal T_K=\{X,\emptyset,\{b,c,d,e\},\{a,b,e\},\{b,e\},\{a\}\}.$
+> iii. $\{a\}$ and $\{b,c,d,e\}$.
 > iv. $\{b,d\}\subseteq X$, but $\{b,d\}\notin\mathcal T\cup\mathcal T_K$. Thus $\{b,d\}$ is neither open nor closed.
 
 ###### Bibliography.

@@ -2,8 +2,6 @@
 
 Let $\{\mathcal T_i\}_{i\in I}$ be any collection of topologies on a nonempty set $X$. Show that $\mathcal T=\bigcap_{i\in I}\mathcal T_i$ is a topology on $X$.
 
-^nt-d8d0e54db1e8f22d
-
 ###### Proof.
 
 > [!proof]

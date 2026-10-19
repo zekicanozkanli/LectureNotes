@@ -12,7 +12,7 @@ In other words, in a topological space continuity implies sequential continuity,
 
 ###### Proof.
 
-The supplied lecture leaves the proof as an exercise: [[Exercises/Exercise 15 (Proving That Continuous Functions Preserve Convergence)]].
+see exercise: [[Exercises/Exercise 15 (Proving That Continuous Functions Preserve Convergence)]].
 
 ###### Bibliography.
 

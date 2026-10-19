@@ -2,8 +2,6 @@
 
 Let $(X,\mathcal T)$ and $(Y,\mathcal V)$ be cofinite topological spaces, and let $f:X\to Y$ be a nonconstant function. Show that $f:X\to Y$ is $\mathcal T$-$\mathcal V$ continuous iff $f^{-1}(\{y\})$ is finite for every $y\in Y$.
 
-^nt-455a58de9d3f82ed
-
 ###### Proof.
 
 > [!proof]
@@ -20,4 +18,4 @@ Let $(X,\mathcal T)$ and $(Y,\mathcal V)$ be cofinite topological spaces, and le
 [1] *420-Week 1-Lecture 3 (1)*. (n.d.). [Lecture material] (pp. 6, 7). [420-Week 1-Lecture 3 (1).pdf](../_materials/_sources/420-Week%201-Lecture%203%20(1).pdf)
 [2] *420-Week 1-Lecture 3*. (n.d.). [Lecture material] (pp. 6, 7). [420-Week 1-Lecture 3.pdf](420-Week%201-Lecture%203.pdf)
 
-#mathematics #point-set-topology #exercise
+#mathematics #point-set-topology #exercise #weak
