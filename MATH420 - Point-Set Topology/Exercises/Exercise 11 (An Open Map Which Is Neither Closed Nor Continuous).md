@@ -16,7 +16,9 @@ ii. Is $f$ a closed function?
 
 iii. Is $f$ a continuous function?
 
-^nt-5f5e0dbe0a0d714b
+>[!rem] Note that a function $g$ is allowed to take $z \in Y$, but $\{z\} \notin \mathcal V$. Writing $f: (X, \mathcal T) \to (Y, \mathcal V)$ does also *not* mean that, it is just a spesification. The concept of *open function* forces that.
+
+
 
 ###### Proof.
 

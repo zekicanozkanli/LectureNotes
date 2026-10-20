@@ -1,5 +1,5 @@
 # Exercise 8 (Continuity Of Constant Functions)
-
+ 
 Let $(X,\mathcal T)$ and $(Y,\mathcal V)$ be two topological spaces. If $f:X\to Y$ is a constant function, show that $f$ is $\mathcal T$-$\mathcal V$ continuous.
 
 ###### Proof.

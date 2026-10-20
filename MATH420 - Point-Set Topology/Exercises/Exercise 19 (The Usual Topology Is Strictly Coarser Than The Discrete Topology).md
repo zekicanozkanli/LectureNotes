@@ -2,8 +2,6 @@
 
 Let $X=\mathbb R$, and let $\mathcal D$ and $\mathcal T$ be the discrete topology and the usual topology on $\mathbb R$, respectively. Show that $\mathcal T\subsetneq\mathcal D$.
 
-^nt-1a47de6c481ae198
-
 ###### Proof.
 
 > [!proof]

@@ -1,5 +1,5 @@
 
-> [!ex] [[Exercise 26 (Uniqueness from a Common Subbase)]]: If $\mathcal S$ is a subbase for two topologies $\mathcal T$ and $\mathcal T\prime$ on $X$, show that $\mathcal T=\mathcal T\prime$.
+> [!ex] [[Exercise 26 (Uniqueness from a Common Subbase)]]: If $\mathcal S$ is a subbase for two topologies $\mathcal T$ and $\mathcal T'$ on $X$, show that $\mathcal T=\mathcal T'$.
 
 ###### Proof.
 > [!pf] *Proof.* The result follows from [[Theorem 5 (Coarsest Topology Containing a Subbase)]] applied in both directions.$\blacksquare$

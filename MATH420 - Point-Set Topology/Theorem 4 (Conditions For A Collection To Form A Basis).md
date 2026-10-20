@@ -6,7 +6,7 @@
 >[!rem] *Remark.* $B_1$ and $B_2$ are members of $\mathcal B$, but they need not be distinct. For instance, let $(X, \mathcal D)$ be the discrete topology and $\mathcal B$ the collection of all singletons. Write $B_1 = \{a\}$ and $B_2 = \{b\}$. Then there are two cases: (i) if $a \neq b$, then the condition *(ii)* is automatically satisfied, (ii) if  $a=b$, choose $B_3 = \{a\}$.
 
 ###### Examples.
-> [!eg] Ex. 1: Nondegenerate closed intervals with rational endpoints fail the intersection condition and cannot form a basis (see [[Exercise 22 (Rational Closed Intervals)]]).
+> [!eg] Ex. 1: Nondegenerate closed intervals with rational endpoints fail the intersection condition and cannot form a basis (see [[Exercise 22 (Rational Closed Intervals cannot be a Basis)]]).
 
 ###### Proof.
 > [!pf] *Proof.* ($\Rightarrow$) First suppose that $\mathcal B$ is a base for $\mathcal T$.
