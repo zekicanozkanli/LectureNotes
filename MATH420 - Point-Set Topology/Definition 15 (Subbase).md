@@ -3,8 +3,9 @@
 > 
 
 To be super clear, define $$\mathcal S^{\cap}=\left\{\bigcap\mathcal S'\mid\mathcal S'\subseteq\mathcal S,\ \mathcal S'\text{ finite}\right\},$$ 
-that is, take every possible finite subclass $\mathcal S'$ of $\mathcal S$, take the intersection of all members of each $\mathcal S'$, and collect them to form $\mathcal S^{\cap}$, with the convention* $\bigcap \emptyset = X$ (by letting the index set $I=\emptyset$). Then $\mathcal S$ is a subbase for $\mathcal T$ if and only if $\mathcal S^{\cap}$ is a basis for $\mathcal T$.
-Equivalently, for every $U\in\mathcal T$ and every $x\in U$, there are finitely many $S_1,\ldots,S_n\in\mathcal S$ such that $x\in S_1\cap\cdots\cap S_n\subseteq U$.
+that is, take every possible finite subclass $\mathcal S'$ of $\mathcal S$, take the intersection of all members of each $\mathcal S'$, and collect them to form $\mathcal S^{\cap}$, with the convention* $\bigcap \emptyset = X$. Then $\mathcal S$ is a subbase for $\mathcal T$ if and only if $\mathcal S^{\cap}$ is a basis for $\mathcal T$. Equivalently, for every $U\in\mathcal T$ and every $x\in U$, there are finitely many $S_1,\ldots,S_n\in\mathcal S$ such that $x\in S_1\cap\cdots\cap S_n\subseteq U$.
+
+Every $F\in\mathcal S$ belongs to $\mathcal S^{\cap}$. Moreover, for every $n$ and every choice of $F_1,\ldots,F_n\in\mathcal S$, the intersection $F_1\cap\cdots\cap F_n$ belongs to $\mathcal S^{\cap}$. The empty intersection $X$ also belongs to $\mathcal S^{\cap}$.
 
 ($*$): For an indexed family $\{A_i\}_{i \in I}$ of subsets of $X$, we have $\bigcap_{i \in \emptyset}A_i = X$. 
 ###### Motivation.
@@ -33,7 +34,10 @@ A class $\mathcal S$ of subsets of a nonempty set $X$ may fail to be a basis, bu
 
 > [!eg] Ex. 4: The left and right open rays form a subbase for the usual topology (see [[Exercise 27 (Open Rays as a Subbase)]]).
 
-> [!eg] Ex. 5: Every basis is a subbase (see [[Exercise 45 (Every Basis Is a Subbase)]]).
+> [!eg] Ex. 5: (see [[Exercise 28 (A Generated Four-Point Topology)]]).
+
+> [!eg] Ex. 6: Every basis is a subbase (see [[Exercise 45 (Every Basis Is a Subbase)]]).
+
 
 ###### Dependencies.
 - [[Definition 1 (Topological Space)]]
