@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="500" viewBox="0 0 1000 500" role="img" aria-labelledby="title description">
+  <title id="title">A continuous bijection whose inverse is not continuous</title>
+  <desc id="description">X contains a, b, c and has topology {empty set, X, {a}}. Y contains p, q, r and has the indiscrete topology {empty set, Y}. The function f sends a to p, b to q, and c to r.</desc>
+  <defs>
+    <marker id="arrow" markerUnits="userSpaceOnUse" markerWidth="13" markerHeight="12" viewBox="0 0 13 12" refX="11" refY="6" orient="auto">
+      <path d="M 2 2 L 11 6 L 2 10" fill="none" stroke="#23648c" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+    <style>
+      .boundary {fill:none;stroke:#23648c;stroke-width:2.3;}
+      .mapping {fill:none;stroke:#23648c;stroke-width:2.2;marker-end:url(#arrow);}
+      .point {fill:#23648c;}
+      .label {font-family:'Times New Roman','Liberation Serif',serif;font-size:30px;fill:#172c3b;}
+      .set-label {font-size:36px;font-style:italic;text-anchor:middle;}
+      .topology {font-family:'STIX Two Math','Cambria Math','Apple Symbols','Times New Roman',serif;font-size:29px;text-anchor:middle;fill:#172c3b;}
+    </style>
+  </defs>
+  <rect width="1000" height="500" fill="white"/>
+  <ellipse class="boundary" cx="250" cy="250" rx="112" ry="150"/>
+  <ellipse class="boundary" cx="750" cy="250" rx="112" ry="150"/>
+  <text class="label set-label" x="250" y="73">X</text>
+  <text class="label set-label" x="750" y="73">Y</text>
+  <path class="mapping" d="M 385 83 Q 500 40 615 83"/>
+  <text class="label set-label" x="500" y="48">f</text>
+  <g id="a-to-p">
+    <path class="mapping" d="M 266 160 L 728 160"/>
+    <circle class="point" cx="260" cy="160" r="4.5"/>
+    <circle class="point" cx="740" cy="160" r="4.5"/>
+    <text class="label" x="225" y="169" text-anchor="end" font-style="italic">a</text>
+    <text class="label" x="774" y="169" font-style="italic">p</text>
+  </g>
+  <g id="b-to-q">
+    <path class="mapping" d="M 266 250 L 728 250"/>
+    <circle class="point" cx="260" cy="250" r="4.5"/>
+    <circle class="point" cx="740" cy="250" r="4.5"/>
+    <text class="label" x="225" y="259" text-anchor="end" font-style="italic">b</text>
+    <text class="label" x="774" y="259" font-style="italic">q</text>
+  </g>
+  <g id="c-to-r">
+    <path class="mapping" d="M 266 340 L 728 340"/>
+    <circle class="point" cx="260" cy="340" r="4.5"/>
+    <circle class="point" cx="740" cy="340" r="4.5"/>
+    <text class="label" x="225" y="349" text-anchor="end" font-style="italic">c</text>
+    <text class="label" x="774" y="349" font-style="italic">r</text>
+  </g>
+  <text class="topology" x="250" y="455">𝒯 = {∅, X, {a}}</text>
+  <text class="topology" x="750" y="455">𝒱 = {∅, Y}</text>
+</svg>

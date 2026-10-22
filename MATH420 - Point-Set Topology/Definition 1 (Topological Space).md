@@ -26,17 +26,19 @@ The motivation is to capture the behavior of open sets, without the necessity of
 > [!eg] Ex. 7: Let $(X,\mathcal T_1)$ and $(X,\mathcal T_2)$ be topological spaces and $\mathcal T=\mathcal T_1\cup\mathcal T_2$. Then, in general, $(X, \mathcal T)$ does not form a topology.
 > Counter-example: Let $X=\{a,b,c\}$, $\mathcal T_1=\{\emptyset,\{a\},X\}$ and $\mathcal T_2=\{\emptyset,\{b\},X\}$. Then $\mathcal T_1$ and $\mathcal T_2$ are topologies on $X$, and $\mathcal T=\mathcal T_1\cup\mathcal T_2=\{\emptyset,\{a\},\{b\},X\}.$ In that case, $\{a\},\{b\}\in\mathcal T$, $\{a\}\cup\{b\}=\{a,b\}\notin\mathcal T$. Hence, $\mathcal T$ is not a topology on $X$.
 
-> [!eg] Ex. 8: The class of sets containing a fixed $A$, together with $\emptyset$, is a topology; the requested closed-set description and special cases are {unresolved} (see [[Exercise 37 (Topology Containing a Fixed Subset)]]).
+> [!eg] Ex. 8: The class of sets containing a fixed $A\subseteq X$, together with $\emptyset$, is a topology on $X$. Its closed sets are $X$ and all subsets of $X\setminus A$. It is the discrete topology when $A=\emptyset$ and the indiscrete topology when $A=X$ (see [[Exercise 37 (Topology Containing a Fixed Subset)]]).
 
 > [!eg] Ex. 9: The excluded point class is a topology (see [[Exercise 39 (Excluded Point Topology)]]).
 
-> [!eg] Ex. 10: The complete list of topologies on two points is {unresolved} (see [[Exercise 32 (Topologies on Two Points)]]).
+> [!eg] Ex. 10: There are exactly four topologies on a two-point set: the indiscrete topology, the discrete topology, and the two topologies obtained by adjoining exactly one singleton to the indiscrete topology (see [[Exercise 32 (Topologies on Two Points)]]).
 
-> [!eg] Ex. 11: The complete list of topologies on three points is {unresolved} (see [[Exercise 33 (Topologies on Three Points)]]).
+> [!eg] Ex. 11: There are exactly $29$ topologies on a three-point set (see [[Exercise 33 (Topologies on Three Points)]]).
 
-> [!eg] Ex. 12: The requested coincidence comparisons are {unresolved} (see [[Exercise 36 (Coincidence of Complement Topologies)]]).
+> [!eg] Ex. 12: Fix $A\subseteq X$. Then $\mathcal T=\{\emptyset\}\cup\{U\subseteq X\mid A\subseteq U\}$ is a topology on $X$. And all $\mathcal T$-closed subsets of $X$ are either $X$ or $F$ such that $F \cap A = \emptyset$. (see, [[Exercise 37 (Topology Containing a Fixed Subset)]])
 
-> [!eg] Ex. 13: Whether the left-ray class is a topology is {unresolved} (see [[Exercise 38 (Topology of Left Open Rays)]]).
+> [!eg] Ex. 13: The collection $\{\emptyset,\mathbb R\}\cup\{(-\infty,a):a\in\mathbb R\}$ is a topology on $\mathbb R$ (see [[Exercise 38 (Topology of Left Open Rays)]]).
+
+>[!eg] Ex. 14: Let $X$ be a set and fix $x_0\in X$. Then $\mathcal T=\{\emptyset,X\}\cup\{U\subseteq X\mid x_0\notin U\}$ is a topology on $X$. (see, [[Exercise 39 (Excluded Point Topology)]])
 
 ###### References.
 [1] Talu (2026 Fall) *Lecture*.

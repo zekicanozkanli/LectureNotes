@@ -12,7 +12,7 @@
 
 > [!eg] Ex. 4: The map $f(a)=f(b)=f(c)=c$, $f(d)=a$ is continuous in the displayed four-point topology (see [[Exercise 30 (Continuity from Three Subbasic Preimages)]]).
 
-> [!eg] Ex. 5: A requested continuous bijection with discontinuous inverse is {unresolved} (see [[Exercise 40 (Continuous Bijection without Continuous Inverse)]]).
+> [!eg] Ex. 5: The bijection $f(a)=p$, $f(b)=q$, $f(c)=r$ from $X=\{a,b,c\}$ with $\mathcal T=\{\emptyset,X,\{a\}\}$ to $Y=\{p,q,r\}$ with $\mathcal V=\{\emptyset,Y\}$ is continuous, but its inverse is not continuous (see [[Exercise 40 (Continuous Bijection without Continuous Inverse)]]).
 
 > [!eg] Ex. 6: A requested continuous map that is not open is {unresolved} (see [[Exercise 41 (Continuous Map Failing Openness)]]).
 
