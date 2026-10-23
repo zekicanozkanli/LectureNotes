@@ -3,9 +3,9 @@
 > i. $\emptyset,X\in\mathcal T.$
 > ii. For every indexed family $(U_i)_{i \in I} \in \mathcal T$, 
 > $$
->\bigcup_{i \in I}U_i \in \mathcal T.
->\qquad \textit{(closure under arbitrary unions)}
->$$
+> \bigcup_{i \in I}U_i \in \mathcal T.
+> \qquad \textit{(closure under arbitrary unions)}
+> $$
 > iii. For every $n \geq 1$ and every $U_1, \dots, U_n \in \mathcal T$, $$\bigcap_{i=1}^{n}U_i \in \mathcal T. \qquad \textit{(closure under finite intersections)} $$ 
 > The pair $(X, \mathcal T)$ is called a **topological space**, and the members of  $\mathcal T$ are called $\mathcal T$-open sets.
 ###### Motivation.
