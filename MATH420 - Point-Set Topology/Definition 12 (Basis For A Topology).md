@@ -8,11 +8,11 @@
 
 > [!eg] Ex. 3: Every class $\mathcal B\prime$ with $\mathcal B\subseteq\mathcal B\prime\subseteq\mathcal T$ remains a basis for $\mathcal T$ (see [[Exercise 23 (Enlarging a Basis)]]).
 
-> [!eg] Ex. 4: Topology inclusion is equivalent to the stated pointwise refinement of their bases (see [[Exercise 24 (Comparing Topologies via Bases)]]).
+> [!eg] Ex. 4: Topology inclusion is equivalent to the stated pointwise refinement of their bases (see [[Exercise 24 (Comparing Topologies via Local Characterization)]]).
 
 > [!eg] Ex. 5: The intervals $[a,b)$ form a basis for the lower-limit topology; its requested comparison with the usual topology is {unresolved} (see [[Exercise 42 (Lower-Limit Basis and Comparison)]]).
 
-> [!eg] Ex. 6: The requested answers for rectangles, equilateral triangles, and squares are {unresolved} (see [[Exercise 44 (Geometric Bases in the Plane)]]).
+> [!eg] Ex. 6: Open rectangles and open squares with sides parallel to the coordinate axes, and open equilateral triangles, each form a basis for the usual topology on $\mathbb R^2$ (see [[Exercise 44 (Geometric Bases in the Plane)]]).
 
 ###### Dependencies.
 - [[Definition 1 (Topological Space)]]

@@ -1,6 +1,8 @@
 
 > [!ex] [[Exercise 45 (Every Basis Is a Subbase)]]: Let $(X,\mathcal T)$ be a topological space and let $\mathcal B$ be a basis for $\mathcal T$. Show that $\mathcal B$ is a subbase for $\mathcal T$.
 
+###### Proof.
+Use [[Exercise 23 (Enlarging a Basis)]].
 ###### Dependencies.
 - [[Definition 1 (Topological Space)]]
 - [[Definition 12 (Basis For A Topology)]]

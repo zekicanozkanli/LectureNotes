@@ -1,12 +1,13 @@
 
 > [!def] [[Definition 1 (Topological Space)]]: Let $X$ be a nonempty set. A collection $\mathcal T$ of subsets of $X$ is called a **topology** on $X$ if it satisfies
 > i. $\emptyset,X\in\mathcal T.$
-> ii. For every indexed family $(U_i)_{i \in I} \in \mathcal T$, $$\bigcup_{i \in I}U_i \in \mathcal T. \qquad \textit{(closure under arbitrary unions)} $$
+> ii. For every indexed family $(U_i)_{i \in I} \in \mathcal T$, 
+> $$
+>\bigcup_{i \in I}U_i \in \mathcal T.
+>\qquad \textit{(closure under arbitrary unions)}
+>$$
 > iii. For every $n \geq 1$ and every $U_1, \dots, U_n \in \mathcal T$, $$\bigcap_{i=1}^{n}U_i \in \mathcal T. \qquad \textit{(closure under finite intersections)} $$ 
 > The pair $(X, \mathcal T)$ is called a **topological space**, and the members of  $\mathcal T$ are called $\mathcal T$-open sets.
-
-> [!rem] Members of $X$ are called points.
-
 ###### Motivation.
 The motivation is to capture the behavior of open sets, without the necessity of a notion of distance. Start with $\mathbb R$. A set $U \subseteq \mathbb R$  is open when every $x \in U$ has a neighborhood inside $U$, that is, $\forall x\in U,\ \exists\varepsilon>0 :\ (x-\varepsilon, x+\varepsilon)\subseteq U.$ The above axioms preserve this property. Note that for the (iii), we require finite intersections, as countable intersection can shrink to zero, for instance, $\bigcap_{n=1}^{\infty} \left(-\frac1n,\frac1n\right)=\{0\} \notin \mathcal T.$ One may choose usual topology when numerical approximation matters, and may choose discrete topology when exact states matters.
 

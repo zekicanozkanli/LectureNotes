@@ -7,7 +7,7 @@
 - [[Definition 12 (Basis For A Topology)]]
 - [[Proposition 6 (Local Characterization Of A Basis)]]
 - [[Theorem 4 (Conditions For A Collection To Form A Basis)]]
-- [[Exercise 24 (Comparing Topologies via Bases)]]
+- [[Exercise 24 (Comparing Topologies via Local Characterization)]]
 
 ###### References.
 [1] Talu (2026 Fall) *Lecture*.
