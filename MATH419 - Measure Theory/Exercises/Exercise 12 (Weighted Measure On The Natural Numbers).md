@@ -1,15 +1,15 @@
-# Exercise 12 (Weighted Measure On The Natural Numbers)
 
-^nt-6358c2affd18bd12
+> [!ex] [[Exercise 12 (Weighted Measure On The Natural Numbers)]]: Let $X=\mathbb N$, $\mathcal A=\mathcal P(\mathbb N)$, and $(a_n)$ be nonnegative real numbers. Define
+> $$\mu(\emptyset)=0,\qquad \mu(E)=\sum_{n\in E}a_n\quad(E\ne\emptyset).$$
+> Show that $\mu$ is a measure. See [[Definition 3.1 (Measure)]] and [[Definition 1 (Extended Nonnegative Real Axis)]].
 
-###### Statement.
+###### Dependencies.
+- [[Definition 3.1 (Measure)]]
+- [[Definition 1 (Extended Nonnegative Real Axis)]]
 
-Let $X=\mathbb N$, $\mathcal A=\mathcal P(\mathbb N)$, and $(a_n)$ be nonnegative real numbers. Define
-$$\mu(\emptyset)=0,\qquad \mu(E)=\sum_{n\in E}a_n\quad(E\ne\emptyset).$$
-Show that $\mu$ is a measure. See [[Definition 10 (Measure)]] and [[Definition 1 (Extended Nonnegative Real Axis)]].
+###### References.
+[1] Benli (2026 Fall) *Lecture* (pp. 13 (13)).
 
-###### Bibliography.
-
-[1] Benli, G. (2026, October 6). *MATH 419 measure theory lecture notes* (Version 11:23, p. 13). METU. [PDF](../_support/attachments/f5a9662d-M1-2d6fc175de0e.pdf).
+[2] Benli, G. (2026, October 22). *MATH 419 measure theory lecture notes* (Version 09:32). METU. [[Math419 Notes.pdf]]. Source location: Section 3.1.1(x).
 
 #mathematics #measure-theory #exercise

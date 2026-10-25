@@ -1,13 +1,14 @@
-# Exercise 14 (Compact Inner Approximation In The Finite Case)
 
-^nt-bfb9d600bf561c58
+> [!ex] [[Exercise 14 (Compact Inner Approximation In The Finite Case)]]: For measurable $E$ with finite measure, prove [[Corollary T8.1 (Compact Inner Approximation)]] using [[Theorem 8 (Measurability by Compact Approximation)]] and an argument similar to [[Corollary T7.1 (Closed Inner Approximation)]]. This is the finite case left as an exercise in the source.
 
-###### Statement.
+###### Dependencies.
+- [[Theorem 8 (Measurability by Compact Approximation)]]
+- [[Corollary T7.1 (Closed Inner Approximation)]]
+- [[Corollary T8.1 (Compact Inner Approximation)]]
 
-For measurable $E$ with finite measure, prove [[Theorem 8 (Finite-Measure Measurability By Compact Approximation)#^nt-2bbd6b6cc510e2ac|Corollary 3 (Inner Approximation By Compact Sets)]] using [[Theorem 8 (Finite-Measure Measurability By Compact Approximation)]] and an argument similar to [[Theorem 7 (Measurability By Closed Approximation)#^nt-b148c7e977f29c0d|Corollary 2 (Inner Approximation By Closed Sets)]]. This is the finite case left as an exercise in the source.
+###### References.
+[1] Benli (2026 Fall) *Lecture* (pp. 26 (26)).
 
-###### Bibliography.
-
-[1] Benli, G. (2026, October 6). *MATH 419 measure theory lecture notes* (Version 11:23, p. 26). METU. [PDF](../_support/attachments/f5a9662d-M1-2d6fc175de0e.pdf).
+[2] Benli, G. (2026, October 22). *MATH 419 measure theory lecture notes* (Version 09:32). METU. [[Math419 Notes.pdf]].
 
 #mathematics #measure-theory #exercise
