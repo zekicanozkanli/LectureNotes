@@ -1,6 +1,7 @@
 
 > [!thm] [[Theorem 6 (Banach-Tarski)]]: The unit ball $B=\{(x,y,z)\in\mathbb R^3:x^2+y^2+z^2\le1\}$ has a finite disjoint decomposition $B=A_1\sqcup\cdots\sqcup A_n\sqcup B_1\sqcup\cdots\sqcup B_m$ such that translations or rotations $T_1,\ldots,T_n,S_1,\ldots,S_m$ give $B=\bigcup_{i=1}^nT_i(A_i)$ and $B=\bigcup_{j=1}^mS_j(B_j)$. In this way the pieces can be reassembled into two disjoint copies of the original ball.
 
+###### Proof.
 > [!rem] The theorem was proved by Banach and Tarski in 1924 and relies on the axiom of choice. The lecture also states that in $\mathbb R^n$, $n\ge3$, any two bounded subsets with nonempty interiors can be transformed into one another in the same fashion. The supplied proof reference is a [video outline](https://www.youtube.com/watch?v=s86-Z-CbaHA&t=6s); no proof is given in the PDF.
 
 ###### Motivation.

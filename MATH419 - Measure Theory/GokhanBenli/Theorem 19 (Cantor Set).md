@@ -11,7 +11,7 @@
 >  Every number in $[0,1]$ has a binary expansion, so $f$ is onto. Consequently $C$ is uncountable.$\blacksquare$
 
 ###### Dependencies.
-- [[Definition 24 (Middle-Thirds Cantor Set)]]
+- [[Definition 24 (Cantor Set - Middle-Thirds)]]
 - [[Lemma 2 (Continuity of Measures)]]
 - [[Theorem 12 (Measurability of Cells)]]
 - [[Corollary L5.1 (Borel Sets Are Lebesgue Measurable)]]

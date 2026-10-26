@@ -4,7 +4,9 @@
 > \sum_{(n,m)\in\mathbb N^+\times\mathbb N^+}a_{n,m}=\sum_{n=1}^{\infty}\sum_{m=1}^{\infty}a_{n,m}=\sum_{m=1}^{\infty}\sum_{n=1}^{\infty}a_{n,m}.
 > $$
 
-> [!rem] The lecture refers to Tao for a proof and supplies none.
+
+###### Proof. 
+The lecture refers to Tao for a proof and supplies none.
 
 ###### Dependencies.
 - [[Definition 1 (Extended Nonnegative Real Numbers)]]

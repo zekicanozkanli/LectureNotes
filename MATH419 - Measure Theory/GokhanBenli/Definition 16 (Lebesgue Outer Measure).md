@@ -9,6 +9,8 @@
 ###### Motivation.
 Cover a set by countably many cells, use their total volume as an *upper approximation*, and take the infimum over all covers. This resembles upper Riemann sums. A disk need not be a finite union of cells, and any extension must be independent of a chosen decomposition; countable covers provide a way beyond finite unions.
 
+Eğer amacımız Lebesgue measure’ın domain’ini bütün subsets’e genişletmekse, doğal construction Lebesgue outer measure’dır
+
 ###### Examples.
 > [!eg] Ex. 1: Requiring all covering cells to have diameter less than any fixed positive $\delta$ leaves the outer measure unchanged. (see [[Exercise 13 (Outer Measure Using Small Cells)]]).
 

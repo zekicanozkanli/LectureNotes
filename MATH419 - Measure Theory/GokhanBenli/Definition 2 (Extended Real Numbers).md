@@ -5,8 +5,8 @@
 > iii. $x\cdot(\mp\infty)=\mp\infty$ for $x\in(0,\infty]$, and $x\cdot(\mp\infty)=\pm\infty$ for $x\in[-\infty,0)$.
 > iv. $0\cdot(\mp\infty)=0$.
 
-> [!rem] The expression $\infty+(-\infty)=\infty-\infty$ is not defined. Every subset of $\overline{\mathbb R}$ has a unique supremum, meaning least upper bound, and infimum, meaning greatest lower bound. The lecture states that the supremum is $\infty$ if and only if the set is not bounded above, and the infimum is $-\infty$ if and only if it is not bounded below.
-
+> [!rem] The expression $\infty+(-\infty)=\infty-\infty$ is not defined.
+> 
 ###### Dependencies.
 - [[Definition 1 (Extended Nonnegative Real Numbers)]]
 
