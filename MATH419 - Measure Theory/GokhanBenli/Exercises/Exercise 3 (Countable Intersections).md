@@ -1,6 +1,15 @@
 
 > [!ex] [[Exercise 3 (Countable Intersections)]]: Show that a $\sigma$-algebra is closed under countable intersections: if $A_n\in\mathcal A$ for all $n$, then $\bigcap_{n=1}^{\infty}A_n\in\mathcal A$.
 
+###### Proof.
+> [!pf] *Proof.* Let $A_1,A_2,\ldots\in\mathcal A$. Since $\mathcal A$ is closed under complements and countable unions, $\bigcup_{n=1}^{\infty}A_n^c\in\mathcal A$. Taking the complement and applying De Morgan's law gives
+>
+> $$
+> \left(\bigcup_{n=1}^{\infty}A_n^c\right)^c=\bigcap_{n=1}^{\infty}A_n\in\mathcal A.
+> $$
+>
+> Thus $\mathcal A$ is closed under countable intersections. $\blacksquare$
+
 ###### Dependencies.
 - [[Definition 7 (Sigma-Algebra)]]
 

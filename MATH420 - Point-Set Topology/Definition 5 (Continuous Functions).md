@@ -16,6 +16,8 @@
 
 > [!eg] Ex. 6: A requested continuous map that is not open is {unresolved} (see [[Exercise 41 (Continuous Map Failing Openness)]]).
 
+> [!eg] Ex. 7: For continuous $f:X\to\mathbb R$, whether $\{x\in X\mid f(x)=0\}$ is closed is {unresolved} in the supplied solutions (see [[Exercise 51 (Zero Sets of Continuous Functions)]]).
+
 ###### Dependencies.
 - [[Definition 1 (Topological Space)]]
 
@@ -26,5 +28,6 @@
 [4] *420-Week 1-Lecture 3*. (n.d.). [Lecture material] (pp. 4, 6, 9). [[_materials/420-Week 1-Lecture 3.pdf]]
 [5] [[_attachments/420-Week 3-Lecture 3.pdf]] (pp. 76 (4), 77 (5)).
 [6] [[_attachments/420-Exercise Set 1.pdf]] (pp. 1 (1)).
+[7] [[_attachments/420-Exercise Set 3.pdf]] (pp. 2 (2)).
 
 #mathematics #point-set-topology #definition

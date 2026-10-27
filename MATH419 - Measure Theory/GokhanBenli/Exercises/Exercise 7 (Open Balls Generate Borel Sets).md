@@ -10,4 +10,4 @@
 
 [2] Benli, G. (2026, October 22). *MATH 419 measure theory lecture notes* (Version 09:32). METU. [[MATH419 - Measure Theory/_attachments/Math419 Notes.pdf]]. Source locations: Section 3.1.1(5).
 
-#mathematics #measure-theory #exercise
+#mathematics #measure-theory #exercise #weak 

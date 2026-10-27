@@ -2,20 +2,17 @@
 > [!def] [[Definition 1 (Topological Space)]]: Let $X$ be a nonempty set. A collection $\mathcal T$ of subsets of $X$ is called a **topology** on $X$ if it satisfies
 > i. $\emptyset,X\in\mathcal T.$
 > ii. For every indexed family $(U_i)_{i \in I} \in \mathcal T$,
->
 > $$
 > \bigcup_{i \in I}U_i \in \mathcal T.
 > \qquad \textit{(closure under arbitrary unions)}
 > $$
->
 > iii. For every $n \geq 1$ and every $U_1, \dots, U_n \in \mathcal T$,
->
 > $$
 > \bigcap_{i=1}^{n}U_i \in \mathcal T.
 > \qquad \textit{(closure under finite intersections)}
 > $$
->
 > The pair $(X, \mathcal T)$ is called a **topological space**, and the members of  $\mathcal T$ are called $\mathcal T$-open sets.
+
 ###### Motivation.
 The motivation is to capture the behavior of open sets, without the necessity of a notion of distance. Start with $\mathbb R$. A set $U \subseteq \mathbb R$  is open when every $x \in U$ has a neighborhood inside $U$, that is, $\forall x\in U,\ \exists\varepsilon>0 :\ (x-\varepsilon, x+\varepsilon)\subseteq U.$ The above axioms preserve this property. Note that for the (iii), we require finite intersections, as countable intersection can shrink to zero, for instance, $\bigcap_{n=1}^{\infty} \left(-\frac1n,\frac1n\right)=\{0\} \notin \mathcal T.$ One may choose usual topology when numerical approximation matters, and may choose discrete topology when exact states matters.
 
@@ -49,8 +46,15 @@ The motivation is to capture the behavior of open sets, without the necessity of
 
 >[!eg] Ex. 14: Let $X$ be a set and fix $x_0\in X$. Then $\mathcal T=\{\emptyset,X\}\cup\{U\subseteq X\mid x_0\notin U\}$ is a topology on $X$. (see, [[Exercise 39 (Excluded Point Topology)]])
 
+> [!eg] Ex. 15: For $X=\{a,b,c,d\}$ with excluded point $c$, the requested open sets, closed sets, and set operations are {unresolved} in the supplied material (see [[Exercise 52 (Excluded Point Set Operations)]]).
+
+> [!eg] Ex. 16: The class $\mathcal T=\{\emptyset\}\cup\{U\subseteq X\mid x_0\in U\}$ is called the included point or particular point topology; the requested proof and computations on $\mathbb Q$ are {unresolved} (see [[Exercise 55 (Integers in Particular Point Topology)]]).
+
+> [!eg] Ex. 17: The requested closed sets, convergence description, and computations on $\mathbb R$ for the particular point topology are {unresolved} (see [[Exercise 56 (Particular Point Topology Computations)]]).
+
 ###### References.
 [1] Talu (2026 Fall) *Lecture*.
 [2] [[_attachments/420-Exercise Set 1.pdf]] (pp. 1 (1)).
+[3] [[_attachments/420-Exercise Set 3.pdf]] (pp. 2 (2), 3 (3)).
 
 #mathematics #point-set-topology #definition

@@ -14,5 +14,6 @@
 ###### References.
 [1] Talu (2026 Fall) *Lecture*.
 [2] [[_attachments/420-Week 3-Lecture 3.pdf]] (pp. 79 (7), 80 (8), 81 (9)).
+[3] [[_attachments/420-Week 4-Lecture 1.pdf]] (pp. 81 (1)).
 
 #mathematics #point-set-topology #exercise
