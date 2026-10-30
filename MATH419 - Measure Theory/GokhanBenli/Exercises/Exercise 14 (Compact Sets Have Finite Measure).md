@@ -1,5 +1,5 @@
 
-> [!ex] [[Exercise 14 (Compact Sets Have Finite Measure)]]: Show that a compact subset $K\subseteq\mathbb R^n$ has finite Lebesgue measure: $m(K)\ne\infty$.
+> [!ex] [[Exercise 14 (Compact Sets Have Finite Measure)]]: Show that a compact subset $K\subseteq\mathbb R^n$ has finite Lebesgue measure.
 
 ###### Dependencies.
 - [[Definition 4 (Compactness)]]

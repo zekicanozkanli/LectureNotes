@@ -45,6 +45,17 @@
 >
 > Thus $\delta_p$ is countably additive and is a measure on $\mathcal P(X)$. $\blacksquare$
 
+> [!pf] *Proof.* (iv. Normalized counting measure) Let $X$ be finite and nonempty. Since $|\varnothing|=0$ and $|X|>0$, we have $\mu_{\mathrm{fin}}(\varnothing)=0$. Let $(A_n)_{n=1}^{\infty}$ be a sequence of pairwise disjoint subsets of $X$. At most $|X|$ of the sets $A_n$ can be nonempty, so the following sums have only finitely many nonzero terms. Additivity of cardinality for disjoint finite sets gives
+>
+> $$
+> \mu_{\mathrm{fin}}\left(\bigcup_{n=1}^{\infty}A_n\right)
+> =\frac{\left|\bigcup_{n=1}^{\infty}A_n\right|}{|X|}
+> =\frac{\sum_{n=1}^{\infty}|A_n|}{|X|}
+> =\sum_{n=1}^{\infty}\mu_{\mathrm{fin}}(A_n).
+> $$
+>
+> Thus $\mu_{\mathrm{fin}}$ is countably additive and is a measure on $\mathcal P(X)$. $\blacksquare$
+
 ###### Dependencies.
 - [[Definition 10 (Measure)]]
 
