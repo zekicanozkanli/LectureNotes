@@ -1,5 +1,6 @@
 
-> [!ex] [[Exercise 13 (Outer Measure Using Small Cells)]]: For fixed $\delta>0$, give a complete proof that the infimum defining $m^*$ is unchanged when covering cells are required to have diameter less than $\delta$. Hint: subdivide each cell into finitely many cells of the required diameter and compare the resulting countable cover.
+> [!ex] [[Exercise 13 (Outer Measure Using Small Cells)]]: For $\delta >0$, show that in the definition of $m^*$ one can replace "cells" with "cells of diameter $\lt \delta$".
+>Hint: subdivide each cell into finitely many cells of the required diameter and compare the resulting countable cover.
 
 > [!rem] Equality of unions alone does not imply equality or the required inequality between sums of cell volumes. For example, let
 >

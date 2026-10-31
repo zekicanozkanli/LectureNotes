@@ -52,9 +52,12 @@ The motivation is to capture the behavior of open sets, without the necessity of
 
 > [!eg] Ex. 17: The requested closed sets, convergence description, and computations on $\mathbb R$ for the particular point topology are {unresolved} (see [[Exercise 56 (Particular Point Topology Computations)]]).
 
+> [!eg] Ex. 18: On the positive integers, $\mathcal{T}=\{U\subseteq\mathbb{Z}^{+}\mid n\in U\text{ and }n\text{ odd imply }n+1\in U\}$ is a topology. The source leaves its topology proof as an exercise and supplies the set computations in [Exercise 71 (Successor Topology on Positive Integers)](Exercises/Exercise%2071%20%28Successor%20Topology%20on%20Positive%20Integers%29.md).
+
 ###### References.
 [1] Talu (2026 Fall) *Lecture*.
 [2] [[_attachments/420-Exercise Set 1.pdf]] (pp. 1 (1)).
 [3] [[_attachments/420-Exercise Set 3.pdf]] (pp. 2 (2), 3 (3)).
+[4] [420-Week 5-Lecture 1.pdf](_attachments/420-Week%205-Lecture%201.pdf) (pp. 118 (11), 119 (12), 120 (13), 121 (14), 122 (15)).
 
 #mathematics #point-set-topology #definition

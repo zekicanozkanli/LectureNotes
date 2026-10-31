@@ -1,10 +1,5 @@
 # Exercise 7 (Continuity Of Two Maps Between Finite Spaces)
 
-
-
-
-
-
 ###### Proof.
 
 > [!proof]

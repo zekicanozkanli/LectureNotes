@@ -1,5 +1,7 @@
 
-> [!def] [[Definition 5 (Continuous Functions)]]: Let $(X,\mathcal T)$ and $(Y,\mathcal V)$ be two topological spaces. We say a function $f: (X, \mathcal T) \to (Y, \mathcal V)$ is **$\mathcal T$-$\mathcal V$ continuous** if $$f^{-1}(V) \in \mathcal T,\qquad \forall V \in \mathcal V.$$ 
+> [!def] [[Definition 5 (Continuous Functions)]]: Let $(X,\mathcal T)$ and $(Y,\mathcal V)$ be two topological spaces. We say a function $f: (X, \mathcal T) \to (Y, \mathcal V)$ is **$\mathcal T$-$\mathcal V$ continuous** if $$f^{-1}(V) \in \mathcal T,\qquad \forall V \in \mathcal V.$$
+
+> [!rem] The closure criterion for continuity is [Theorem 13 (Continuity via Closure)](Theorem%2013%20%28Continuity%20via%20Closure%29.md): $f$ is continuous if and only if $f(\overline{A})\subseteq\overline{f(A)}$ for every subset $A$ of its domain.
 
 ###### Examples.
 > [!eg] Ex. 1: Let $(X,\mathcal T)$ be the discrete topological space and $(Y,\mathcal V)$ be an arbitrary topological space. Then every function $f:X\to Y$ is $\mathcal T$-$\mathcal V$ continuous.
@@ -29,5 +31,6 @@
 [5] [[_attachments/420-Week 3-Lecture 3.pdf]] (pp. 76 (4), 77 (5)).
 [6] [[_attachments/420-Exercise Set 1.pdf]] (pp. 1 (1)).
 [7] [[_attachments/420-Exercise Set 3.pdf]] (pp. 2 (2)).
+[8] [420-Week 5-Lecture 1.pdf](_attachments/420-Week%205-Lecture%201.pdf) (pp. 108 (1), 109 (2)).
 
 #mathematics #point-set-topology #definition
