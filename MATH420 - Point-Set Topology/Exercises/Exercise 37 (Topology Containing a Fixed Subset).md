@@ -17,7 +17,7 @@
 > &\iff X\setminus F=\emptyset\ \text{or}\ A\subseteq X\setminus F\\
 > &\iff F=X\ \text{or}\ F\cap A=\emptyset.
 > \end{aligned}$$
-> Consequently, the closed sets are precisely $X$ and all subsets of $X\setminus A$.
+> Consequently, the family of closed sets is precisely $\{X\} \cup \mathcal P(X \setminus A)$.
 >
 > If $A=\emptyset$, every subset of $X$ contains $A$, so $\mathcal T=\mathcal P(X)$, the discrete topology. If $A=X$, the only subset of $X$ containing $A$ is $X$, so $\mathcal T=\{\emptyset,X\}$, the indiscrete topology. $\blacksquare$
 
