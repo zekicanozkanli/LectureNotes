@@ -1,6 +1,9 @@
 
 > [!thm] [[Theorem 2 (Continuity via Closed Sets)]]: Let $(X,\mathcal T)$ and $(Y,\mathcal V)$ be topological spaces, and $f:X\to Y$ be a function. Then $f$ is continuous if and only if $f^{-1}(K) \in \mathcal T_K$ for every $K \in \mathcal V_K$.
 
+###### Examples.
+> [!eg] Ex. 1: If $f:X\to Y$ is continuous, then $\overline{f^{-1}(B)}\subseteq f^{-1}(\overline B)$ for every $B\subseteq Y$ (see [Exercise 54 (Closure of a Continuous Preimage)](Exercises/Exercise%2054%20%28Closure%20of%20a%20Continuous%20Preimage%29.md)).
+
 ###### Proof.
 
 > [!proof]

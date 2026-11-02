@@ -18,7 +18,7 @@
 
 > [!eg] Ex. 6: A requested continuous map that is not open is {unresolved} (see [[Exercise 41 (Continuous Map Failing Openness)]]).
 
-> [!eg] Ex. 7: For continuous $f:X\to\mathbb R$, whether $\{x\in X\mid f(x)=0\}$ is closed is {unresolved} in the supplied solutions (see [[Exercise 51 (Zero Sets of Continuous Functions)]]).
+> [!eg] Ex. 7: For continuous $f:X\to\mathbb R$, the set $\{x\in X\mid f(x)=0\}$ is closed in $X$ (see [[Exercise 51 (Zero Sets of Continuous Functions)]]).
 
 ###### Dependencies.
 - [[Definition 1 (Topological Space)]]

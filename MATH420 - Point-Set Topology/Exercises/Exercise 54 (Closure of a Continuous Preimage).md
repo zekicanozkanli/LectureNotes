@@ -1,6 +1,9 @@
 
 > [!ex] [[Exercise 54 (Closure of a Continuous Preimage)]]: Let $f:(X,\mathcal T)\to(Y,\mathcal V)$ be continuous. Show that $\overline{f^{-1}(B)}\subseteq f^{-1}(\overline B)$ for every subset $B\subseteq Y$.
 
+###### Proof.
+> [!pf] *Proof.* Since $B\subseteq\overline B$, taking preimages gives $f^{-1}(B)\subseteq f^{-1}(\overline B)$. Moreover, $\overline B$ is closed in $Y$, so continuity of $f$ implies that $f^{-1}(\overline B)$ is closed in $X$. Since $\overline{f^{-1}(B)}$ is the smallest closed set containing $f^{-1}(B)$, we conclude that $\overline{f^{-1}(B)}\subseteq f^{-1}(\overline B)$.$\blacksquare$
+
 ###### Dependencies.
 - [[Definition 1 (Topological Space)]]
 - [[Definition 5 (Continuous Functions)]]
