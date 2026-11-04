@@ -16,6 +16,7 @@
 ###### Motivation.
 The motivation is to capture the behavior of open sets, without the necessity of a notion of distance. Start with $\mathbb R$. A set $U \subseteq \mathbb R$  is open when every $x \in U$ has a neighborhood inside $U$, that is, $\forall x\in U,\ \exists\varepsilon>0 :\ (x-\varepsilon, x+\varepsilon)\subseteq U.$ The above axioms preserve this property. Note that for the (iii), we require finite intersections, as countable intersection can shrink to zero, for instance, $\bigcap_{n=1}^{\infty} \left(-\frac1n,\frac1n\right)=\{0\} \notin \mathcal T.$ One may choose usual topology when numerical approximation matters, and may choose discrete topology when exact states matters.
 
+Every metric space naturally induces a topology.  A set $U \subset X$ is open in the metric topology if for every $x \in U$ , there exists some $r \gt 0$ such that $B_r(x) \subset U$ . For Euclidean space $\mathbb R^n$, this forms the standard topology.
 ###### Examples.
 > [!eg] Ex. 1: Let $X$ be any non-empty set. The collection $\mathcal T = \{\emptyset, X\}$ is then a topology on $X$ and is called indiscrete, or trivial, topology. In this space $\emptyset$ and $X$ are the only subsets of $X$ which are both open and closed.
 

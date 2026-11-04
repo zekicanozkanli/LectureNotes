@@ -3,6 +3,7 @@
 
 > [!rem] The closure criterion for continuity is [Theorem 13 (Continuity via Closure)](Theorem%2013%20%28Continuity%20via%20Closure%29.md): $f$ is continuous if and only if $f(\overline{A})\subseteq\overline{f(A)}$ for every subset $A$ of its domain.
 
+If X and Y are metric spaces, this definition is entirely equivalent to the standard ϵ-δ definition 
 ###### Examples.
 > [!eg] Ex. 1: Let $(X,\mathcal T)$ be the discrete topological space and $(Y,\mathcal V)$ be an arbitrary topological space. Then every function $f:X\to Y$ is $\mathcal T$-$\mathcal V$ continuous.
 

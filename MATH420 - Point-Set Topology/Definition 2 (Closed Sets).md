@@ -1,6 +1,7 @@
 
 > [!def] [[Definition 2 (Closed Sets)]]: Let $(X,\mathcal T)$ be a topological space. A subset $K$ of $X$ is called **$\mathcal T$-closed**, or simply **closed**, if its complement $K^c=X\setminus K$ in $X$ is a $\mathcal T$-open set.
 
+Using the axioms of topology, arbitrary itersection of closed sets is closed, and finite union of closed sets is closed.
 ###### Examples.
 > [!eg] Ex. 1: In the usual topology on $\mathbb R$, $[a,b]$ is closed because $\mathbb R\setminus[a,b]=(-\infty,a)\cup(b,\infty)$ is open. Similarly, $(-\infty,a]$ and $[a,\infty)$ are closed because their complements $(a,\infty)$ and $(-\infty,a)$ are open. Their interiors are recorded in [[Definition 16 (Interior)]].
 
