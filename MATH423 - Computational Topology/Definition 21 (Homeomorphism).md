@@ -26,6 +26,16 @@
 
 > [!eg] Ex. 6: Worksheet result: {unresolved}; see [Exercise 02 (Interval and Circle)](Exercises/Exercise%2002%20%28Interval%20and%20Circle%29.md).
 
+> [!eg] Ex. 7: $(0,1)\cong\mathbb{R}$ (see [Exercise 12 (Open Interval and Real Line)](Exercises/Exercise%2012%20%28Open%20Interval%20and%20Real%20Line%29.md)).
+
+> [!eg] Ex. 8: $[0,1)$ and $(0,1)$ are not homeomorphic (see [Exercise 13 (Half-Open and Open Intervals)](Exercises/Exercise%2013%20%28Half-Open%20and%20Open%20Intervals%29.md)).
+
+> [!eg] Ex. 9: A continuous bijection need not have a continuous inverse (see [Exercise 14 (Continuous Bijections and Inverses)](Exercises/Exercise%2014%20%28Continuous%20Bijections%20and%20Inverses%29.md)).
+
+> [!eg] Ex. 10: The maps are $t\mapsto1/t$ and $t\mapsto t/(1-\lvert t\rvert)$ (see [Exercise 33 (Explicit Interval Homeomorphisms)](Exercises/Exercise%2033%20%28Explicit%20Interval%20Homeomorphisms%29.md)).
+
+> [!eg] Ex. 11: The circle and the real line are not homeomorphic (see [Exercise 68 (Circle and Line Nonhomeomorphism)](Exercises/Exercise%2068%20%28Circle%20and%20Line%20Nonhomeomorphism%29.md)).
+
 ###### Dependencies.
 - [Definition 20 (Continuous Map)](Definition%2020%20%28Continuous%20Map%29.md)
 - [Definition 2 (Connectedness)](Definition%202%20%28Connectedness%29.md)
@@ -36,5 +46,7 @@
 [1] Pamuk (2026 Fall) *Lecture*.
 
 [2] Pamuk, M. (2026). *[MATH423: Introduction to Computational Topology](_materials/Pamuk-1.pdf)* (pp. 6 (6), 7 (7), 8 (8)).
+
+[3] Pamuk, M. (2026). *[Midterm 1 Preparation Worksheet](_materials/Pamuk%20-%20Midterm%201%20Preparation%20Worksheet.pdf)* (pp. 1 (1), 2 (2), 5 (5), 7 (7), 8 (8), 11 (11)).
 
 #mathematics #computational-topology #definition

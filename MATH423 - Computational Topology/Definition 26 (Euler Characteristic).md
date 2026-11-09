@@ -29,6 +29,10 @@ The Euler characteristic is a *global property computed by local counting*. Read
 
 > [!eg] Ex. 5: Worksheet result: {unresolved}; see [Exercise 04 (Complex from Maximal Simplices)](Exercises/Exercise%2004%20%28Complex%20from%20Maximal%20Simplices%29.md).
 
+> [!eg] Ex. 6: The Euler characteristics are $-1$ and $-2$, respectively (see [Exercise 39 (Euler Characteristic of Punctured Surfaces)](Exercises/Exercise%2039%20%28Euler%20Characteristic%20of%20Punctured%20Surfaces%29.md)).
+
+> [!eg] Ex. 7: The genus is $0$, and capping raises $\chi$ from $-3$ to $2$ (see [Exercise 83 (Genus of the Stanford Bunny)](Exercises/Exercise%2083%20%28Genus%20of%20the%20Stanford%20Bunny%29.md)).
+
 ###### Dependencies.
 - [Definition 10 (Triangulation)](Definition%2010%20%28Triangulation%29.md)
 - [Definition 28 (Abstract Simplicial Complex)](Definition%2028%20%28Abstract%20Simplicial%20Complex%29.md)
@@ -41,5 +45,7 @@ The Euler characteristic is a *global property computed by local counting*. Read
 [2] Pamuk, M. (2026). *[Triangulations, Classification of Surfaces and Abstract Simplicial Complexes](_materials/Pamuk-2.pdf)* (pp. 3 (3), 4 (4), 5 (5)).
 
 [3] Pamuk, M. (2026). *[MATH423: Introduction to Computational Topology: Lecture Notes](_materials/Pamuk-3.pdf)* (pp. 5 (5)).
+
+[4] Pamuk, M. (2026). *[Midterm 1 Preparation Worksheet](_materials/Pamuk%20-%20Midterm%201%20Preparation%20Worksheet.pdf)* (pp. 3 (3), 5 (5), 8 (8), 12 (12)).
 
 #mathematics #computational-topology #definition

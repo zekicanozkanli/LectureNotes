@@ -22,6 +22,10 @@
 
 > [!eg] Ex. 9: Worksheet result: {unresolved}; see [Exercise 08 (Hexagon Surface Identification)](Exercises/Exercise%2008%20%28Hexagon%20Surface%20Identification%29.md).
 
+> [!eg] Ex. 10: The word $abab$ presents $\mathbb{RP}^{2}$ (see [Exercise 18 (Square Word abab)](Exercises/Exercise%2018%20%28Square%20Word%20abab%29.md)).
+
+> [!eg] Ex. 11: The words give $\mathbb{RP}^{2}$, the sum of three projective planes, and the torus, respectively (see [Exercise 35 (Three Hexagon Presentations)](Exercises/Exercise%2035%20%28Three%20Hexagon%20Presentations%29.md)).
+
 ###### Dependencies.
 - [Definition 19 (Quotient Topology)](Definition%2019%20%28Quotient%20Topology%29.md)
 - [Definition 12 (Surface)](Definition%2012%20%28Surface%29.md)
@@ -35,5 +39,7 @@
 [2] Pamuk, M. (2026). *[MATH423: Introduction to Computational Topology](_materials/Pamuk-1.pdf)* (pp. 11 (11), 12 (12)).
 
 [3] Pamuk, M. (2026). *[Triangulations, Classification of Surfaces and Abstract Simplicial Complexes](_materials/Pamuk-2.pdf)* (pp. 6 (6)).
+
+[4] Pamuk, M. (2026). *[Midterm 1 Preparation Worksheet](_materials/Pamuk%20-%20Midterm%201%20Preparation%20Worksheet.pdf)* (pp. 1 (1), 2 (2), 7 (7), 8 (8)).
 
 #mathematics #computational-topology #definition

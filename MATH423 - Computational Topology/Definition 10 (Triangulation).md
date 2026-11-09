@@ -19,6 +19,12 @@ Polygonal presentations encode gluing globally, whereas scanned surfaces, comput
 
 > [!eg] Ex. 7: Worksheet result: {unresolved}; see [Exercise 07 (Minimal Projective Plane Triangulation)](Exercises/Exercise%2007%20%28Minimal%20Projective%20Plane%20Triangulation%29.md).
 
+> [!eg] Ex. 8: The lower bounds are $4$, $7$, and $9$ vertices (see [Exercise 38 (Vertex Bounds for Closed Surfaces)](Exercises/Exercise%2038%20%28Vertex%20Bounds%20for%20Closed%20Surfaces%29.md)).
+
+> [!eg] Ex. 9: The incidence and count formulas hold, and the torus requires $V\geq7$ (see [Exercise 69 (Surface Counts and Torus Bound)](Exercises/Exercise%2069%20%28Surface%20Counts%20and%20Torus%20Bound%29.md)).
+
+> [!eg] Ex. 10: The condition holds for the octahedron edge and fails for the tetrahedron edge (see [Exercise 81 (Link Condition for Edge Contraction)](Exercises/Exercise%2081%20%28Link%20Condition%20for%20Edge%20Contraction%29.md)).
+
 ###### Dependencies.
 - [Definition 9 (Polyhedron)](Definition%209%20%28Polyhedron%29.md)
 - [Definition 21 (Homeomorphism)](Definition%2021%20%28Homeomorphism%29.md)
@@ -32,5 +38,7 @@ Polygonal presentations encode gluing globally, whereas scanned surfaces, comput
 [2] Pamuk, M. (2026). *[MATH423: Introduction to Computational Topology](_materials/Pamuk-1.pdf)* (pp. 9 (9), 10 (10)).
 
 [3] Pamuk, M. (2026). *[Triangulations, Classification of Surfaces and Abstract Simplicial Complexes](_materials/Pamuk-2.pdf)* (pp. 1 (1), 2 (2), 4 (4), 5 (5)).
+
+[4] Pamuk, M. (2026). *[Midterm 1 Preparation Worksheet](_materials/Pamuk%20-%20Midterm%201%20Preparation%20Worksheet.pdf)* (pp. 3 (3), 5 (5), 8 (8), 11 (11), 12 (12)).
 
 #mathematics #computational-topology #definition

@@ -9,6 +9,10 @@
 ###### Examples.
 > [!eg] Ex. 1: Worksheet result: {unresolved}; see [Exercise 03 (Mixed Connected Sum)](Exercises/Exercise%2003%20%28Mixed%20Connected%20Sum%29.md).
 
+> [!eg] Ex. 2: The result is the connected sum of four projective planes (see [Exercise 36 (Torus and Two Projective Planes)](Exercises/Exercise%2036%20%28Torus%20and%20Two%20Projective%20Planes%29.md)).
+
+> [!eg] Ex. 3: The words give $\mathbb{RP}^{2}$, the sum of three projective planes, and the torus, respectively (see [Exercise 35 (Three Hexagon Presentations)](Exercises/Exercise%2035%20%28Three%20Hexagon%20Presentations%29.md)).
+
 ###### Dependencies.
 - [Definition 14 (Closed Manifold)](Definition%2014%20%28Closed%20Manifold%29.md)
 - [Definition 2 (Connectedness)](Definition%202%20%28Connectedness%29.md)
@@ -22,5 +26,7 @@
 [1] Pamuk (2026 Fall) *Lecture*.
 
 [2] Pamuk, M. (2026). *[Triangulations, Classification of Surfaces and Abstract Simplicial Complexes](_materials/Pamuk-2.pdf)* (pp. 5 (5), 6 (6), 7 (7)).
+
+[3] Pamuk, M. (2026). *[Midterm 1 Preparation Worksheet](_materials/Pamuk%20-%20Midterm%201%20Preparation%20Worksheet.pdf)* (pp. 2 (2), 8 (8)).
 
 #mathematics #computational-topology #theorem

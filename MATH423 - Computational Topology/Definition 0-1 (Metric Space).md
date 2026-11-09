@@ -31,16 +31,26 @@ Point clouds in topological data analysis come with a *notion of distance*. A me
 
 > [!eg] Ex. 4: ![Mutual inclusions of Manhattan and Euclidean balls](_attachments/pamuk-figures/nested-balls.png)
 
+> [!eg] Ex. 5: Every metric space is Hausdorff (see [Exercise 11 (Metric Spaces Are Hausdorff)](Exercises/Exercise%2011%20%28Metric%20Spaces%20Are%20Hausdorff%29.md)).
+
+> [!eg] Ex. 6: The Manhattan, Euclidean, and Chebyshev distances are $7,5,4$ (see [Exercise 30 (Three Metrics in the Plane)](Exercises/Exercise%2030%20%28Three%20Metrics%20in%20the%20Plane%29.md)).
+
+> [!eg] Ex. 7: Open balls and binary intersections of metric open sets are open (see [Exercise 66 (Open Metric Balls and Intersections)](Exercises/Exercise%2066%20%28Open%20Metric%20Balls%20and%20Intersections%29.md)).
+
+> [!eg] Ex. 8: Every metric space is Hausdorff (see [Exercise 11 (Metric Spaces Are Hausdorff)](Exercises/Exercise%2011%20%28Metric%20Spaces%20Are%20Hausdorff%29.md)).
+
 ###### Proof.
 > [!pf] *Proof.* Open balls are open: if $y\in B_r(x)$, put $s=r-d(x,y)>0$. For $z\in B_s(y)$, the triangle inequality gives $d(x,z)\leq d(x,y)+d(y,z)<d(x,y)+s=r$, so $B_s(y)\subseteq B_r(x)$. Closed balls are closed as stated in the source. For equality of the $d_1$ and $d_2$ topologies, if $U$ is $d_2$-open and $B_r^{(d_2)}(x)\subseteq U$, then $B_r^{(d_1)}(x)\subseteq B_r^{(d_2)}(x)\subseteq U$ because $d_2\leq d_1$. Conversely, if $B_r^{(d_1)}(x)\subseteq U$, then $B_{r/\sqrt{n}}^{(d_2)}(x)\subseteq B_r^{(d_1)}(x)\subseteq U$ because $d_1\leq\sqrt{n}\,d_2$. The inequalities for $d_{\infty}$ give the same argument. $\blacksquare$
 
 ###### Dependencies.
-- [Definition 15 (Topological Space)](Definition%2015%20%28Topological%20Space%29.md)
+- Definition 15 (Topological Space) {unresolved}; see [Definition 1 (Topological Space)](../MATH420%20-%20Point-Set%20Topology/Definition%201%20%28Topological%20Space%29.md)
 - Cauchy-Schwarz Inequality {unresolved}
 
 ###### References.
 [1] Pamuk (2026 Fall) *Lecture*.
 
 [2] Pamuk, M. (2026). *[MATH423: Introduction to Computational Topology](_materials/Pamuk-1.pdf)* (pp. 2 (2), 3 (3), 4 (4)).
+
+[3] Pamuk, M. (2026). *[Midterm 1 Preparation Worksheet](_materials/Pamuk%20-%20Midterm%201%20Preparation%20Worksheet.pdf)* (pp. 1 (1), 2 (2), 5 (5), 7 (7), 8 (8), 11 (11)).
 
 #mathematics #computational-topology #definition

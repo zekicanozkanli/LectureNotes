@@ -8,6 +8,8 @@
 
 > [!rem] The sharper Euclidean inclusion is $\operatorname{VR}_{\epsilon}(X)\subseteq\check{C}_{\epsilon\sqrt{2n/(n+1)}}(X)$; its planar constant is $2/\sqrt{3}$, while $\sqrt{2}$ works in every dimension. In a general metric space, choosing a vertex as center gives only $\operatorname{VR}_{\epsilon}(X)\subseteq\check{C}_{2\epsilon}(X)$. This interleaving relates persistent topological features in Vietoris-Rips and Čech complexes, supporting the widespread computational use of Vietoris-Rips.
 
+> [!rem] The first inclusion applies in any metric space: a common center of the radius-$\epsilon$ balls gives pairwise distances at most $2\epsilon$ by the triangle inequality. See [Exercise 72 (Čech Inclusion in Metric Spaces)](Exercises/Exercise%2072%20%28%C4%8Cech%20Inclusion%20in%20Metric%20Spaces%29.md).
+
 ###### Examples.
 > [!eg] Ex. 1: ![Pairwise ball intersections can give a hollow Čech triangle and a filled Vietoris-Rips triangle](_attachments/pamuk-figures/cech-rips.png)
 
@@ -16,6 +18,16 @@
 > [!eg] Ex. 3: For an equilateral triangle of side $s$, the circumradius is $s/\sqrt{3}$. The Čech complex is a hollow triangle for $s/2\leq\epsilon<s/\sqrt{3}$, whereas the Vietoris-Rips complex is filled for every $\epsilon\geq s/2$. The Čech loop is born at $s/2$ and dies at $s/\sqrt{3}\approx0.577s$; Vietoris-Rips misses it. Since $s/\sqrt{3}=(2/\sqrt{3})(s/2)$, the planar interleaving constant is attained.
 
 > [!eg] Ex. 4: Worksheet result: {unresolved}; see [Exercise 05 (Equilateral Triangle Complexes)](Exercises/Exercise%2005%20%28Equilateral%20Triangle%20Complexes%29.md).
+
+> [!eg] Ex. 5: The Čech complex is contained in the Vietoris-Rips complex at the same scale (see [Exercise 21 (Čech Inclusion in Vietoris-Rips)](Exercises/Exercise%2021%20%28%C4%8Cech%20Inclusion%20in%20Vietoris-Rips%29.md)).
+
+> [!eg] Ex. 6: A Čech loop need not survive in the Vietoris-Rips complex (see [Exercise 22 (Čech Hole Missing from Rips)](Exercises/Exercise%2022%20%28%C4%8Cech%20Hole%20Missing%20from%20Rips%29.md)).
+
+> [!eg] Ex. 7: The complexes coincide and are homotopy equivalent to a circle exactly on $[2,5/2)$ (see [Exercise 48 (Filtration of a Three-by-Four Rectangle)](Exercises/Exercise%2048%20%28Filtration%20of%20a%20Three-by-Four%20Rectangle%29.md)).
+
+> [!eg] Ex. 8: The inclusions are hollow triangle $\subseteq$ filled triangle $\subseteq$ filled triangle (see [Exercise 49 (Equilateral Triangle at Scale 1.1)](Exercises/Exercise%2049%20%28Equilateral%20Triangle%20at%20Scale%201.1%29.md)).
+
+> [!eg] Ex. 9: Čech is contained in Vietoris-Rips at the same scale in any metric space (see [Exercise 72 (Čech Inclusion in Metric Spaces)](Exercises/Exercise%2072%20%28%C4%8Cech%20Inclusion%20in%20Metric%20Spaces%29.md)).
 
 ###### Proof.
 > [!pf] *Proof.* If $\sigma\in\check{C}_{\epsilon}(X)$, choose $z$ with $d(x_i,z)\leq\epsilon$ for all $x_i\in\sigma$. The triangle inequality gives $d(x_i,x_j)\leq2\epsilon$, so $\sigma\in\operatorname{VR}_{\epsilon}(X)$. Conversely, a Vietoris-Rips simplex has diameter $D\leq2\epsilon$. Jung’s theorem places a Euclidean set of diameter $D$ in a closed ball of radius $D\sqrt{n/(2(n+1))}$. Thus $\sigma$ is contained in a ball of radius
@@ -36,5 +48,7 @@
 [1] Pamuk (2026 Fall) *Lecture*.
 
 [2] Pamuk, M. (2026). *[MATH423: Introduction to Computational Topology: Lecture Notes](_materials/Pamuk-3.pdf)* (pp. 7 (7), 8 (8)).
+
+[3] Pamuk, M. (2026). *[Midterm 1 Preparation Worksheet](_materials/Pamuk%20-%20Midterm%201%20Preparation%20Worksheet.pdf)* (pp. 2 (2), 3 (3), 5 (5), 7 (7), 9 (9), 11 (11)).
 
 #mathematics #computational-topology #lemma

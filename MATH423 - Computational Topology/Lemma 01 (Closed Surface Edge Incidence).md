@@ -14,6 +14,14 @@
 
 > [!eg] Ex. 2: Three triangles sharing an edge do not give disk neighborhoods at its interior points. A disk mesh has outer edges in only one triangle and therefore has boundary. Mesh processing and three-dimensional printing software check for such non-manifold edges and holes.
 
+> [!eg] Ex. 3: Every closed surface triangulation has an even number of triangles (see [Exercise 19 (Parity of Triangle Count)](Exercises/Exercise%2019%20%28Parity%20of%20Triangle%20Count%29.md)).
+
+> [!eg] Ex. 4: $E=24$, and the surface is a torus or a Klein bottle (see [Exercise 37 (Eight-Vertex Surface Triangulation)](Exercises/Exercise%2037%20%28Eight-Vertex%20Surface%20Triangulation%29.md)).
+
+> [!eg] Ex. 5: The lower bounds are $4$, $7$, and $9$ vertices (see [Exercise 38 (Vertex Bounds for Closed Surfaces)](Exercises/Exercise%2038%20%28Vertex%20Bounds%20for%20Closed%20Surfaces%29.md)).
+
+> [!eg] Ex. 6: The incidence and count formulas hold, and the torus requires $V\geq7$ (see [Exercise 69 (Surface Counts and Torus Bound)](Exercises/Exercise%2069%20%28Surface%20Counts%20and%20Torus%20Bound%29.md)).
+
 ###### Proof.
 > [!pf] *Proof.* Proof sketch. If an edge $e$ lies in exactly $k$ triangles and $x$ is interior to $e$, then for $k=0$ a small neighborhood is an interval rather than a disk: deleting a point disconnects the former but not the latter. For $k\geq1$, the neighborhood is a book of $k$ half-disks joined along their common diameter. For $k=1$ it is a half-disk and $x$ is a boundary point; for $k=2$ it is a disk; for $k\geq3$ it is not a disk. A rigorous justification of the last claim uses local homology in Week 5: the book has local homology rank $k-1$, whereas a disk has rank $1$. Thus $k=2$. A vertex or edge in no triangle similarly has a graph neighborhood rather than a disk. Each triangle contributes three incident pairs and each edge contributes two, yielding $3F=2E$. $\blacksquare$
 
@@ -27,5 +35,9 @@
 [1] Pamuk (2026 Fall) *Lecture*.
 
 [2] Pamuk, M. (2026). *[Triangulations, Classification of Surfaces and Abstract Simplicial Complexes](_materials/Pamuk-2.pdf)* (pp. 2 (2), 3 (3), 4 (4)).
+
+[3] Pamuk, M. (2026). *[Midterm 1 Preparation Worksheet](_materials/Pamuk%20-%20Midterm%201%20Preparation%20Worksheet.pdf)* (pp. 1 (1), 2 (2), 3 (3), 5 (5), 7 (7), 8 (8), 11 (11)).
+
+[4] Pamuk, M. (2026). *[Worked Calculations for Sections 6.1–6.4](Pamuk-Applications-3.pdf)* (pp. 8 (8)).
 
 #mathematics #computational-topology #lemma

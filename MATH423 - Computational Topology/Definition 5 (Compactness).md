@@ -10,6 +10,8 @@
 
 > [!eg] Ex. 4: By [Theorem 1 (Heine-Borel)](Theorem%201%20%28Heine-Borel%29.md), $[0,1]$, spheres $S^n$, closed balls, and polyhedra $|K|$ of finite simplicial complexes are compact.
 
+> [!eg] Ex. 5: $\{[0,1-1/n)\}_{n\geq2}$ has no finite subcover (see [Exercise 34 (Open Cover of Half-Open Interval)](Exercises/Exercise%2034%20%28Open%20Cover%20of%20Half-Open%20Interval%29.md)).
+
 ###### Dependencies.
 - [Definition 4 (Open Cover)](Definition%204%20%28Open%20Cover%29.md)
 - [Theorem 1 (Heine-Borel)](Theorem%201%20%28Heine-Borel%29.md)
@@ -18,5 +20,7 @@
 [1] Pamuk (2026 Fall) *Lecture*.
 
 [2] Pamuk, M. (2026). *[MATH423: Introduction to Computational Topology](_materials/Pamuk-1.pdf)* (pp. 7 (7), 8 (8)).
+
+[3] Pamuk, M. (2026). *[Midterm 1 Preparation Worksheet](_materials/Pamuk%20-%20Midterm%201%20Preparation%20Worksheet.pdf)* (pp. 2 (2), 8 (8)).
 
 #mathematics #computational-topology #definition

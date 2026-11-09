@@ -30,14 +30,22 @@
 
 > [!eg] Ex. 4: Worksheet result: {unresolved}; see [Exercise 06 (Vertex Links in Closed Surfaces)](Exercises/Exercise%2006%20%28Vertex%20Links%20in%20Closed%20Surfaces%29.md).
 
+> [!eg] Ex. 5: Every vertex link is a cycle with at least three vertices, and every vertex has degree at least three (see [Exercise 42 (Cycles in Vertex Links)](Exercises/Exercise%2042%20%28Cycles%20in%20Vertex%20Links%29.md)).
+
+> [!eg] Ex. 6: The condition holds for the octahedron edge and fails for the tetrahedron edge (see [Exercise 81 (Link Condition for Edge Contraction)](Exercises/Exercise%2081%20%28Link%20Condition%20for%20Edge%20Contraction%29.md)).
+
+> [!eg] Ex. 7: $f=(6,8,2)$, $\chi=0$; the links of $1$, $\{1,3\}$, and $4$ are a path, two points, and an edge with two isolated points (see [Exercise 45 (Counting Simplices Stars and Links)](Exercises/Exercise%2045%20%28Counting%20Simplices%20Stars%20and%20Links%29.md)).
+
 ###### Dependencies.
 - [Definition 28 (Abstract Simplicial Complex)](Definition%2028%20%28Abstract%20Simplicial%20Complex%29.md)
 - [Definition 9 (Polyhedron)](Definition%209%20%28Polyhedron%29.md)
-- [Definition 15 (Topological Space)](Definition%2015%20%28Topological%20Space%29.md)
+- Definition 15 (Topological Space) {unresolved}; see [Definition 1 (Topological Space)](../MATH420%20-%20Point-Set%20Topology/Definition%201%20%28Topological%20Space%29.md)
 
 ###### References.
 [1] Pamuk (2026 Fall) *Lecture*.
 
 [2] Pamuk, M. (2026). *[MATH423: Introduction to Computational Topology: Lecture Notes](_materials/Pamuk-3.pdf)* (pp. 3 (3), 4 (4), 5 (5)).
+
+[3] Pamuk, M. (2026). *[Midterm 1 Preparation Worksheet](_materials/Pamuk%20-%20Midterm%201%20Preparation%20Worksheet.pdf)* (pp. 3 (3), 5 (5), 9 (9), 12 (12)).
 
 #mathematics #computational-topology #definition

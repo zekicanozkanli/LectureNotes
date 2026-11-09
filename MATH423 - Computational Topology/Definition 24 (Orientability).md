@@ -10,6 +10,8 @@
 
 > [!eg] Ex. 3: The cylinder and Möbius band both have $\chi=0$, but differ in orientability and in the number of boundary circles.
 
+> [!eg] Ex. 4: Exactly $\mathbb{RP}^{2}$ and the Klein bottle contain a Möbius band (see [Exercise 40 (Surfaces Containing Möbius Bands)](Exercises/Exercise%2040%20%28Surfaces%20Containing%20M%C3%B6bius%20Bands%29.md)).
+
 ###### Dependencies.
 - [Definition 12 (Surface)](Definition%2012%20%28Surface%29.md)
 - [Definition 18 (Subspace Topology)](Definition%2018%20%28Subspace%20Topology%29.md)
@@ -22,5 +24,7 @@
 [2] Pamuk, M. (2026). *[MATH423: Introduction to Computational Topology](_materials/Pamuk-1.pdf)* (pp. 12 (12)).
 
 [3] Pamuk, M. (2026). *[Triangulations, Classification of Surfaces and Abstract Simplicial Complexes](_materials/Pamuk-2.pdf)* (pp. 5 (5), 6 (6)).
+
+[4] Pamuk, M. (2026). *[Midterm 1 Preparation Worksheet](_materials/Pamuk%20-%20Midterm%201%20Preparation%20Worksheet.pdf)* (pp. 3 (3), 8 (8)).
 
 #mathematics #computational-topology #definition

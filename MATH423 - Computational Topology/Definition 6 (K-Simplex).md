@@ -21,6 +21,8 @@ Simplices give *combinatorial building blocks* determined entirely by their vert
 
 > [!eg] Ex. 4: ![Existing schematic of simplices](_attachments/23eac36d-M6-0fb30b7b42e7.svg)
 
+> [!eg] Ex. 5: The three coordinate triples are $(1/3,1/3,1/3)$, $(0,1/2,1/2)$, and $(-1/3,2/3,2/3)$ (see [Exercise 43 (Barycentric Coordinates in a Triangle)](Exercises/Exercise%2043%20%28Barycentric%20Coordinates%20in%20a%20Triangle%29.md)).
+
 ###### Dependencies.
 - Linear Independence {unresolved}
 - Convex Combination {unresolved}
@@ -29,5 +31,7 @@ Simplices give *combinatorial building blocks* determined entirely by their vert
 [1] Pamuk (2026 Fall) *Lecture*.
 
 [2] Pamuk, M. (2026). *[MATH423: Introduction to Computational Topology](_materials/Pamuk-1.pdf)* (pp. 8 (8), 9 (9)).
+
+[3] Pamuk, M. (2026). *[Midterm 1 Preparation Worksheet](_materials/Pamuk%20-%20Midterm%201%20Preparation%20Worksheet.pdf)* (pp. 3 (3), 9 (9)).
 
 #mathematics #computational-topology #definition

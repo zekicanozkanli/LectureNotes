@@ -11,6 +11,8 @@
 
 > [!eg] Ex. 2: Worksheet result: {unresolved}; see [Exercise 03 (Mixed Connected Sum)](Exercises/Exercise%2003%20%28Mixed%20Connected%20Sum%29.md).
 
+> [!eg] Ex. 3: $\chi(S_1\#S_2)=\chi(S_1)+\chi(S_2)-2$ (see [Exercise 70 (Euler Characteristic of Connected Sum)](Exercises/Exercise%2070%20%28Euler%20Characteristic%20of%20Connected%20Sum%29.md)).
+
 ###### Proof.
 > [!pf] *Proof.* Choose triangulations and remove the interior of one triangle from each surface. The combined Euler characteristic becomes $(\chi(S_1)-1)+(\chi(S_2)-1)$. Glue the boundary triangles vertex to vertex and edge to edge. This identifies three vertex pairs and three edge pairs, so $V$ and $E$ each decrease by three; these changes cancel in $V-E+F$. The result is the stated formula. $\blacksquare$
 
@@ -23,5 +25,7 @@
 [1] Pamuk (2026 Fall) *Lecture*.
 
 [2] Pamuk, M. (2026). *[Triangulations, Classification of Surfaces and Abstract Simplicial Complexes](_materials/Pamuk-2.pdf)* (pp. 5 (5)).
+
+[3] Pamuk, M. (2026). *[Midterm 1 Preparation Worksheet](_materials/Pamuk%20-%20Midterm%201%20Preparation%20Worksheet.pdf)* (pp. 5 (5), 11 (11)).
 
 #mathematics #computational-topology #proposition
