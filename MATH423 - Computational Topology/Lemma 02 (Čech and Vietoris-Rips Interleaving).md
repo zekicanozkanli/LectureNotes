@@ -17,7 +17,7 @@
 
 > [!eg] Ex. 3: For an equilateral triangle of side $s$, the circumradius is $s/\sqrt{3}$. The Čech complex is a hollow triangle for $s/2\leq\epsilon<s/\sqrt{3}$, whereas the Vietoris-Rips complex is filled for every $\epsilon\geq s/2$. The Čech loop is born at $s/2$ and dies at $s/\sqrt{3}\approx0.577s$; Vietoris-Rips misses it. Since $s/\sqrt{3}=(2/\sqrt{3})(s/2)$, the planar interleaving constant is attained.
 
-> [!eg] Ex. 4: Worksheet result: {unresolved}; see [Exercise 05 (Equilateral Triangle Complexes)](Exercises/Exercise%2005%20%28Equilateral%20Triangle%20Complexes%29.md).
+> [!eg] Ex. 4: $\check{C}_1(X)\subsetneq\operatorname{VR}_1(X)=\check{C}_{\sqrt{2}}(X)$ (see [Exercise 05 (Equilateral Triangle Complexes)](Exercises/Exercise%2005%20%28Equilateral%20Triangle%20Complexes%29.md)).
 
 > [!eg] Ex. 5: The Čech complex is contained in the Vietoris-Rips complex at the same scale (see [Exercise 21 (Čech Inclusion in Vietoris-Rips)](Exercises/Exercise%2021%20%28%C4%8Cech%20Inclusion%20in%20Vietoris-Rips%29.md)).
 

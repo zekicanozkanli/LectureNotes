@@ -6,7 +6,7 @@
 ###### Examples.
 > [!eg] Ex. 1: Let $X=\{0,1,3,4\}\subseteq\mathbb{R}$. At $\epsilon=1$, edges are $\{0,1\},\{1,3\},\{3,4\}$; $\{0,3\},\{0,4\},\{1,4\}$ are too long. The complex is the contractible path $0-1-3-4$. At $\epsilon=1.5$, distance-$3$ edges $\{0,3\},\{1,4\}$ appear, giving cliques $\{0,1,3\}$ and $\{1,3,4\}$, two triangles sharing $\{1,3\}$. At $\epsilon=2$ all pairs join and the complex is the full $3$-simplex.
 
-> [!eg] Ex. 2: Worksheet result: {unresolved}; see [Exercise 05 (Equilateral Triangle Complexes)](Exercises/Exercise%2005%20%28Equilateral%20Triangle%20Complexes%29.md).
+> [!eg] Ex. 2: The Vietoris–Rips complex at scale $1$ is the filled triangle (see [Exercise 05 (Equilateral Triangle Complexes)](Exercises/Exercise%2005%20%28Equilateral%20Triangle%20Complexes%29.md)).
 
 > [!eg] Ex. 3: Worksheet result: {unresolved}; see [Exercise 09 (Filtration of a Rectangle)](Exercises/Exercise%2009%20%28Filtration%20of%20a%20Rectangle%29.md).
 

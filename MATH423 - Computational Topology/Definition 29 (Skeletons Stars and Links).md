@@ -28,7 +28,7 @@
 
 > [!eg] Ex. 3: For $\sigma=\{1,2\}$ in the tetrahedron boundary, $\operatorname{st}(\sigma)=\{\{1,2\},\{1,2,3\},\{1,2,4\}\}$. Its closed star is the two triangles with all their faces: nine simplices. The link is $\{\{3\},\{4\}\}$; $\{3,4\}$ is not in the closed star. The two link points correspond to the two triangles adjacent to the edge. The simplices $\{1\},\{2\},\{1,3\},\{2,3\},\{1,4\},\{2,4\}$ meet $\sigma$ without containing it and are in neither its star nor its link.
 
-> [!eg] Ex. 4: Worksheet result: {unresolved}; see [Exercise 06 (Vertex Links in Closed Surfaces)](Exercises/Exercise%2006%20%28Vertex%20Links%20in%20Closed%20Surfaces%29.md).
+> [!eg] Ex. 4: The link of every vertex of a closed surface triangulation is a single cycle with realization homeomorphic to $S^1$ (see [Exercise 06 (Vertex Links in Closed Surfaces)](Exercises/Exercise%2006%20%28Vertex%20Links%20in%20Closed%20Surfaces%29.md)).
 
 > [!eg] Ex. 5: Every vertex link is a cycle with at least three vertices, and every vertex has degree at least three (see [Exercise 42 (Cycles in Vertex Links)](Exercises/Exercise%2042%20%28Cycles%20in%20Vertex%20Links%29.md)).
 

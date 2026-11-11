@@ -9,7 +9,7 @@
 > [!rem] For $X\subseteq\mathbb{R}^{n}$ the balls are convex, so [Theorem 09 (Nerve Theorem)](Theorem%2009%20%28Nerve%20Theorem%29.md) gives a homotopy equivalence between $\check{C}_{\epsilon}(X)$ and $\bigcup_i\overline{B}_{\epsilon}(x_i)$. A simplex appears exactly when its points fit inside a radius-$\epsilon$ closed ball, equivalently when their smallest enclosing ball has radius at most $\epsilon$. Simultaneous intersection tests become expensive in high dimensions. For two Euclidean points an edge appears when $d(x_i,x_j)\leq2\epsilon$ {the source states this without restricting the ambient metric space; outside Euclidean space this equivalence is unresolved here}. For a triangle the smallest enclosing ball is the circumcircle for an acute or right triangle, and has the longest side as diameter for an obtuse triangle. Thus an acute triangle enters at its circumradius and an obtuse one at half its longest side.
 
 ###### Examples.
-> [!eg] Ex. 1: Worksheet result: {unresolved}; see [Exercise 05 (Equilateral Triangle Complexes)](Exercises/Exercise%2005%20%28Equilateral%20Triangle%20Complexes%29.md).
+> [!eg] Ex. 1: The Čech complex is a hollow triangle at radius $1$ and a filled triangle at radius $\sqrt{2}$ (see [Exercise 05 (Equilateral Triangle Complexes)](Exercises/Exercise%2005%20%28Equilateral%20Triangle%20Complexes%29.md)).
 
 > [!eg] Ex. 2: Worksheet result: {unresolved}; see [Exercise 09 (Filtration of a Rectangle)](Exercises/Exercise%2009%20%28Filtration%20of%20a%20Rectangle%29.md).
 

@@ -17,7 +17,7 @@ Polygonal presentations encode gluing globally, whereas scanned surfaces, comput
 
 > [!eg] Ex. 6: For any torus triangulation, $E=3V$ and $E\leq\binom{V}{2}$, so $3V\leq V(V-1)/2$ and $V\geq7$. The bound is attained by a $7$-vertex, $21$-edge, $14$-triangle triangulation known to Möbius, with every vertex pair joined. The same bound gives $V\geq7$ for the Klein bottle, but its minimum is $8$ (Franklin, 1934). Smaller complexes reduce algorithmic cost.
 
-> [!eg] Ex. 7: Worksheet result: {unresolved}; see [Exercise 07 (Minimal Projective Plane Triangulation)](Exercises/Exercise%2007%20%28Minimal%20Projective%20Plane%20Triangulation%29.md).
+> [!eg] Ex. 7: A minimum triangulation of $\mathbb{RP}^{2}$ has $(V,E,F)=(6,15,10)$ (see [Exercise 07 (Minimal Projective Plane Triangulation)](Exercises/Exercise%2007%20%28Minimal%20Projective%20Plane%20Triangulation%29.md)).
 
 > [!eg] Ex. 8: The lower bounds are $4$, $7$, and $9$ vertices (see [Exercise 38 (Vertex Bounds for Closed Surfaces)](Exercises/Exercise%2038%20%28Vertex%20Bounds%20for%20Closed%20Surfaces%29.md)).
 
