@@ -19,6 +19,8 @@
 
 > [!rem] To row reduce over $\mathbb{Z}/2$, swap rows or add one row to another. Subtraction equals addition and the only nonzero scalar is $1$, so no row scaling is needed. Addition is entrywise exclusive or. The rank is the number of nonzero rows in echelon form.
 
+> [!rem] For $k\geq1$ each boundary matrix column has exactly $k+1$ ones. Column operations preserve rank as well as row operations. To find the rank of $\partial_2$ directly, a collection of columns sums to zero exactly when its triangles form a $2$-cycle. Thus $\operatorname{rank}\partial_2=n_2-\dim Z_2$. The later ordered column reduction retains simplex pairings for persistence, beyond the rank alone; over $\mathbb{Z}$, Smith normal form also reveals torsion.
+
 ###### Examples.
 > [!eg] Ex. 1: A triangular face has boundary $\partial_2\{1,2,3\}=\{1,2\}+\{1,3\}+\{2,3\}$.
 
@@ -51,6 +53,25 @@
 
 > [!eg] Ex. 5: The rank is $3$ and $(b_0,b_1)=(1,0)$ (see [Exercise 53 (Boundary Matrix of a Path)](Exercises/Exercise%2053%20%28Boundary%20Matrix%20of%20a%20Path%29.md)).
 
+> [!eg] Ex. 6: The edge $\{1,2\}$ has boundary $\{1\}+\{2\}$. For the pair of faces $123+234$ the edge $23$ cancels and the boundary is $12+13+24+34$, using $ij$ for $\{i,j\}$.
+>
+> ![Boundaries of an edge, triangle, path, and pair of triangles](_attachments/pamuk-4-homology/figure-1.png)
+
+> [!eg] Ex. 7: For the hollow triangle in edge order $12,13,23$, the matrix of $\partial_1$ is
+>
+> $$
+> \begin{pmatrix}1&1&0\\1&0&1\\0&1&1\end{pmatrix}.
+> $$
+>
+
+> [!eg] Ex. 8: For the hollow square with edges $12,23,34,14$, the row additions $R_2\gets R_2+R_1$, $R_3\gets R_3+R_2$, and $R_4\gets R_4+R_3$ give
+>
+> $$
+> \begin{pmatrix}1&0&0&1\\1&1&0&0\\0&1&1&0\\0&0&1&1\end{pmatrix}\longrightarrow\begin{pmatrix}1&0&0&1\\0&1&0&1\\0&0&1&1\\0&0&0&0\end{pmatrix}.
+> $$
+>
+> The rank is $3$, and the kernel is spanned by $(1,1,1,1)^{\mathsf{T}}$, representing the square loop. Thus the hollow square has $b=(1,1)$. Add the diagonal $13$ and triangles $123,134$: the connected graph still has $\operatorname{rank}\partial_1=3$, the two $\partial_2$ columns are independent, and $b=(1,5-3-2,2-2)=(1,0,0)$. See also [Exercise 54 (Cycles in a Triangulated Square)](Exercises/Exercise%2054%20%28Cycles%20in%20a%20Triangulated%20Square%29.md).
+
 ###### Dependencies.
 - [Definition 33 (Simplicial Chain)](Definition%2033%20%28Simplicial%20Chain%29.md)
 - [Definition 28 (Abstract Simplicial Complex)](Definition%2028%20%28Abstract%20Simplicial%20Complex%29.md)
@@ -58,12 +79,14 @@
 ###### References.
 [1] Pamuk (2026 Fall) *Lecture*.
 
-[2] Pamuk, M. (2026). *[Worked Calculations for Sections 6.1–6.4](Pamuk-Applications-3.pdf)* (pp. 1 (1), 2 (2), 3 (3), 4 (4), 6 (6)).
+[2] Pamuk, M. (2026). *[Worked Calculations for Sections 6.1–6.4](_materials/Pamuk-Applications-3.pdf)* (pp. 1 (1), 2 (2), 3 (3), 4 (4), 6 (6)).
 
 [3] Pamuk, M. (2026). *[Midterm 1 Preparation Worksheet](_materials/Pamuk%20-%20Midterm%201%20Preparation%20Worksheet.pdf)* (pp. 4 (4), 10 (10), 11 (11)).
 
 [4] Pamuk (2026 Fall) *Lecture*. [Chains and the boundary operator](_attachments/handwritten-homology/chains-and-boundaries.png) (handwritten source).
 
 [5] Pamuk (2026 Fall) *Lecture*. [Chain complex and tetrahedron boundary](_attachments/handwritten-homology/tetrahedron-chain-complex.png) (handwritten source).
+
+[6] Pamuk, M. (2026). *[Lecture notes on simplicial homology](_materials/Pamuk-4.pdf)* (pp. 4 (4), 5 (5), 7 (7), 8 (8), 18 (18)).
 
 #mathematics #computational-topology #definition

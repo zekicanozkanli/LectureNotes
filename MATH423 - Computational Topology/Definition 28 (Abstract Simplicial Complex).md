@@ -8,6 +8,8 @@
 
 > [!rem] Unlike a graph, an abstract simplicial complex distinguishes a hollow triangle from a filled one and records group interactions, such as a paper with three authors. See [Exercise 79 (Why Use Abstract Simplicial Complexes)](Exercises/Exercise%2079%20%28Why%20Use%20Abstract%20Simplicial%20Complexes%29.md).
 
+> [!rem] To obtain the $f$-vector from a list of maximal simplices, take all nonempty faces, remove repeats, and count by dimension.
+
 ###### Motivation.
 Topology depends on *which vertex sets span simplices*, not their coordinates: an equilateral and a thin hollow triangle both model a circle. Integer vertex sets give exact tests, avoiding floating-point ambiguity in geometric intersections. They need no ambient coordinates: the projective plane cannot embed in $\mathbb{R}^{3}$ and requires $\mathbb{R}^{4}$ or higher for a geometric triangulation; co-authorship complexes and complexes of DNA-sequence distances may have no natural coordinates. Vertex sets provide a compact description from which the topology can be recovered.
 
@@ -46,5 +48,7 @@ Topology depends on *which vertex sets span simplices*, not their coordinates: a
 [3] Pamuk, M. (2026). *[MATH423: Introduction to Computational Topology: Lecture Notes](_materials/Pamuk-3.pdf)* (pp. 1 (1), 2 (2), 3 (3)).
 
 [4] Pamuk, M. (2026). *[Midterm 1 Preparation Worksheet](_materials/Pamuk%20-%20Midterm%201%20Preparation%20Worksheet.pdf)* (pp. 3 (3), 5 (5), 9 (9), 12 (12)).
+
+[5] Pamuk, M. (2026). *[Lecture notes on simplicial homology](_materials/Pamuk-4.pdf)* (pp. 2 (2), 18 (18)).
 
 #mathematics #computational-topology #definition

@@ -15,6 +15,8 @@
 >
 > This decomposition need not hold for higher dimensional simplices. The link of a vertex in a closed triangulated surface is a circle; the source asks for a proof in Worksheet 1, Problem 6. Edge links enter the later link condition for edge contractions.
 
+> [!rem] For any simplex $\sigma$, $\tau$ belongs to $\operatorname{lk}(\sigma)$ exactly when $\tau\cap\sigma=\emptyset$ and $\tau\cup\sigma\in K$. Both the closed star and link are subcomplexes. For a triangulated surface the link of a vertex is a circle at an interior vertex and a path at a boundary vertex.
+
 ###### Examples.
 > [!eg] Ex. 1: For the tetrahedron boundary and $v=1$,
 >
@@ -36,6 +38,10 @@
 
 > [!eg] Ex. 7: $f=(6,8,2)$, $\chi=0$; the links of $1$, $\{1,3\}$, and $4$ are a path, two points, and an edge with two isolated points (see [Exercise 45 (Counting Simplices Stars and Links)](Exercises/Exercise%2045%20%28Counting%20Simplices%20Stars%20and%20Links%29.md)).
 
+> [!eg] Ex. 8: For a single edge $\{v,w\}$ and its vertices, $\operatorname{st}(v)=\{\{v\},\{v,w\}\}$ omits $\{w\}$, so is not a subcomplex.
+
+> [!eg] Ex. 9: The tuple is $(1,0,1)$; the link has $(2,1)$ and the polyhedron is not a surface (see [Exercise 96 (Tetrahedron Boundary with an Edge)](Exercises/Exercise%2096%20%28Tetrahedron%20Boundary%20with%20an%20Edge%29.md)).
+
 ###### Dependencies.
 - [Definition 28 (Abstract Simplicial Complex)](Definition%2028%20%28Abstract%20Simplicial%20Complex%29.md)
 - [Definition 9 (Polyhedron)](Definition%209%20%28Polyhedron%29.md)
@@ -47,5 +53,7 @@
 [2] Pamuk, M. (2026). *[MATH423: Introduction to Computational Topology: Lecture Notes](_materials/Pamuk-3.pdf)* (pp. 3 (3), 4 (4), 5 (5)).
 
 [3] Pamuk, M. (2026). *[Midterm 1 Preparation Worksheet](_materials/Pamuk%20-%20Midterm%201%20Preparation%20Worksheet.pdf)* (pp. 3 (3), 5 (5), 9 (9), 12 (12)).
+
+[4] Pamuk, M. (2026). *[Lecture notes on simplicial homology](_materials/Pamuk-4.pdf)* (pp. 2 (2), 11 (11), 17 (17), 18 (18), 20 (20)).
 
 #mathematics #computational-topology #definition

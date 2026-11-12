@@ -8,6 +8,8 @@
 
 > [!rem] The difficult step in these examples is usually computing $\operatorname{rank}\partial_k$ for $k\geq2$. Use [Theorem 11 (Zeroth Homology Counts Components)](Theorem%2011%20%28Zeroth%20Homology%20Counts%20Components%29.md) for $\operatorname{rank}\partial_1$, [Proposition 03 (Betti Numbers of Closed Surfaces)](Proposition%2003%20%28Betti%20Numbers%20of%20Closed%20Surfaces%29.md) for $b_2$ of a closed connected surface, and the alternating sum to recover the last unknown Betti number.
 
+> [!rem] The $n_k$ can change with triangulation, but the $b_k$ do not by [Theorem 13 (Homotopy Invariance of Homology)](Theorem%2013%20%28Homotopy%20Invariance%20of%20Homology%29.md); hence their alternating sum proves Euler characteristic invariance. If only one Betti number is unknown, the alternating sum recovers it from simplex counts.
+
 ###### Examples.
 > [!eg] Ex. 1: The alternating sums from simplex counts and Betti numbers agree in the following calculations.
 >
@@ -44,12 +46,15 @@
 - [Definition 35 (Betti Number)](Definition%2035%20%28Betti%20Number%29.md)
 - [Definition 36 (Simplicial Homology)](Definition%2036%20%28Simplicial%20Homology%29.md)
 - Rank–Nullity Theorem {unresolved}
+- [Theorem 13 (Homotopy Invariance of Homology)](Theorem%2013%20%28Homotopy%20Invariance%20of%20Homology%29.md)
 
 ###### References.
 [1] Pamuk (2026 Fall) *Lecture*.
 
-[2] Pamuk, M. (2026). *[Worked Calculations for Sections 6.1–6.4](Pamuk-Applications-3.pdf)* (pp. 1 (1), 7 (7), 8 (8)).
+[2] Pamuk, M. (2026). *[Worked Calculations for Sections 6.1–6.4](_materials/Pamuk-Applications-3.pdf)* (pp. 1 (1), 7 (7), 8 (8)).
 
 [3] Pamuk, M. (2026). *[Midterm 1 Preparation Worksheet](_materials/Pamuk%20-%20Midterm%201%20Preparation%20Worksheet.pdf)* (pp. 2 (2), 4 (4), 5 (5), 7 (7), 8 (8), 10 (10), 11 (11), 12 (12)).
+
+[4] Pamuk, M. (2026). *[Lecture notes on simplicial homology](_materials/Pamuk-4.pdf)* (pp. 9 (9), 18 (18)).
 
 #mathematics #computational-topology #theorem

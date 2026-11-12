@@ -1,6 +1,8 @@
 
 > [!prop] [Proposition 03 (Betti Numbers of Closed Surfaces)](Proposition%2003%20%28Betti%20Numbers%20of%20Closed%20Surfaces%29.md): A triangulated closed connected surface has Betti tuple $(1,2-\chi,1)$ over $\mathbb{Z}/2$.
 
+> [!rem] Classification gives $b_1=0$ for the sphere, $2g$ for an orientable surface of genus $g$, and $k$ for a sum of $k$ projective planes. The torus and Klein bottle both have $(1,2,1)$ over $\mathbb{Z}/2$; integer homology is needed to distinguish them by homology.
+
 ###### Examples.
 > [!eg] Ex. 1: The six-vertex projective-plane triangulation has $(V,E,F)=(6,15,10)$ and $\chi=1$, hence Betti tuple $(1,1,1)$. See [Exercise 07 (Minimal Projective Plane Triangulation)](Exercises/Exercise%2007%20%28Minimal%20Projective%20Plane%20Triangulation%29.md) for the minimality question.
 
@@ -20,6 +22,10 @@
 
 > [!eg] Ex. 9: The tuples are $(1,1)$, $(1,0,1)$, and $(1,0,0,0,0,0)$ (see [Exercise 63 (Betti Numbers of Hexagonal Rips)](Exercises/Exercise%2063%20%28Betti%20Numbers%20of%20Hexagonal%20Rips%29.md)).
 
+> [!eg] Ex. 10: On the nine-vertex torus, $\alpha=12+23+31$ and $\beta=14+47+71$ (edges in vertex-set shorthand) follow the two identified sides. Their classes form a basis of $H_1$ over $\mathbb{Z}/2$, and the sum of the $18$ triangles spans $H_2$.
+>
+> ![The two generators of first homology on the nine-vertex torus](_attachments/pamuk-4-homology/figure-4.png)
+
 ###### Proof.
 > [!pf] *Proof.* There are no $3$-simplices, so $H_2=Z_2$. Each edge lies in exactly two triangles by [Lemma 01 (Closed Surface Edge Incidence)](Lemma%2001%20%28Closed%20Surface%20Edge%20Incidence%29.md). A $2$-cycle meets each edge an even number of times; if it contains one triangle, it contains every triangle adjacent across an edge, and connectedness propagates this to all triangles. The sum of all triangles is itself a cycle, giving $b_2=1$. By [Theorem 11 (Zeroth Homology Counts Components)](Theorem%2011%20%28Zeroth%20Homology%20Counts%20Components%29.md), $b_0=1$, and [Theorem 10 (Euler–Poincaré Formula)](Theorem%2010%20%28Euler%E2%80%93Poincar%C3%A9%20Formula%29.md) gives $b_1=2-\chi$. $\blacksquare$
 
@@ -29,12 +35,16 @@
 - [Theorem 10 (Euler–Poincaré Formula)](Theorem%2010%20%28Euler%E2%80%93Poincar%C3%A9%20Formula%29.md)
 - [Definition 36 (Simplicial Homology)](Definition%2036%20%28Simplicial%20Homology%29.md)
 - [Definition 14 (Closed Manifold)](Definition%2014%20%28Closed%20Manifold%29.md)
+- [Theorem 06 (Classification of Closed Surfaces)](Theorem%2006%20%28Classification%20of%20Closed%20Surfaces%29.md)
+- [Definition 40 (Integral Simplicial Homology)](Definition%2040%20%28Integral%20Simplicial%20Homology%29.md)
 
 ###### References.
 [1] Pamuk (2026 Fall) *Lecture*.
 
-[2] Pamuk, M. (2026). *[Worked Calculations for Sections 6.1–6.4](Pamuk-Applications-3.pdf)* (pp. 5 (5), 6 (6), 8 (8)).
+[2] Pamuk, M. (2026). *[Worked Calculations for Sections 6.1–6.4](_materials/Pamuk-Applications-3.pdf)* (pp. 5 (5), 6 (6), 8 (8)).
 
 [3] Pamuk, M. (2026). *[Midterm 1 Preparation Worksheet](_materials/Pamuk%20-%20Midterm%201%20Preparation%20Worksheet.pdf)* (pp. 2 (2), 4 (4), 5 (5), 8 (8), 10 (10), 11 (11), 12 (12)).
+
+[4] Pamuk, M. (2026). *[Lecture notes on simplicial homology](_materials/Pamuk-4.pdf)* (pp. 9 (9), 10 (10), 13 (13), 18 (18)).
 
 #mathematics #computational-topology #proposition

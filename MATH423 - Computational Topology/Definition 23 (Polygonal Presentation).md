@@ -3,6 +3,8 @@
 
 > [!rem] The resulting cell decomposition has one face, one edge per distinct letter, and vertices equal to the equivalence classes of polygon corners. Thus $\chi=V-E+1$. Label corners $P_0,P_1,\ldots$ in boundary order. Direct each edge using its sign; paired copies of a letter identify their start points and their end points. Different words may give the same surface. Cutting along a diagonal and regluing along paired edges brings words toward canonical forms.
 
+> [!rem] For integral $H_1$, [Proposition 10 (First Homology from Polygon Words)](Proposition%2010%20%28First%20Homology%20from%20Polygon%20Words%29.md) applies only when all corners form one vertex class. The mod-$2$ calculation uses the vertex classes for $\chi$, orientability from the signs in the word, and [Proposition 03 (Betti Numbers of Closed Surfaces)](Proposition%2003%20%28Betti%20Numbers%20of%20Closed%20Surfaces%29.md) for the resulting Betti numbers.
+
 ###### Examples.
 > [!eg] Ex. 1: ![Fundamental polygons for the sphere, torus, Klein bottle and projective plane](_attachments/pamuk-figures/surface-polygons.png)
 
@@ -26,12 +28,16 @@
 
 > [!eg] Ex. 11: The words give $\mathbb{RP}^{2}$, the sum of three projective planes, and the torus, respectively (see [Exercise 35 (Three Hexagon Presentations)](Exercises/Exercise%2035%20%28Three%20Hexagon%20Presentations%29.md)).
 
+> [!eg] Ex. 12: The word presents a torus with $b=(1,2,1)$; its two vertex classes prevent direct application of the integral recipe (see [Exercise 94 (Homology of a Hexagonal Torus)](Exercises/Exercise%2094%20%28Homology%20of%20a%20Hexagonal%20Torus%29.md)).
+
 ###### Dependencies.
 - [Definition 19 (Quotient Topology)](Definition%2019%20%28Quotient%20Topology%29.md)
 - [Definition 12 (Surface)](Definition%2012%20%28Surface%29.md)
 - [Definition 26 (Euler Characteristic)](Definition%2026%20%28Euler%20Characteristic%29.md)
 - [Definition 24 (Orientability)](Definition%2024%20%28Orientability%29.md)
 - [Theorem 06 (Classification of Closed Surfaces)](Theorem%2006%20%28Classification%20of%20Closed%20Surfaces%29.md)
+- [Proposition 10 (First Homology from Polygon Words)](Proposition%2010%20%28First%20Homology%20from%20Polygon%20Words%29.md)
+- [Proposition 03 (Betti Numbers of Closed Surfaces)](Proposition%2003%20%28Betti%20Numbers%20of%20Closed%20Surfaces%29.md)
 
 ###### References.
 [1] Pamuk (2026 Fall) *Lecture*.
@@ -41,5 +47,7 @@
 [3] Pamuk, M. (2026). *[Triangulations, Classification of Surfaces and Abstract Simplicial Complexes](_materials/Pamuk-2.pdf)* (pp. 6 (6)).
 
 [4] Pamuk, M. (2026). *[Midterm 1 Preparation Worksheet](_materials/Pamuk%20-%20Midterm%201%20Preparation%20Worksheet.pdf)* (pp. 1 (1), 2 (2), 7 (7), 8 (8)).
+
+[5] Pamuk, M. (2026). *[Lecture notes on simplicial homology](_materials/Pamuk-4.pdf)* (pp. 13 (13), 15 (15), 16 (16), 18 (18), 19 (19)).
 
 #mathematics #computational-topology #definition

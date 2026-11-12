@@ -1,6 +1,8 @@
 
 > [!thm] [Theorem 11 (Zeroth Homology Counts Components)](Theorem%2011%20%28Zeroth%20Homology%20Counts%20Components%29.md): For a finite simplicial complex, the zeroth Betti number equals the number $c$ of connected components of its $1$-skeleton. The classes of one vertex per component form a basis of $H_0(K;\mathbb{Z}/2)$, and $\operatorname{rank}\partial_1=n_0-c$.
 
+> [!rem] The components of the geometric realization $\lvert K\rvert$ are those of the $1$-skeleton: each simplex is connected and includes its edges. A graph search or union–find therefore computes $b_0$. The parity argument in the proof implies that a $0$-boundary has an even number of vertices in each component. In particular a single vertex never bounds.
+
 ###### Examples.
 > [!eg] Ex. 1: For $X=\{0,1,3,7,8\}\subseteq\mathbb{R}$, let $r=2\epsilon$ be the distance threshold of the Rips complex. The consecutive gaps are $1,2,4,1$; a gap greater than $r$ separates clusters. Thus
 >
@@ -24,12 +26,15 @@
 - [Definition 35 (Betti Number)](Definition%2035%20%28Betti%20Number%29.md)
 - [Definition 29 (Skeletons Stars and Links)](Definition%2029%20%28Skeletons%20Stars%20and%20Links%29.md)
 - [Definition 22 (Connected Component)](Definition%2022%20%28Connected%20Component%29.md)
+- [Definition 9 (Polyhedron)](Definition%209%20%28Polyhedron%29.md)
 
 ###### References.
 [1] Pamuk (2026 Fall) *Lecture*.
 
-[2] Pamuk, M. (2026). *[Worked Calculations for Sections 6.1–6.4](Pamuk-Applications-3.pdf)* (pp. 3 (3), 4 (4), 6 (6), 7 (7), 8 (8)).
+[2] Pamuk, M. (2026). *[Worked Calculations for Sections 6.1–6.4](_materials/Pamuk-Applications-3.pdf)* (pp. 3 (3), 4 (4), 6 (6), 7 (7), 8 (8)).
 
 [3] Pamuk, M. (2026). *[Midterm 1 Preparation Worksheet](_materials/Pamuk%20-%20Midterm%201%20Preparation%20Worksheet.pdf)* (pp. 2 (2), 4 (4), 5 (5), 7 (7), 10 (10), 12 (12)).
+
+[4] Pamuk, M. (2026). *[Lecture notes on simplicial homology](_materials/Pamuk-4.pdf)* (pp. 8 (8), 9 (9), 18 (18)).
 
 #mathematics #computational-topology #theorem

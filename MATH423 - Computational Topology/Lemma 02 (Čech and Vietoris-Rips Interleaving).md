@@ -38,6 +38,8 @@
 >
 > The center belongs to every $\overline{B}_{\sqrt{2}\epsilon}(x_i)$, so $\sigma\in\check{C}_{\sqrt{2}\epsilon}(X)$. $\blacksquare$
 
+> [!pf] *Proof.* In the plane there is also a direct enclosing-disk proof. For a Rips simplex with diameter at most $2\epsilon$, its smallest enclosing disk is determined either by a diameter pair, giving radius at most $\epsilon$, or by three boundary points forming a nonobtuse triangle. In the latter case the longest side $a$ and its opposite angle $\alpha$ satisfy $a\leq2\epsilon$ and $60^\circ\leq\alpha\leq90^\circ$. Hence the circumradius is $a/(2\sin\alpha)\leq 2\epsilon/\sqrt{3}\leq\sqrt{2}\epsilon$. The center lies in the Čech balls at the enlarged scale. $\blacksquare$
+
 ###### Dependencies.
 - [Definition 31 (Čech Complex)](Definition%2031%20%28%C4%8Cech%20Complex%29.md)
 - [Definition 32 (Vietoris-Rips Complex)](Definition%2032%20%28Vietoris-Rips%20Complex%29.md)
@@ -50,5 +52,7 @@
 [2] Pamuk, M. (2026). *[MATH423: Introduction to Computational Topology: Lecture Notes](_materials/Pamuk-3.pdf)* (pp. 7 (7), 8 (8)).
 
 [3] Pamuk, M. (2026). *[Midterm 1 Preparation Worksheet](_materials/Pamuk%20-%20Midterm%201%20Preparation%20Worksheet.pdf)* (pp. 2 (2), 3 (3), 5 (5), 7 (7), 9 (9), 11 (11)).
+
+[4] Pamuk, M. (2026). *[Lecture notes on simplicial homology](_materials/Pamuk-4.pdf)* (pp. 3 (3), 12 (12), 18 (18)).
 
 #mathematics #computational-topology #lemma

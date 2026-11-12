@@ -3,6 +3,8 @@
 
 > [!rem] Homotopy equivalence is weaker than homeomorphism but preserves the number of connected components and all homology groups computed later in the course.
 
+> [!rem] The nerve equivalence gives the same homology by [Theorem 13 (Homotopy Invariance of Homology)](Theorem%2013%20%28Homotopy%20Invariance%20of%20Homology%29.md), for example between a Euclidean Čech complex and the union of its balls.
+
 ###### Examples.
 > [!eg] Ex. 1: Cover $S^1$ by three closed arcs, each slightly longer than one third of the circle, with consecutive arcs overlapping and no triple intersection. Pairwise intersections are contractible arcs. The nerve is a hollow triangle and hence homeomorphic to $S^1$, agreeing with the theorem.
 
@@ -16,6 +18,7 @@
 - Homotopy Equivalence {unresolved}
 - Contractibility {unresolved}
 - Paracompactness {unresolved}
+- [Theorem 13 (Homotopy Invariance of Homology)](Theorem%2013%20%28Homotopy%20Invariance%20of%20Homology%29.md)
 
 ###### References.
 [1] Pamuk (2026 Fall) *Lecture*.
@@ -23,5 +26,7 @@
 [2] Pamuk, M. (2026). *[MATH423: Introduction to Computational Topology: Lecture Notes](_materials/Pamuk-3.pdf)* (pp. 5 (5), 6 (6)).
 
 [3] Pamuk, M. (2026). *[Midterm 1 Preparation Worksheet](_materials/Pamuk%20-%20Midterm%201%20Preparation%20Worksheet.pdf)* (pp. 3 (3), 9 (9)).
+
+[4] Pamuk, M. (2026). *[Lecture notes on simplicial homology](_materials/Pamuk-4.pdf)* (pp. 3 (3), 16 (16)).
 
 #mathematics #computational-topology #theorem

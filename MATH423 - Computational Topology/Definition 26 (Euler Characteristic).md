@@ -9,6 +9,8 @@
 
 > [!rem] The formula $V-E+F$ also applies to surface decompositions into vertices, edges and polygonal faces with open-disk interiors. Thus it applies to polygonal presentations and to a cube. It also makes sense for compact surfaces with boundary.
 
+> [!rem] The Euler characteristic combines counts from all dimensions. It cannot distinguish a sphere from two points: both have $\chi=2$, but their mod-$2$ Betti tuples are $(1,0,1)$ and $(2,0,0)$. The alternating sum of the Betti numbers is the same $\chi$ by [Theorem 10 (Euler–Poincaré Formula)](Theorem%2010%20%28Euler%E2%80%93Poincar%C3%A9%20Formula%29.md).
+
 ###### Motivation.
 The Euler characteristic is a *global property computed by local counting*. Read the triangle list, collect distinct vertices and edges, and count; no geometric embedding or identification of the surface is needed.
 
@@ -38,6 +40,7 @@ The Euler characteristic is a *global property computed by local counting*. Read
 - [Definition 28 (Abstract Simplicial Complex)](Definition%2028%20%28Abstract%20Simplicial%20Complex%29.md)
 - [Definition 8 (Dimension Of A Simplicial Complex)](Definition%208%20%28Dimension%20Of%20A%20Simplicial%20Complex%29.md)
 - Binomial Theorem {unresolved}
+- [Theorem 10 (Euler–Poincaré Formula)](Theorem%2010%20%28Euler%E2%80%93Poincar%C3%A9%20Formula%29.md)
 
 ###### References.
 [1] Pamuk (2026 Fall) *Lecture*.
@@ -47,5 +50,7 @@ The Euler characteristic is a *global property computed by local counting*. Read
 [3] Pamuk, M. (2026). *[MATH423: Introduction to Computational Topology: Lecture Notes](_materials/Pamuk-3.pdf)* (pp. 5 (5)).
 
 [4] Pamuk, M. (2026). *[Midterm 1 Preparation Worksheet](_materials/Pamuk%20-%20Midterm%201%20Preparation%20Worksheet.pdf)* (pp. 3 (3), 5 (5), 8 (8), 12 (12)).
+
+[5] Pamuk, M. (2026). *[Lecture notes on simplicial homology](_materials/Pamuk-4.pdf)* (pp. 2 (2), 18 (18)).
 
 #mathematics #computational-topology #definition

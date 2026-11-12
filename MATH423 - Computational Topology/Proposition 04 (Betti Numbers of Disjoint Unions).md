@@ -18,4 +18,6 @@
 
 [2] Pamuk, M. (2026). *[Midterm 1 Preparation Worksheet](_materials/Pamuk%20-%20Midterm%201%20Preparation%20Worksheet.pdf)* (pp. 5 (5), 12 (12)).
 
+[3] Pamuk, M. (2026). *[Lecture notes on simplicial homology](_materials/Pamuk-4.pdf)* (pp. 10 (10), 18 (18)).
+
 #mathematics #computational-topology #proposition
