@@ -1,6 +1,10 @@
 
 > [!def] [Definition 46 (Set-to-Set Paths and Cuts)](Definition%2046%20%28Set-to-Set%20Paths%20and%20Cuts%29.md): In a digraph, an **$AB$-path** begins in $A$, ends in $B$, and has no internal vertex in either set. A vertex of $A\cap B$ counts as a path of length zero. An **$AB$-cut** is a vertex set meeting every $AB$-path. An **$AB$-connector** is a subgraph whose components are $AB$-paths, with the empty subgraph allowed.
 
+$A$ ve $B$, digraph $G$’nin vertex kümeleri. Bir $AB$-path, $A$’dan seçilen bir vertex’te başlar, $B$’den seçilen bir vertex’te biter. Aradaki **internal vertex**’lerin tümü $A\cup B$’nin dışında olmalıdır.
+
+$S$ bir $AB$-cut ise her $AB$-path $P$ için $V(P)\cap S\neq\varnothing$.
+
 ###### Dependencies.
 - [Definition 2 (Multigraphs And Digraphs)](../Chapter%201/Definition%202%20%28Multigraphs%20And%20Digraphs%29.md)
 - [Definition 12 (Paths And Cycles)](../Chapter%201/Definition%2012%20%28Paths%20And%20Cycles%29.md)

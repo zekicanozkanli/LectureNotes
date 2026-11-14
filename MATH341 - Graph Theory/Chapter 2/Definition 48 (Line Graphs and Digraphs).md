@@ -7,6 +7,9 @@ The construction turns an edge problem into a vertex problem. In particular, it 
 ###### Examples.
 > [!eg] Ex. 1: $L(K_{1,4})=K_{4}$. The line graph of $K_{4}$ is the octahedral graph $K_{2,2,2}$.
 
+
+Ex. 2: $G$’de yalnızca $e=(a\to b)$ ve $f=(c\to b)$ arc’ları varsa, **line digraph $L(G)$** için şunu yazarız: $V(L(G))=\{e,f\},\ A(L(G))=\varnothing.$ -two isolated points.
+
 ###### Dependencies.
 - [Definition 2 (Multigraphs And Digraphs)](../Chapter%201/Definition%202%20%28Multigraphs%20And%20Digraphs%29.md)
 - [Definition 4 (Adjacency And Incidence)](../Chapter%201/Definition%204%20%28Adjacency%20And%20Incidence%29.md)

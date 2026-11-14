@@ -1,6 +1,7 @@
 
 > [!prop] [Proposition 10 (Block-Cutvertex Tree)](Proposition%2010%20%28Block-Cutvertex%20Tree%29.md): For a connected graph with a cut-vertex, the block-cutvertex graph is a tree whose leaves all represent blocks. In particular, the original graph has at least two **end-blocks**, each containing exactly one cut-vertex.
 
+$G$ connected bir graph olsun ve en az bir **cut vertex** içersin. O zaman $G$’nin **block–cut vertex graph**’ı bir tree’dir ve bu tree’nin her leaf’i $G$’nin bir block’unu temsil eder. Dolayısıyla $G$’de en az iki **end-block** vardır. Her end-block, $G$’nin tam bir cut vertex’ini içerir.
 ###### Proof.
 > [!pf] *Proof.* A path in the original graph gives a walk through the blocks it traverses and their intervening cut-vertices, so the incidence graph is connected. If it contained a cycle, the corresponding blocks would form a union with no cut-vertex, since the other direction around the cycle connects the remaining blocks when one shared vertex is removed. This contradicts maximality of the blocks. Every cut-vertex belongs to at least two blocks, so every leaf is a block vertex. Apply [Proposition 06 (Trees Have Two Leaves)](Proposition%2006%20%28Trees%20Have%20Two%20Leaves%29.md). $\blacksquare$
 

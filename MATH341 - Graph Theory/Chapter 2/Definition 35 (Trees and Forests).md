@@ -9,6 +9,10 @@
 > [!eg] Ex. 2: The trees of orders $1$ through $5$ are shown by order.
 > ![All trees of orders one through five](../_attachments/math341-ch23-small-trees.png)
 
+> [!eg] Ex. 3: $V(G)=\{a,b,c,d\}$ ve $E(G)=\{ab,cd\}$ olsun. Bu graph’ın iki ayrı component’ı var: $a-b$ ve $c-d$.
+>
+> Hiç cycle içermediği için $G$ bir forest’tır. $a$ ile $c$ arasında bir path olmadığı için $G$ disconnected’dır ve tree değildir. Her component ise kendi başına bir tree’dir.
+
 ###### Dependencies.
 - [Definition 12 (Paths And Cycles)](../Chapter%201/Definition%2012%20%28Paths%20And%20Cycles%29.md)
 - [Definition 25 (Complete Bipartite Graphs And Stars)](../Chapter%201/Definition%2025%20%28Complete%20Bipartite%20Graphs%20And%20Stars%29.md)
