@@ -5,3 +5,7 @@ thm 22
 
 
 ![[Pasted image 20261102160500.png]]
+
+
+
+![[Pasted image 20261115183716.png]]

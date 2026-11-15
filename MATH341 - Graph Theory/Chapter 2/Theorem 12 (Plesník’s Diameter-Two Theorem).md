@@ -13,7 +13,7 @@
 ###### Dependencies.
 - [Proposition 11 (Bonds Split Two Components)](Proposition%2011%20%28Bonds%20Split%20Two%20Components%29.md)
 - [Theorem 10 (Whitney’s Connectivity Inequalities)](Theorem%2010%20%28Whitney%E2%80%99s%20Connectivity%20Inequalities%29.md)
-- [Definition 32 (Distance, Geodesic, Diameter, Radius, Eccentricity and Center)](../Chapter%201/Definition%2032%20%28Distance%2C%20Geodesic%2C%20Diameter%2C%20Radius%2C%20Eccentricity%20and%20Center%29.md)
+- [[Definition 32 (Distance, Geodesic, Diameter, Radius, Eccentricity and Center)]] 
 
 ###### References.
 [1] Bickle, A. (2020). *Fundamentals of graph theory*. American Mathematical Society. (p. 46 (63)). Source theorem 2.33.

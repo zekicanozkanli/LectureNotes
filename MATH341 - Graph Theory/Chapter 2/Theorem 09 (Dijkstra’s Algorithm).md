@@ -1,6 +1,8 @@
 
 > [!thm] [Theorem 09 (Dijkstra’s Algorithm)](Theorem%2009%20%28Dijkstra%E2%80%99s%20Algorithm%29.md): For a weighted graph with nonnegative edge weights and starting vertex $u$, Dijkstra’s algorithm computes $d(u,z)$ for every vertex $z$.
 
+Starting vertex'ten her noktaya en kısa patikaları bul. Bu patikaların union'ını al.
+
 > [!rem] Remark. Initially take $S=\{u\}$, $t(u)=0$, and $t(x)=w(ux)$ for neighbors of $u$, with $t(x)=\infty$ otherwise. Select a vertex $v\notin S$ of smallest finite tentative distance, add it to $S$, and for each neighbor $y\notin S$ replace $t(y)$ by $\min\{t(y),t(v)+w(vy)\}$. Stop when no finite tentative distance remains outside $S$.
 
 > [!rem] Remark. The implementation described in the source takes $O(n^{2})$ time. With all weights $1$, the selection proceeds by distance layers as in breadth-first search. Running breadth-first search from every vertex computes all eccentricities and the diameter. In a connected graph, recording one predecessor per newly reached vertex yields a shortest-path spanning tree rooted at $u$.
