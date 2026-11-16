@@ -3,6 +3,7 @@
 
 > [!ex] [Exercise 22 (Encoding a Labeled Tree)](Exercise%2022%20%28Encoding%20a%20Labeled%20Tree%29.md): Find the Prufer code of the tree above right.
 
+$(5,8,3,5,8,2)$  and $(10,4,10,1,3,1,8,4)$ 
 ###### Dependencies.
 - [Theorem 07 (Cayley’s Formula)](../Theorem%2007%20%28Cayley%E2%80%99s%20Formula%29.md)
 

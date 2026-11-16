@@ -1,8 +1,7 @@
 
 > [!def] [Definition 41 (Cut-Vertices Bridges and Blocks)](Definition%2041%20%28Cut-Vertices%20Bridges%20and%20Blocks%29.md): A **cut-vertex** of $G$ is a vertex $v$ whose deletion increases the number of components. A **bridge** is an edge whose deletion increases the number of components. A **block** is a maximal subgraph without a cut-vertex of its own.
 
-> [!rem] Remark. A cut-vertex belongs to at least two blocks. Distinct blocks have at most one common vertex, which is a cut-vertex. If two blocks shared two vertices, their union would have no cut-vertex, contradicting maximality. The blocks partition the edges, so their sizes sum to the size of the graph.
-
+> [!rem] Remark. A cut-vertex belongs to at least two blocks. Distinct blocks have at most one common vertex, which is a cut-vertex. If two blocks shared two vertices, their union would have no cut-vertex, contradicting maximality. The blocks partition the edges, so their sizes sum to the size of the graph. 
 ###### Motivation.
 When vertices model substations and edges model transmission lines, a cut-vertex or bridge represents a single failure capable of disconnecting part of the grid.
 

@@ -4,6 +4,7 @@
 > (a) $(4,7,6,4,1,1)$.  
 > (b) $(9,7,9,9,3,4,1,10)$.
 
+V listesinde code'da olmayan en küçük sayıyı al ilk kod hanesi ile eşle. V listesinde sona daima iki vertex bırak. en son bu ikisini birleştir.
 ###### Dependencies.
 - [Theorem 07 (Cayley’s Formula)](../Theorem%2007%20%28Cayley%E2%80%99s%20Formula%29.md)
 

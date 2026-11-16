@@ -1,7 +1,8 @@
 
 > [!def] [Definition 54 (Self-Complementary Graphs)](Definition%2054%20%28Self-Complementary%20Graphs%29.md): A graph $G$ is **self-complementary** if $G\cong\overline{G}$.
 
-> [!rem] Remark. A self-complementary graph of order $n$ has size $n(n-1)/4$, so $n\equiv0$ or $1\pmod 4$. The numbers of such graphs by order begin $1,0,0,1,2,0,0,10,36,0,0,720,5600,\ldots$.
+> [!rem] Remark. A self-complementary graph of order $n$ has size $n(n-1)/4$ (since size is a graph invariant), so $n\equiv0$ or $1\pmod 4$. The numbers of such graphs by order begin $1,0,0,1,2,0,0,10,36,0,0,720,5600,\ldots$.
+
 
 ###### Examples.
 > [!eg] Ex. 1: The self-complementary graphs of order at most five are $K_{1}$, $P_{4}$, $C_{5}$, and the bull graph.

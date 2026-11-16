@@ -1,6 +1,8 @@
 
 > [!thm] [Theorem 17 (Global Forms of Menger’s Theorem)](Theorem%2017%20%28Global%20Forms%20of%20Menger%E2%80%99s%20Theorem%29.md): For a graph or digraph with at least two vertices, the connectivity is the largest $k$ for which every pair of distinct vertices admits at least $k$ independent paths. The edge connectivity is the largest $k$ for which every pair admits at least $k$ edge-independent paths. In a digraph, use ordered pairs and directed connectivity.
 
+Graph’ın connectivity’sini, aralarında en az sayıda bağımsız path bulunan vertex çifti belirler.
+Önce bir \(u,v\) çifti seçip aralarında **en fazla kaç tane** bağımsız path bulabildiğine bakarsın. Sonra bunu bütün çiftler için düşünüp bu sayıların **en küçüğünü** alırsın.
 ###### Examples.
 > [!eg] Ex. 1: For either possible adjacency relation between two vertices of the Petersen graph, the diagram shows three independent paths. Its vertex connectivity and edge connectivity are both $3$, using its cubic degree and [Theorem 10 (Whitney’s Connectivity Inequalities)](Theorem%2010%20%28Whitney%E2%80%99s%20Connectivity%20Inequalities%29.md).
 > ![Three independent paths for adjacent and nonadjacent Petersen vertices](../_attachments/math341-ch23-petersen-connectivity.png)

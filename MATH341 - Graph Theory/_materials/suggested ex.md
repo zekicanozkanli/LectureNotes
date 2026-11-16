@@ -3,6 +3,7 @@ no lemma
 prop 15
 thm 22
 
+*eski mailden suggestedlara bakabilirsin* 
 
 ![[Pasted image 20261102160500.png]]
 

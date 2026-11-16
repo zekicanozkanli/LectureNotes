@@ -6,6 +6,10 @@
 > (c) $K_{6}-v$  
 > (d) $K_{3,3}-v$
 
+a. no
+b. no
+c. yes
+d. yes
 ###### Dependencies.
 - [Definition 11 (Graph Class)](../Definition%2011%20%28Graph%20Class%29.md)
 - [Definition 12 (Paths And Cycles)](../Definition%2012%20%28Paths%20And%20Cycles%29.md)
