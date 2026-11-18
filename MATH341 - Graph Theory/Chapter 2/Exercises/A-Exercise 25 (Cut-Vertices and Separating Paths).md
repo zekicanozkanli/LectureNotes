@@ -1,5 +1,5 @@
 
-> [!ex] [Exercise 25 (Cut-Vertices and Separating Paths)](Exercise%2025%20%28Cut-Vertices%20and%20Separating%20Paths%29.md): Show that a vertex $v$ of a graph $G$ is a cut-vertex if and only if there are vertices $u$ and $w$ in $G$ such that every $u-w$ path contains $v$.
+> [!ex] [A-Exercise 25 (Cut-Vertices and Separating Paths)](A-Exercise%2025%20(Cut-Vertices%20and%20Separating%20Paths).md): Show that a vertex $v$ of a graph $G$ is a cut-vertex if and only if there are vertices $u$ and $w$ in $G$ such that every $u-w$ path contains $v$.
 
 ###### Proof.
 > [!pf] *Proof.* The path condition is understood to require $u,w\in V(G)\setminus\{v\}$ and at least one $u-w$ path in $G$. Let $C$ be the component of $G$ containing $v$.
