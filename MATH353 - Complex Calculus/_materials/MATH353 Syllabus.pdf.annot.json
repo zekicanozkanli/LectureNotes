@@ -9,24 +9,24 @@
     "ctime": 1791385440203,
     "mtime": 1791385440204
   },
-  "updatedAt": "2026-11-19T06:16:05.298Z",
+  "updatedAt": "2026-11-20T14:18:08.396Z",
   "strokes": [
     {
       "inkSettings": {
+        "inkModel": "continuous-v1",
+        "smoothingMode": "pressure",
+        "pressureResponse": "gentle",
+        "strokeGeometry": "round",
+        "edgeGeometryVersion": 2,
+        "widthSmoothing": "extra-smooth",
+        "widthSmoothingVersion": 2,
         "thinning": 0.5,
         "streamline": 0.12,
         "smoothing": 0.5,
         "easing": "linear",
         "taperStart": 0,
         "taperEnd": 0,
-        "pressureMode": "auto",
-        "inkModel": "continuous-v1",
-        "edgeGeometryVersion": 2,
-        "widthSmoothingVersion": 2,
-        "widthSmoothing": "extra-smooth",
-        "smoothingMode": "pressure",
-        "pressureResponse": "gentle",
-        "strokeGeometry": "round"
+        "pressureMode": "auto"
       },
       "id": "stroke-1795068929060-y9im75u0",
       "page": 3,
@@ -348,25 +348,25 @@
           "t": 796666096.2
         }
       ],
-      "zIndex": 7,
+      "zIndex": 0,
       "createdAt": "2026-11-19T06:15:29.061Z"
     },
     {
       "inkSettings": {
+        "inkModel": "continuous-v1",
+        "smoothingMode": "pressure",
+        "pressureResponse": "gentle",
+        "strokeGeometry": "round",
+        "edgeGeometryVersion": 2,
+        "widthSmoothing": "extra-smooth",
+        "widthSmoothingVersion": 2,
         "thinning": 0.5,
         "streamline": 0.12,
         "smoothing": 0.5,
         "easing": "linear",
         "taperStart": 0,
         "taperEnd": 0,
-        "pressureMode": "auto",
-        "inkModel": "continuous-v1",
-        "edgeGeometryVersion": 2,
-        "widthSmoothingVersion": 2,
-        "widthSmoothing": "extra-smooth",
-        "smoothingMode": "pressure",
-        "pressureResponse": "gentle",
-        "strokeGeometry": "round"
+        "pressureMode": "auto"
       },
       "id": "stroke-1795068933977-yigli8ie",
       "page": 2,
@@ -826,25 +826,25 @@
           "t": 796671412.9000001
         }
       ],
-      "zIndex": 4,
+      "zIndex": 0,
       "createdAt": "2026-11-19T06:15:33.977Z"
     },
     {
       "inkSettings": {
+        "inkModel": "continuous-v1",
+        "smoothingMode": "pressure",
+        "pressureResponse": "gentle",
+        "strokeGeometry": "round",
+        "edgeGeometryVersion": 2,
+        "widthSmoothing": "extra-smooth",
+        "widthSmoothingVersion": 2,
         "thinning": 0.5,
         "streamline": 0.12,
         "smoothing": 0.5,
         "easing": "linear",
         "taperStart": 0,
         "taperEnd": 0,
-        "pressureMode": "auto",
-        "inkModel": "continuous-v1",
-        "edgeGeometryVersion": 2,
-        "widthSmoothingVersion": 2,
-        "widthSmoothing": "extra-smooth",
-        "smoothingMode": "pressure",
-        "pressureResponse": "gentle",
-        "strokeGeometry": "round"
+        "pressureMode": "auto"
       },
       "id": "stroke-1795068936777-ahva0no9",
       "page": 2,
@@ -1220,25 +1220,25 @@
           "t": 796674029.6000001
         }
       ],
-      "zIndex": 5,
+      "zIndex": 1,
       "createdAt": "2026-11-19T06:15:36.777Z"
     },
     {
       "inkSettings": {
+        "inkModel": "continuous-v1",
+        "smoothingMode": "pressure",
+        "pressureResponse": "gentle",
+        "strokeGeometry": "round",
+        "edgeGeometryVersion": 2,
+        "widthSmoothing": "extra-smooth",
+        "widthSmoothingVersion": 2,
         "thinning": 0.5,
         "streamline": 0.12,
         "smoothing": 0.5,
         "easing": "linear",
         "taperStart": 0,
         "taperEnd": 0,
-        "pressureMode": "auto",
-        "inkModel": "continuous-v1",
-        "edgeGeometryVersion": 2,
-        "widthSmoothingVersion": 2,
-        "widthSmoothing": "extra-smooth",
-        "smoothingMode": "pressure",
-        "pressureResponse": "gentle",
-        "strokeGeometry": "round"
+        "pressureMode": "auto"
       },
       "id": "stroke-1795068940409-vr1bf77l",
       "page": 3,
@@ -1686,25 +1686,25 @@
           "t": 796677829.5
         }
       ],
-      "zIndex": 8,
+      "zIndex": 1,
       "createdAt": "2026-11-19T06:15:40.409Z"
     },
     {
       "inkSettings": {
+        "inkModel": "continuous-v1",
+        "smoothingMode": "pressure",
+        "pressureResponse": "gentle",
+        "strokeGeometry": "round",
+        "edgeGeometryVersion": 2,
+        "widthSmoothing": "extra-smooth",
+        "widthSmoothingVersion": 2,
         "thinning": 0.5,
         "streamline": 0.12,
         "smoothing": 0.5,
         "easing": "linear",
         "taperStart": 0,
         "taperEnd": 0,
-        "pressureMode": "auto",
-        "inkModel": "continuous-v1",
-        "edgeGeometryVersion": 2,
-        "widthSmoothingVersion": 2,
-        "widthSmoothing": "extra-smooth",
-        "smoothingMode": "pressure",
-        "pressureResponse": "gentle",
-        "strokeGeometry": "round"
+        "pressureMode": "auto"
       },
       "id": "stroke-1795068945578-givjkdsg",
       "page": 3,
@@ -2098,25 +2098,25 @@
           "t": 796683063
         }
       ],
-      "zIndex": 9,
+      "zIndex": 2,
       "createdAt": "2026-11-19T06:15:45.578Z"
     },
     {
       "inkSettings": {
+        "inkModel": "continuous-v1",
+        "smoothingMode": "pressure",
+        "pressureResponse": "gentle",
+        "strokeGeometry": "round",
+        "edgeGeometryVersion": 2,
+        "widthSmoothing": "extra-smooth",
+        "widthSmoothingVersion": 2,
         "thinning": 0.5,
         "streamline": 0.12,
         "smoothing": 0.5,
         "easing": "linear",
         "taperStart": 0,
         "taperEnd": 0,
-        "pressureMode": "auto",
-        "inkModel": "continuous-v1",
-        "edgeGeometryVersion": 2,
-        "widthSmoothingVersion": 2,
-        "widthSmoothing": "extra-smooth",
-        "smoothingMode": "pressure",
-        "pressureResponse": "gentle",
-        "strokeGeometry": "round"
+        "pressureMode": "auto"
       },
       "id": "stroke-1795068953861-n6isccok",
       "page": 3,
@@ -2570,25 +2570,25 @@
           "t": 796691996.5
         }
       ],
-      "zIndex": 10,
+      "zIndex": 3,
       "createdAt": "2026-11-19T06:15:53.861Z"
     },
     {
       "inkSettings": {
+        "inkModel": "continuous-v1",
+        "smoothingMode": "pressure",
+        "pressureResponse": "gentle",
+        "strokeGeometry": "round",
+        "edgeGeometryVersion": 2,
+        "widthSmoothing": "extra-smooth",
+        "widthSmoothingVersion": 2,
         "thinning": 0.5,
         "streamline": 0.12,
         "smoothing": 0.5,
         "easing": "linear",
         "taperStart": 0,
         "taperEnd": 0,
-        "pressureMode": "auto",
-        "inkModel": "continuous-v1",
-        "edgeGeometryVersion": 2,
-        "widthSmoothingVersion": 2,
-        "widthSmoothing": "extra-smooth",
-        "smoothingMode": "pressure",
-        "pressureResponse": "gentle",
-        "strokeGeometry": "round"
+        "pressureMode": "auto"
       },
       "id": "stroke-1795068960077-5j5498i1",
       "page": 3,
@@ -2928,25 +2928,25 @@
           "t": 796697313.5
         }
       ],
-      "zIndex": 11,
+      "zIndex": 4,
       "createdAt": "2026-11-19T06:16:00.077Z"
     },
     {
       "inkSettings": {
+        "inkModel": "continuous-v1",
+        "smoothingMode": "pressure",
+        "pressureResponse": "gentle",
+        "strokeGeometry": "round",
+        "edgeGeometryVersion": 2,
+        "widthSmoothing": "extra-smooth",
+        "widthSmoothingVersion": 2,
         "thinning": 0.5,
         "streamline": 0.12,
         "smoothing": 0.5,
         "easing": "linear",
         "taperStart": 0,
         "taperEnd": 0,
-        "pressureMode": "auto",
-        "inkModel": "continuous-v1",
-        "edgeGeometryVersion": 2,
-        "widthSmoothingVersion": 2,
-        "widthSmoothing": "extra-smooth",
-        "smoothingMode": "pressure",
-        "pressureResponse": "gentle",
-        "strokeGeometry": "round"
+        "pressureMode": "auto"
       },
       "id": "stroke-1795068963260-0p6me9ut",
       "page": 3,
@@ -3406,7 +3406,7 @@
           "t": 796700729.8
         }
       ],
-      "zIndex": 12,
+      "zIndex": 5,
       "createdAt": "2026-11-19T06:16:03.261Z"
     }
   ],
