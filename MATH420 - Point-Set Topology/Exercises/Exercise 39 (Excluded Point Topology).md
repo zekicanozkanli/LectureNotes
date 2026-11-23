@@ -11,7 +11,7 @@
 > Hence $\mathcal T$ is closed under finite intersections and arbitrary unions, and is a topology on $X$. $\blacksquare$
 
 ###### Dependencies.
-- [[Definition 1 (Topological Space)]]
+- [[Definition 01 (Topological Space)]]
 
 ###### References.
 [1] Talu (2026 Fall) *Lecture*.

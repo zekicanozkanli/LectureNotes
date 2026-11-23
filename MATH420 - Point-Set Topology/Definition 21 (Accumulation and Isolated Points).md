@@ -19,7 +19,7 @@
 > [!eg] Ex. 7: The particular-point computations of $I(\{3,6\})$ and $\widetilde{\{3,6\}}$ in $\mathbb{R}$ have no supplied solution: {unresolved} (see [Exercise 56 (Particular Point Topology Computations)](Exercises/Exercise%2056%20%28Particular%20Point%20Topology%20Computations%29.md)).
 
 ###### Dependencies.
-- [Definition 1 (Topological Space)](Definition%201%20%28Topological%20Space%29.md)
+- [Definition 01 (Topological Space)](Definition%2001%20(Topological%20Space).md)
 
 ###### References.
 [1] Talu (2026 Fall) *Lecture*.

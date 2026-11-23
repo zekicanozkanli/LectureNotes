@@ -23,7 +23,7 @@ iii. Is $f$ a continuous function?
 ###### Proof.
 
 > [!proof]
-> i. For [[Definition 6 (Open And Closed Functions)]], the images of all the open subsets are:
+> i. For [[Definition 06 (Open And Closed Functions)]], the images of all the open subsets are:
 > i. $f(\emptyset)=\emptyset\in\mathcal V$.
 > ii. $f(\{a\})=\{x\}\in\mathcal V$.
 > iii. $f(\{b\})=\{y\}\in\mathcal V$.
@@ -35,7 +35,7 @@ iii. Is $f$ a continuous function?
 > ix. $f(X)=\{x,y\}\in\mathcal V$.
 > Therefore $f$ is an open function.
 >
-> ii. By [[Definition 2 (Closed Sets)]],
+> ii. By [[Definition 02 (Closed Sets)]],
 > $$\mathcal T_K=\{X,\{b,c,d\},\{a,c,d\},\{a,b,c\},\{c,d\},\{b,c\},\{a,c\},\{c\},\emptyset\},$$
 > $$\mathcal V_K=\{Y,\{y,z\},\{x,z\},\{z\},\emptyset\}.$$
 > The images recorded in the lecture are:
@@ -50,7 +50,7 @@ iii. Is $f$ a continuous function?
 > ix. $f(\emptyset)=\emptyset$.
 > Since $X\in\mathcal T_K$, but $f(X)\notin\mathcal V_K$, $f$ is not a closed function.
 >
-> iii. $\{y\}\in\mathcal V$, but $f^{-1}(\{y\})=\{b,c,d\}\notin\mathcal T$. Hence $f$ is discontinuous, by [[Definition 5 (Continuous Functions)]].
+> iii. $\{y\}\in\mathcal V$, but $f^{-1}(\{y\})=\{b,c,d\}\notin\mathcal T$. Hence $f$ is discontinuous, by [[Definition 05 (Continuous Functions)]].
 
 ###### Bibliography.
 

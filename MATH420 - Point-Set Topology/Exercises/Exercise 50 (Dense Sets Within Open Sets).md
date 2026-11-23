@@ -2,7 +2,7 @@
 > [!ex] [[Exercise 50 (Dense Sets Within Open Sets)]]: Let $(X,\mathcal T)$ be a topological space, $A$ a dense subset of $X$, and $U\in\mathcal T$. Show that $U\subseteq\overline{A\cap U}$.
 
 ###### Dependencies.
-- [[Definition 1 (Topological Space)]]
+- [[Definition 01 (Topological Space)]]
 - [[Definition 19 (Closure)]]
 - [[Definition 20 (Dense Subsets)]]
 

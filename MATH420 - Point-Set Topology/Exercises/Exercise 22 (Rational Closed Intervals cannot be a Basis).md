@@ -6,7 +6,7 @@
 
 ###### Dependencies.
 - [[Definition 12 (Basis For A Topology)]]
-- [[Theorem 4 (Conditions For A Collection To Form A Basis)]]
+- [[Theorem 04 (Conditions For A Collection To Form A Basis)]]
 
 ###### References.
 [1] Talu (2026 Fall) *Lecture*.

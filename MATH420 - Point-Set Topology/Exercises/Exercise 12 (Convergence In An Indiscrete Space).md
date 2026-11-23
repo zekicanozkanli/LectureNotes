@@ -5,7 +5,7 @@ Let $(X,\mathcal T)$ be the indiscrete topological space, and $(x_n)$ be a seque
 ###### Proof.
 
 > [!proof]
-> Let $x\in X$. Since $\mathcal T$ is the indiscrete or trivial topology on $X$, there is only one $\mathcal T$-open set containing $x$. It is the set $X$ itself, by [[Definition 1 (Topological Space)]]. Because $x_n\in X$ for any $n\ge1$, $\lim_{n\to\infty}x_n=x$, by [[Definition 10 (Convergence Of A Sequence)]].
+> Let $x\in X$. Since $\mathcal T$ is the indiscrete or trivial topology on $X$, there is only one $\mathcal T$-open set containing $x$. It is the set $X$ itself, by [[Definition 01 (Topological Space)]]. Because $x_n\in X$ for any $n\ge1$, $\lim_{n\to\infty}x_n=x$, by [[Definition 10 (Convergence Of A Sequence)]].
 
 ###### Bibliography.
 

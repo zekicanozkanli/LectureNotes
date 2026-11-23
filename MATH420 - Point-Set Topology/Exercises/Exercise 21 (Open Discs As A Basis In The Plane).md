@@ -6,9 +6,9 @@
 > ![[_attachments/420-Week 3-Lecture 1.pdf#page=4]]
 
 ###### Dependencies.
-- [[Definition 1 (Topological Space)]]
+- [[Definition 01 (Topological Space)]]
 - [[Definition 12 (Basis For A Topology)]]
-- [[Theorem 4 (Conditions For A Collection To Form A Basis)]]
+- [[Theorem 04 (Conditions For A Collection To Form A Basis)]]
 - {unresolved}: the triangle inequality used in the supplied proof has no separate statement note.
 
 ###### References.

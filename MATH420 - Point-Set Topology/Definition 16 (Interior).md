@@ -11,7 +11,7 @@
 > [!eg] Ex. 3: For the five-point example, $A^\circ=\{a,b\}$, $B^\circ=\{a,b,e\}$, and $C^\circ=\{a\}$ (see [[Exercise 61 (Interiors in a Five-Point Space)]]).
 
 ###### Dependencies.
-- [[Definition 1 (Topological Space)]]
+- [[Definition 01 (Topological Space)]]
 
 ###### References.
 [1] Talu (2026 Fall) *Lecture*.

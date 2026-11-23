@@ -20,7 +20,7 @@
 > Therefore $\mathcal T$ is closed under arbitrary unions and is a topology on $\mathbb R$. $\blacksquare$
 
 ###### Dependencies.
-- [[Definition 1 (Topological Space)]]
+- [[Definition 01 (Topological Space)]]
 
 ###### References.
 [1] Talu (2026 Fall) *Lecture*.

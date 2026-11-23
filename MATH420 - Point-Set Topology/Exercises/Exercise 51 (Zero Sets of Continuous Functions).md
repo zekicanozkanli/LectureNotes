@@ -5,10 +5,10 @@
 > [!pf] *Proof.* Note that $\{0\}$ is closed in the usual topology on $\mathbb R$. Since $f$ is continuous, $f^{-1}(\{0\})=\{x\in X\mid f(x)=0\}=A$ is closed in $X$.$\blacksquare$
 
 ###### Dependencies.
-- [[Definition 1 (Topological Space)]]
-- [[Definition 2 (Closed Sets)]]
-- [[Definition 5 (Continuous Functions)]]
-- [[Theorem 2 (Continuity via Closed Sets)]]
+- [[Definition 01 (Topological Space)]]
+- [[Definition 02 (Closed Sets)]]
+- [[Definition 05 (Continuous Functions)]]
+- [[Theorem 02 (Continuity via Closed Sets)]]
 
 ###### References.
 [1] Talu (2026 Fall) *Lecture*.

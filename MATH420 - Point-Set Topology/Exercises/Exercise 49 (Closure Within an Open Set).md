@@ -2,7 +2,7 @@
 > [!ex] [[Exercise 49 (Closure Within an Open Set)]]: Let $(X,\mathcal T)$ be a topological space, $U\in\mathcal T$, and $A\subseteq X$. Show that $U\cap\overline A\subseteq\overline{U\cap A}$.
 
 ###### Dependencies.
-- [[Definition 1 (Topological Space)]]
+- [[Definition 01 (Topological Space)]]
 - [[Definition 19 (Closure)]]
 
 ###### References.

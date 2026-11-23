@@ -3,7 +3,7 @@
 ###### Proof.
 
 > [!proof]
-> We apply [[Definition 5 (Continuous Functions)]]:
+> We apply [[Definition 05 (Continuous Functions)]]:
 > i. $f^{-1}(\emptyset)=\emptyset\in\mathcal T$.
 > ii. $f^{-1}(\{x\})=\emptyset\in\mathcal T$.
 > iii. $f^{-1}(\{y\})=\{a\}\in\mathcal T$.

@@ -1,13 +1,13 @@
 
-> [!ex] [[Exercise 65 (Proving the Basis Density Criterion)]]: Prove [[Proposition 8 (Density via a Basis)]]: for a basis $\mathcal B$ of $(X,\mathcal T)$ and $A\subseteq X$, show that $\overline A=X$ if and only if $A\cap B\ne\emptyset$ for every {nonempty} $B\in\mathcal B$.
+> [!ex] [[Exercise 65 (Proving the Basis Density Criterion)]]: Prove [[Proposition 08 (Density via a Basis)]]: for a basis $\mathcal B$ of $(X,\mathcal T)$ and $A\subseteq X$, show that $\overline A=X$ if and only if $A\cap B\ne\emptyset$ for every {nonempty} $B\in\mathcal B$.
 
-> [!rem] The lecture assigns this proof as an exercise and supplies no proof. The nonempty qualification follows the source correction recorded in [[Proposition 8 (Density via a Basis)]].
+> [!rem] The lecture assigns this proof as an exercise and supplies no proof. The nonempty qualification follows the source correction recorded in [[Proposition 08 (Density via a Basis)]].
 
 ###### Dependencies.
-- [[Definition 1 (Topological Space)]]
+- [[Definition 01 (Topological Space)]]
 - [[Definition 12 (Basis For A Topology)]]
 - [[Definition 19 (Closure)]]
-- [[Proposition 7 (Closure via a Basis)]]
+- [[Proposition 07 (Closure via a Basis)]]
 - [[Definition 20 (Dense Subsets)]]
 
 ###### References.

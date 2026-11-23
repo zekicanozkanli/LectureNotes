@@ -30,14 +30,14 @@
 > [!pf] *Proof.* For (i), $A$ is closed if and only if $X\setminus A$ is open, equivalently $\operatorname{ext}(A)=X\setminus A$, equivalently $\overline A=X\setminus\operatorname{ext}(A)=X\setminus(X\setminus A)=A$. For (ii), $\overline A$ is closed, so (i) gives $\overline{\overline A}=\overline A$. For (iii), $A\subseteq B$ implies $X\setminus B\subseteq X\setminus A$, hence $(X\setminus B)^\circ\subseteq(X\setminus A)^\circ$ by [[Theorem 10 (Interior and Set Operations)]]. Therefore $\operatorname{ext}(B)\subseteq\operatorname{ext}(A)$, so $\overline A=X\setminus\operatorname{ext}(A)\subseteq X\setminus\operatorname{ext}(B)=\overline B$. For (iv), let $K$ be closed with $A\subseteq K$. By (iii) and (i), $A\subseteq\overline A\subseteq\overline K=K$; since $\overline A$ is itself closed, the claim follows. For (v), $X\setminus\overline{X\setminus A}=X\setminus[X\setminus\operatorname{ext}(X\setminus A)]=\operatorname{ext}(X\setminus A)=(X\setminus(X\setminus A))^\circ=A^\circ$. For (vi), $\overline A=X\setminus\operatorname{ext}(A)$ gives $X\setminus\overline A=\operatorname{ext}(A)$. For (vii), $\overline A\cap\overline{X\setminus A}=(X\setminus\operatorname{ext}(A))\cap(X\setminus\operatorname{ext}(X\setminus A))=(X\setminus\operatorname{ext}(A))\cap(X\setminus A^\circ)=X\setminus(A^\circ\cup\operatorname{ext}(A))=\partial A$ by De Morgan’s law. For (ix), $\operatorname{ext}(\overline A)=(X\setminus\overline A)^\circ=X\setminus\overline A=\operatorname{ext}(A)$, because $\overline A$ is closed. For (x), applying (vii) and (ii) gives $\partial\overline A=\overline{\overline A}\cap\overline{X\setminus\overline A}=\overline A\cap\overline{X\setminus\overline A}$. Since $A\subseteq\overline A$, $X\setminus\overline A\subseteq X\setminus A$, so (iii) yields $\partial\overline A\subseteq\overline A\cap\overline{X\setminus A}=\partial A$. For (xi), $A\cap B\subseteq A,B$, so (iii) gives $\overline{A\cap B}\subseteq\overline A\cap\overline B$. For (xii), $A,B\subseteq A\cup B$ implies $\overline A\cup\overline B\subseteq\overline{A\cup B}$. Conversely, $A\cup B\subseteq\overline A\cup\overline B$. The latter set is closed as a finite union of closed sets, so $\overline{A\cup B}\subseteq\overline{\overline A\cup\overline B}=\overline A\cup\overline B$. The two inclusions prove equality.$\blacksquare$
 
 ###### Dependencies.
-- [[Definition 1 (Topological Space)]]
-- [[Definition 2 (Closed Sets)]]
-- [[Theorem 1 (Characterization By Closed Sets)]]
+- [[Definition 01 (Topological Space)]]
+- [[Definition 02 (Closed Sets)]]
+- [[Theorem 01 (Characterization By Closed Sets)]]
 - [[Definition 16 (Interior)]]
 - [[Definition 17 (Exterior)]]
 - [[Definition 18 (Boundary)]]
 - [[Definition 19 (Closure)]]
-- [[Theorem 9 (Interior as Largest Open Subset)]]
+- [[Theorem 09 (Interior as Largest Open Subset)]]
 - [[Theorem 10 (Interior and Set Operations)]]
 
 ###### References.

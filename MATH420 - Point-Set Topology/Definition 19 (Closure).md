@@ -12,12 +12,12 @@
 > [!pf] *Proof.* Since $\operatorname{ext}(A)=(X\setminus A)^\circ$ is open, $\overline A=X\setminus\operatorname{ext}(A)$ is closed. The inclusion $\operatorname{ext}(A)\subseteq X\setminus A$ gives $A\subseteq X\setminus\operatorname{ext}(A)=\overline A$. For the decomposition, $A^\circ\cup\partial A=A^\circ\cup[X\setminus(A^\circ\cup\operatorname{ext}(A))]$. By De Morgan’s law and distributivity, this equals $[A^\circ\cup(X\setminus A^\circ)]\cap[A^\circ\cup(X\setminus\operatorname{ext}(A))]=X\cap(A^\circ\cup\overline A)=\overline A$, since $A^\circ\subseteq A\subseteq\overline A$.$\blacksquare$
 
 ###### Dependencies.
-- [[Definition 1 (Topological Space)]]
-- [[Definition 2 (Closed Sets)]]
+- [[Definition 01 (Topological Space)]]
+- [[Definition 02 (Closed Sets)]]
 - [[Definition 16 (Interior)]]
 - [[Definition 17 (Exterior)]]
 - [[Definition 18 (Boundary)]]
-- [[Theorem 9 (Interior as Largest Open Subset)]]
+- [[Theorem 09 (Interior as Largest Open Subset)]]
 
 ###### References.
 [1] Talu (2026 Fall) *Lecture*.

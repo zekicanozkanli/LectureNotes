@@ -4,7 +4,7 @@
 ###### Proof.
 Use [[Exercise 23 (Enlarging a Basis)]].
 ###### Dependencies.
-- [[Definition 1 (Topological Space)]]
+- [[Definition 01 (Topological Space)]]
 - [[Definition 12 (Basis For A Topology)]]
 - [[Definition 15 (Subbase)]]
 - [[Exercise 23 (Enlarging a Basis)]]

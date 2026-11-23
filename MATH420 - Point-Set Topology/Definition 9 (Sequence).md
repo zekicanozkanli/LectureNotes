@@ -1,8 +1,0 @@
-
-> [!def] [[Definition 9 (Sequence)]]: Let $X$ be a nonempty set. A function $x:\mathbb N \to X$ is called a sequence in $X$, denoted by $(x_n)$ or $\{x_n\}$.
-
-###### Bibliography.
-
-[1] *420-Week 2-Lecture 1*. (n.d.). [Lecture material] (p. 4). [420-Week 2-Lecture 1.pdf](420-Week%202-Lecture%201.pdf)
-
-#mathematics #point-set-topology #definition

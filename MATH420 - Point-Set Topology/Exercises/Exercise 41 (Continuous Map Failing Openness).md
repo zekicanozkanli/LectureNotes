@@ -4,9 +4,9 @@
 ###### Proof.
 See the function defined in [[Exercise 40 (Continuous Bijection without Continuous Inverse)]].
 ###### Dependencies.
-- [[Definition 1 (Topological Space)]]
-- [[Definition 5 (Continuous Functions)]]
-- [[Definition 6 (Open And Closed Functions)]]
+- [[Definition 01 (Topological Space)]]
+- [[Definition 05 (Continuous Functions)]]
+- [[Definition 06 (Open And Closed Functions)]]
 
 ###### References.
 [1] Talu (2026 Fall) *Lecture*.

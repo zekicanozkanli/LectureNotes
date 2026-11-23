@@ -40,9 +40,9 @@ A class $\mathcal S$ of subsets of a nonempty set $X$ may fail to be a basis, bu
 
 
 ###### Dependencies.
-- [[Definition 1 (Topological Space)]]
+- [[Definition 01 (Topological Space)]]
 - [[Definition 12 (Basis For A Topology)]]
-- [[Proposition 6 (Local Characterization Of A Basis)]]
+- [[Proposition 06 (Local Characterization Of A Basis)]]
 
 ###### References.
 [1] Talu (2026 Fall) *Lecture*.

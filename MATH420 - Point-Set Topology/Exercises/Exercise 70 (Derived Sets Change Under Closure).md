@@ -7,7 +7,7 @@
 > [!pf] *Proof.* No. Take an indiscrete space $X$ with {at least two points} and let $A=\{x\}$ for some $x\in X$. By [Exercise 68 (Derived Sets in Indiscrete Spaces)](Exercise%2068%20%28Derived%20Sets%20in%20Indiscrete%20Spaces%29.md), $\overline{A}=X$ and $\widetilde{A}=X\setminus\{x\}$. Since $X$ has at least two points, $\widetilde{\overline{A}}=\widetilde{X}=X$. Hence $\widetilde{A}=X\setminus\{x\}\subsetneq X=\widetilde{\overline{A}}$.$\blacksquare$
 
 ###### Dependencies.
-- [Definition 1 (Topological Space)](../Definition%201%20%28Topological%20Space%29.md)
+- [Definition 01 (Topological Space)](Definition%2001%20(Topological%20Space).md)
 - [Definition 19 (Closure)](../Definition%2019%20%28Closure%29.md)
 - [Definition 21 (Accumulation and Isolated Points)](../Definition%2021%20%28Accumulation%20and%20Isolated%20Points%29.md)
 - [Exercise 68 (Derived Sets in Indiscrete Spaces)](Exercise%2068%20%28Derived%20Sets%20in%20Indiscrete%20Spaces%29.md)

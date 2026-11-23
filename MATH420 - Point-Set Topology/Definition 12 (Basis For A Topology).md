@@ -19,7 +19,7 @@
 > [!eg] Ex. 8: The vertical intervals $\{a\}\times(b,c)$ form a basis for the vertical interval topology on $\mathbb R^2$; no proof is supplied (see [[Exercise 58 (Vertical Interval Topology)]]).
 
 ###### Dependencies.
-- [[Definition 1 (Topological Space)]]
+- [[Definition 01 (Topological Space)]]
 
 ###### References.
 [1] Talu (2026 Fall) *Lecture*.

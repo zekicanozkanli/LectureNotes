@@ -16,7 +16,7 @@ Determine whether each $\mathcal T_i$ is a topology on $X$. If $\mathcal T_i$ is
 
 ###### Proof.
 
-> [!proof] Let us find $\mathcal T_i$-closed subsets of $X$, using [[Definition 2 (Closed Sets)]]:
+> [!proof] Let us find $\mathcal T_i$-closed subsets of $X$, using [[Definition 02 (Closed Sets)]]:
 > i. For $\mathcal T_1=\{\emptyset,\{a\},\{a,b\},X\}$,
 > $$(\mathcal T_1)_K=\{X,\{b,c\},\{c\},\emptyset\}.$$
 > ii. For $\mathcal T_2=\{\emptyset,\{b\},\{a,b\},\{b,c\},X\}$,

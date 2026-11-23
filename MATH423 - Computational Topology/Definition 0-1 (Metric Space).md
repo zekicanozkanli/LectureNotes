@@ -43,7 +43,7 @@ Point clouds in topological data analysis come with a *notion of distance*. A me
 > [!pf] *Proof.* Open balls are open: if $y\in B_r(x)$, put $s=r-d(x,y)>0$. For $z\in B_s(y)$, the triangle inequality gives $d(x,z)\leq d(x,y)+d(y,z)<d(x,y)+s=r$, so $B_s(y)\subseteq B_r(x)$. Closed balls are closed as stated in the source. For equality of the $d_1$ and $d_2$ topologies, if $U$ is $d_2$-open and $B_r^{(d_2)}(x)\subseteq U$, then $B_r^{(d_1)}(x)\subseteq B_r^{(d_2)}(x)\subseteq U$ because $d_2\leq d_1$. Conversely, if $B_r^{(d_1)}(x)\subseteq U$, then $B_{r/\sqrt{n}}^{(d_2)}(x)\subseteq B_r^{(d_1)}(x)\subseteq U$ because $d_1\leq\sqrt{n}\,d_2$. The inequalities for $d_{\infty}$ give the same argument. $\blacksquare$
 
 ###### Dependencies.
-- Definition 15 (Topological Space) {unresolved}; see [Definition 1 (Topological Space)](../MATH420%20-%20Point-Set%20Topology/Definition%201%20%28Topological%20Space%29.md)
+- Definition 15 (Topological Space) {unresolved}; see [Definition 01 (Topological Space)](Definition%2001%20(Topological%20Space).md)
 - Cauchy-Schwarz Inequality {unresolved}
 
 ###### References.

@@ -7,7 +7,7 @@
 > (Case II ($X$ is countably infinite)) Again, $\mathcal V\subseteq\mathcal D$ because $\mathcal D=\mathcal P(X)$. Conversely, let $A\in\mathcal D$. Since $X\setminus A\subseteq X$ and $X$ is countable, $X\setminus A$ is countable. Hence $A\in\mathcal V$, so $\mathcal D\subseteq\mathcal V$. Consequently, $\mathcal D=\mathcal V$. $\blacksquare$
 
 ###### Dependencies.
-- [[Definition 1 (Topological Space)]]
+- [[Definition 01 (Topological Space)]]
 
 ###### References.
 [1] Talu (2026 Fall) *Lecture*.

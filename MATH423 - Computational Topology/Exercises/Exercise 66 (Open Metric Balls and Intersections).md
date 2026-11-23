@@ -6,7 +6,7 @@
 
 ###### Dependencies.
 - [Definition 0-1 (Metric Space)](../Definition%200-1%20%28Metric%20Space%29.md)
-- [Definition 1 (Topological Space)](../../MATH420%20-%20Point-Set%20Topology/Definition%201%20%28Topological%20Space%29.md)
+- [Definition 01 (Topological Space)](Definition%2001%20(Topological%20Space).md)
 
 ###### References.
 [1] Pamuk (2026 Fall) *Lecture*.

@@ -21,13 +21,13 @@
 > [!rem] Supplied proofs for (a), (c)–(f), (h)–(l), and (p) are consolidated in [[Theorem 12 (Closure Properties)]]; the proof of (b) is in [[Definition 19 (Closure)]] and the proof of (o) is in [[Definition 18 (Boundary)]]. No proof of (g), (m), (n), or (q) is supplied.
 
 ###### Dependencies.
-- [[Definition 1 (Topological Space)]]
-- [[Definition 2 (Closed Sets)]]
+- [[Definition 01 (Topological Space)]]
+- [[Definition 02 (Closed Sets)]]
 - [[Definition 16 (Interior)]]
 - [[Definition 17 (Exterior)]]
 - [[Definition 18 (Boundary)]]
 - [[Definition 19 (Closure)]]
-- [[Theorem 9 (Interior as Largest Open Subset)]]
+- [[Theorem 09 (Interior as Largest Open Subset)]]
 - [[Theorem 10 (Interior and Set Operations)]]
 
 ###### References.

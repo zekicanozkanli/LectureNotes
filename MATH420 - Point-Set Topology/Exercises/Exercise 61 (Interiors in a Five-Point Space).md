@@ -5,9 +5,9 @@
 > [!sol] *Solution.* Using the largest open subset characterization gives $A^\circ=\{a,b\}$, $B^\circ=\{a,b,e\}$, and $C^\circ=\{a\}$. Alternatively, apply the definition point by point to $A$. Since $a\in\{a\}\subseteq A$ and $b\in\{a,b\}\subseteq A$, both $a$ and $b$ are interior points. All open sets containing $c$ are $\{a,c,d\}$, $\{a,b,c,d\}$, and $X$; none is contained in $A$, so $c\notin A^\circ$. Because $A^\circ\subseteq A$, this again gives $A^\circ=\{a,b\}$.$\blacksquare$
 
 ###### Dependencies.
-- [[Definition 1 (Topological Space)]]
+- [[Definition 01 (Topological Space)]]
 - [[Definition 16 (Interior)]]
-- [[Theorem 9 (Interior as Largest Open Subset)]]
+- [[Theorem 09 (Interior as Largest Open Subset)]]
 
 ###### References.
 [1] Talu (2026 Fall) *Lecture*.

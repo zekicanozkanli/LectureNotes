@@ -5,7 +5,7 @@
 > [!sol] *Solution.* For each $x\in X$, $\{x\}\in\mathcal{T}$ and $(\{x\}\setminus\{x\})\cap A=\emptyset$. Thus no $x\in X$ is an accumulation point of $A$, so $\widetilde{A}=\emptyset$. For every $x\in A$, the open singleton satisfies $\{x\}\cap A=\{x\}$, hence every point of $A$ is isolated. Therefore $I(A)=A$.$\blacksquare$
 
 ###### Dependencies.
-- [Definition 1 (Topological Space)](../Definition%201%20%28Topological%20Space%29.md)
+- [Definition 01 (Topological Space)](Definition%2001%20(Topological%20Space).md)
 - [Definition 21 (Accumulation and Isolated Points)](../Definition%2021%20%28Accumulation%20and%20Isolated%20Points%29.md)
 
 ###### References.

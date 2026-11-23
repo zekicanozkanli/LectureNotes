@@ -10,18 +10,18 @@
 > $$R_p=\left(p_1-\frac r2,p_1+\frac r2\right)\times\left(p_2-\frac r2,p_2+\frac r2\right).$$
 > This is an open rectangle containing $p$. For every $q\in R_p$,
 > $$\|q-p\|_2<\sqrt{\left(\frac r2\right)^2+\left(\frac r2\right)^2}=\frac r{\sqrt2}<r.$$
-> Thus $p\in R_p\subseteq D(p,r)\subseteq U$. By [[Proposition 6 (Local Characterization Of A Basis)]], $\mathcal R$ is a basis for $\mathcal T$. $\blacksquare$
+> Thus $p\in R_p\subseteq D(p,r)\subseteq U$. By [[Proposition 06 (Local Characterization Of A Basis)]], $\mathcal R$ is a basis for $\mathcal T$. $\blacksquare$
 
 > [!pf] *Proof.* (ii) Let $\mathcal E$ be the collection of interiors of equilateral triangles. If $q\in\Delta\in\mathcal E$, its distances to the three lines containing the sides are positive. Choose $\delta>0$ smaller than all three distances. The disk $D(q,\delta)$ remains in the interior half-plane determined by each side, so $D(q,\delta)\subseteq\Delta$. Therefore every member of $\mathcal E$ is usually open.
 >
 > Let $U\in\mathcal T$ and $p\in U$. Choose $r>0$ with $D(p,r)\subseteq U$. Take an equilateral triangle with centroid $p$ and circumradius $r/2$, and let $\Delta_p$ be its interior. Its centroid lies in its interior, and the triangle is contained in the closed disk of radius $r/2$ centered at $p$, by convexity of that disk. Consequently,
 > $$p\in\Delta_p\subseteq\{q\in\mathbb R^2:\|q-p\|_2\le r/2\}\subseteq D(p,r)\subseteq U.$$
-> By [[Proposition 6 (Local Characterization Of A Basis)]], $\mathcal E$ is a basis for $\mathcal T$. $\blacksquare$
+> By [[Proposition 06 (Local Characterization Of A Basis)]], $\mathcal E$ is a basis for $\mathcal T$. $\blacksquare$
 
 ###### Dependencies.
 - [[Definition 12 (Basis For A Topology)]]
-- [[Proposition 6 (Local Characterization Of A Basis)]]
-- [[Theorem 4 (Conditions For A Collection To Form A Basis)]]
+- [[Proposition 06 (Local Characterization Of A Basis)]]
+- [[Theorem 04 (Conditions For A Collection To Form A Basis)]]
 - [[Exercise 21 (Open Discs As A Basis In The Plane)]]
 
 ###### References.

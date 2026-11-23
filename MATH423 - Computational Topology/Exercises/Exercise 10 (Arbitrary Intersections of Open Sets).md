@@ -5,7 +5,7 @@
 > [!pf] *Proof.* **False.** The open intervals $(-1/n,1/n)$ in $\mathbb{R}$ have intersection $\{0\}$, which is not open. Only finite intersections are required to be open. $\blacksquare$
 
 ###### Dependencies.
-- [Definition 1 (Topological Space)](../../MATH420%20-%20Point-Set%20Topology/Definition%201%20%28Topological%20Space%29.md)
+- [Definition 01 (Topological Space)](Definition%2001%20(Topological%20Space).md)
 
 ###### References.
 [1] Pamuk (2026 Fall) *Lecture*.

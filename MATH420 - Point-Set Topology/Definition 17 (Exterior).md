@@ -9,9 +9,9 @@
 > [!eg] Ex. 2: In the four-point closure example, $\operatorname{ext}(A)=\operatorname{ext}(\overline A)=\{d\}$ (see [[Exercise 64 (Closure in a Four-Point Space)]]).
 
 ###### Dependencies.
-- [[Definition 1 (Topological Space)]]
+- [[Definition 01 (Topological Space)]]
 - [[Definition 16 (Interior)]]
-- [[Theorem 9 (Interior as Largest Open Subset)]]
+- [[Theorem 09 (Interior as Largest Open Subset)]]
 
 ###### References.
 [1] Talu (2026 Fall) *Lecture*.

@@ -6,7 +6,7 @@
 
 ###### Dependencies.
 - [Definition 18 (Subspace Topology)](../Definition%2018%20%28Subspace%20Topology%29.md)
-- [Definition 1 (Topological Space)](../../MATH420%20-%20Point-Set%20Topology/Definition%201%20%28Topological%20Space%29.md)
+- [Definition 01 (Topological Space)](Definition%2001%20(Topological%20Space).md)
 
 ###### References.
 [1] Pamuk (2026 Fall) *Lecture*.

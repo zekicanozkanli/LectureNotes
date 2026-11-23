@@ -5,7 +5,7 @@
 > [!sol] *Solution.* For $\mathcal{T}_1$, all four sets are both open and closed, so the closed sets are $X,\{b,c\},\{a\},\emptyset$. For $\mathcal{T}_2$, the closed sets are $X,\{b,c\},\{a,c\},\{c\},\emptyset$. The third family is not a topology because $\{a,b\}\cap\{b,c\}=\{b\}\notin\mathcal{T}_3$. $\blacksquare$
 
 ###### Dependencies.
-- [Definition 1 (Topological Space)](../../MATH420%20-%20Point-Set%20Topology/Definition%201%20%28Topological%20Space%29.md)
+- [Definition 01 (Topological Space)](Definition%2001%20(Topological%20Space).md)
 
 ###### References.
 [1] Pamuk (2026 Fall) *Lecture*.

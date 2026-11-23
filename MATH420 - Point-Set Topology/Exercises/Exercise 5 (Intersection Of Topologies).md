@@ -5,7 +5,7 @@ Let $\{\mathcal T_i\}_{i\in I}$ be any collection of topologies on a nonempty se
 ###### Proof.
 
 > [!proof]
-> We use [[Definition 1 (Topological Space)]].
+> We use [[Definition 01 (Topological Space)]].
 > i. Because of topology axiom i, $\emptyset,X\in\mathcal T_i$ for all $i\in I$. This implies $\emptyset,X\in\bigcap_{i\in I}\mathcal T_i=\mathcal T$.
 > ii. Let $A_1,A_2\in\mathcal T$. Then $A_1,A_2\in\mathcal T_i$ for every $i\in I$. Hence $A_1\cap A_2\in\mathcal T_i$ for every $i\in I$, and therefore $A_1\cap A_2\in\mathcal T$.
 > iii. Let $A_j\in\mathcal T$ for $j\in J$. Thus $A_j\in\mathcal T_i$ for every $j\in J$ and every $i\in I$. Because $\mathcal T_i$ satisfies topology axiom iii,

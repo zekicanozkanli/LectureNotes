@@ -12,7 +12,7 @@ Subspaces construct new spaces by taking *subsets* of an existing space. Opennes
 > [!eg] Ex. 3: The classifications in order are open only, open only, closed only, open only, and both (see [Exercise 32 (Open and Closed Subsets)](Exercises/Exercise%2032%20%28Open%20and%20Closed%20Subsets%29.md)).
 
 ###### Dependencies.
-- Definition 15 (Topological Space) {unresolved}; see [Definition 1 (Topological Space)](../MATH420%20-%20Point-Set%20Topology/Definition%201%20%28Topological%20Space%29.md)
+- Definition 15 (Topological Space) {unresolved}; see [Definition 01 (Topological Space)](Definition%2001%20(Topological%20Space).md)
 
 ###### References.
 [1] Pamuk (2026 Fall) *Lecture*.

@@ -22,8 +22,8 @@
 > If $A=\emptyset$, every subset of $X$ contains $A$, so $\mathcal T=\mathcal P(X)$, the discrete topology. If $A=X$, the only subset of $X$ containing $A$ is $X$, so $\mathcal T=\{\emptyset,X\}$, the indiscrete topology. $\blacksquare$
 
 ###### Dependencies.
-- [[Definition 1 (Topological Space)]]
-- [[Definition 2 (Closed Sets)]]
+- [[Definition 01 (Topological Space)]]
+- [[Definition 02 (Closed Sets)]]
 
 ###### References.
 [1] Talu (2026 Fall) *Lecture*.

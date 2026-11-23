@@ -9,9 +9,9 @@
 > The function $f$ is bijective. Since the only $\mathcal V$-open sets are $\emptyset$ and $Y$, whose preimages are $\emptyset$ and $X$, respectively, $f$ is continuous. However, for $g=f^{-1}:Y\to X$, the set $\{a\}$ belongs to $\mathcal T$, while $g^{-1}(\{a\})=\{p\}\notin\mathcal V$. Thus $f^{-1}$ is not continuous. $\blacksquare$
 
 ###### Dependencies.
-- [[Definition 1 (Topological Space)]]
-- [[Definition 5 (Continuous Functions)]]
-- [[Definition 7 (Homeomorphism)]]
+- [[Definition 01 (Topological Space)]]
+- [[Definition 05 (Continuous Functions)]]
+- [[Definition 07 (Homeomorphism)]]
 
 ###### References.
 [1] Talu (2026 Fall) *Lecture*.

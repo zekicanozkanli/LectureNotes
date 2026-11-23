@@ -9,7 +9,7 @@ $$\mathcal T_2=\{\emptyset,X,\{a\},\{b\},\{a,b\}\}.$$
 > [!proof]
 > $\{c,d\}\in\mathcal T_1$, but $\{c,d\}\notin\mathcal T_2$, so $\mathcal T_1\nsubseteq\mathcal T_2$. Similarly, $\{b\}\in\mathcal T_2$, but $\{b\}\notin\mathcal T_1$, so $\mathcal T_2\nsubseteq\mathcal T_1$.
 >
-> Therefore $\mathcal T_1$ and $\mathcal T_2$ are not comparable, by [[Definition 4 (Coarser And Finer Topologies)]].
+> Therefore $\mathcal T_1$ and $\mathcal T_2$ are not comparable, by [[Definition 04 (Coarser And Finer Topologies)]].
 
 ###### Bibliography.
 

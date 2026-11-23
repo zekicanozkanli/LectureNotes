@@ -30,3 +30,22 @@ xviii. $f^{-1}(C)=f^{-1}(D)$ implies $C=D$, if $f$ is onto.
 
 xix. If $\{A_i\}_{i\in I}$ is a collection of subsets of $X$, then
 $$f^{-1}\left(\bigcup_{i\in I}A_i\right)=\bigcup_{i\in I}f^{-1}(A_i) \qquad \text{and} \qquad f^{-1}\left(\bigcap_{i\in I}A_i\right)=\bigcap_{i\in I}f^{-1}(A_i).$$
+
+###### Cartesian Products.
+i. $A\times(B\cap C)=(A\times B)\cap(A\times C)$.
+ii. $A\times(B\cup C)=(A\times B)\cup(A\times C)$.
+iii. $(A\times B)\cap(C\times D)=(A\cap C)\times(B\cap D)$.
+
+iv. $A\times\left(\bigcap_{i\in I}B_i\right)=\bigcap_{i\in I}(A\times B_i)$, where $I\ne\emptyset$.
+v. $\left(\bigcap_{i\in I}A_i\right)\times\left(\bigcap_{j\in J}B_j\right)=\bigcap_{(i,j)\in I\times J}(A_i\times B_j)$, where $I,J\ne\emptyset$.
+
+vi. $A\subseteq C$ and $B\subseteq D$ imply $A\times B\subseteq C\times D$.
+vii. $A\times B\subseteq A\times C$ and $A\ne\emptyset$ imply $B\subseteq C$.
+viii. If $A\times B\ne\emptyset$, then $A\times B=C\times D$ if and only if $A=C$ and $B=D$.
+
+ix. $A\times(B\setminus C)=(A\times B)\setminus(A\times C)$.
+x. $(X\times Y)\setminus(A\times B)=((X\setminus A)\times Y)\cup(X\times(Y\setminus B))$, where $A\subseteq X$ and $B\subseteq Y$.
+
+###### References.
+[1] Talu (2026 Fall) *Lecture*.
+[2] [Some more set theory.pdf](_attachments/Some%20more%20set%20theory.pdf) (unnumbered (1)).

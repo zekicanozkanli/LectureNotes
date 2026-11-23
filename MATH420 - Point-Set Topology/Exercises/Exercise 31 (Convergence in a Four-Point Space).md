@@ -5,10 +5,10 @@
 > [!sol] *Solution.* For $(x_n)$, the subbasic set $\{a,b\}$ contains $a$ and $b$ but contains no $x_n$, so $x_n\not\to a$ and $x_n\not\to b$. The only subbasic set containing $c$ is $\{a,c\}$, and $x_n=c\in\{a,c\}$ for all $n\geq1$; hence $x_n\to c$. Since $d\in\{d\}\in\mathcal S$ but $x_n=c\notin\{d\}$ for every $n\geq1$, $x_n\not\to d$. For $(y_n)$, the set $\{a,b\}$ contains $a$ and $b$, but $y_{2n}=c\notin\{a,b\}$ for every $n\geq1$. Thus $y_n\not\to a$ and $y_n\not\to b$. The only subbasic set containing $c$ is $\{a,c\}$, which contains every $y_n$, so $y_n\to c$. Finally $d\in\{d\}$ but $y_n\notin\{d\}$ for every $n\geq1$, so $y_n\not\to d$. Both sequences converge precisely to $c$.$\blacksquare$
 
 ###### Dependencies.
-- [[Definition 9 (Sequence)]]
+- [[Definition 09 (Sequence)]]
 - [[Definition 10 (Convergence Of A Sequence)]]
 - [[Definition 15 (Subbase)]]
-- [[Theorem 8 (Convergence via a Subbase)]]
+- [[Theorem 08 (Convergence via a Subbase)]]
 - [[Exercise 30 (Continuity from Three Subbasic Preimages)]]
 
 ###### References.

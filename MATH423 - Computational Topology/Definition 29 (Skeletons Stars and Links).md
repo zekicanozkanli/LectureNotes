@@ -45,7 +45,7 @@
 ###### Dependencies.
 - [Definition 28 (Abstract Simplicial Complex)](Definition%2028%20%28Abstract%20Simplicial%20Complex%29.md)
 - [Definition 9 (Polyhedron)](Definition%209%20%28Polyhedron%29.md)
-- Definition 15 (Topological Space) {unresolved}; see [Definition 1 (Topological Space)](../MATH420%20-%20Point-Set%20Topology/Definition%201%20%28Topological%20Space%29.md)
+- Definition 15 (Topological Space) {unresolved}; see [Definition 01 (Topological Space)](Definition%2001%20(Topological%20Space).md)
 
 ###### References.
 [1] Pamuk (2026 Fall) *Lecture*.

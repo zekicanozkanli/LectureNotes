@@ -4,7 +4,7 @@
 > [!rem] The isolated-point set $I(A)$ and derived set $\widetilde{A}$ are defined in [Definition 21 (Accumulation and Isolated Points)](../Definition%2021%20%28Accumulation%20and%20Isolated%20Points%29.md). The topology construction also occurs in [[Exercise 56 (Particular Point Topology Computations)]].
 
 ###### Dependencies.
-- [[Definition 1 (Topological Space)]]
+- [[Definition 01 (Topological Space)]]
 - [[Definition 16 (Interior)]]
 - [[Definition 17 (Exterior)]]
 - [[Definition 19 (Closure)]]

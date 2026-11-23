@@ -5,9 +5,9 @@
 This is immediate.
 
 ###### Dependencies.
-- [[Definition 5 (Continuous Functions)]]
-- [[Definition 6 (Open And Closed Functions)]]
-- [[Definition 7 (Homeomorphism)]]
+- [[Definition 05 (Continuous Functions)]]
+- [[Definition 06 (Open And Closed Functions)]]
+- [[Definition 07 (Homeomorphism)]]
 
 ###### References.
 [1] Talu (2026 Fall) *Lecture*.

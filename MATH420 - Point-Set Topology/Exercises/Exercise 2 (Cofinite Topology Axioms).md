@@ -3,17 +3,17 @@
 Let $X\ne\emptyset$ and $\mathcal T=\{\emptyset\}\cup\{A\mid A\subseteq X,\ A^c\text{ is finite}\}$, as in [[Definition 3 (Cofinite Topology)]]. Show that $\mathcal T$ is a topology on $X$.
 
 ###### Proof.
-> [!pf] *Proof.* By definition, $\varnothing\in\mathcal T$. Since $X^c=\varnothing$ is finite, $X\in\mathcal T$.
+> [!pf] *Proof.* We verify the three axioms of a topology on $X$.
 >
-> Let $(A_i)_{i\in I}$ be an arbitrary family of members of $\mathcal T$. ==🟡If every $A_i$ is empty,== then $\bigcup_{i\in I}A_i=\varnothing\in\mathcal T$. Otherwise, choose $i_0\in I$ such that $A_{i_0}\ne\varnothing$. Then $A_{i_0}^c$ is finite, and
-> $$\left(\bigcup_{i\in I}A_i\right)^c=\bigcap_{i\in I}A_i^c\subseteq A_{i_0}^c.$$
-> Thus the union has finite complement and belongs to $\mathcal T$.
+> First, $\emptyset \in \mathcal{T}$ by definition, and $X \in \mathcal{T}$ since $X \setminus X = \emptyset$ is finite.
 >
-> Let $A_1,\ldots,A_n\in\mathcal T$, where $n\ge1$. ==🟡If some $A_i=\varnothing$, their intersection is empty== and belongs to $\mathcal T$. Otherwise, every $A_i^c$ is finite. By De Morgan's law,
-> $$\left(\bigcap_{i=1}^{n}A_i\right)^c=\bigcup_{i=1}^{n}A_i^c,$$
-> which is finite. Hence the intersection belongs to $\mathcal T$.
+> Next, let $\{A_i\}_{i \in I}$ be an arbitrary family of sets in $\mathcal{T}$. If $A_i = \emptyset$ for all $i \in I$, then $\bigcup_{i \in I} A_i = \emptyset \in \mathcal{T}$. Otherwise, there exists an index $i_0 \in I$ such that $A_{i_0} \neq \emptyset$, so that $X \setminus A_{i_0}$ is finite. By De Morgan's law,
+> $$X \setminus \bigcup_{i \in I} A_i = \bigcap_{i \in I} (X \setminus A_i) \subseteq X \setminus A_{i_0}.$$
+> Being a subset of the finite set $X \setminus A_{i_0}$, the complement $X \setminus \bigcup_{i \in I} A_i$ is finite, whence $\bigcup_{i \in I} A_i \in \mathcal{T}$.
 >
-> Therefore $\mathcal T$ is a topology on $X$. $\blacksquare$
+> Finally, let $A_1, \dots, A_n \in \mathcal{T}$ with $n \ge 1$. If $A_i = \emptyset$ for some $i \in \{1, \dots, n\}$, then $\bigcap_{i=1}^n A_i = \emptyset \in \mathcal{T}$. Otherwise, $X \setminus A_i$ is finite for every $i \in \{1, \dots, n\}$, and by De Morgan's law,
+> $$X \setminus \bigcap_{i=1}^n A_i = \bigcup_{i=1}^n (X \setminus A_i),$$
+> which is finite as a finite union of finite sets. Thus $\bigcap_{i=1}^n A_i \in \mathcal{T}$, and $\mathcal{T}$ is a topology on $X$. $\blacksquare$
 
 ###### Bibliography.
 

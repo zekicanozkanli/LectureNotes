@@ -9,7 +9,7 @@ Let $(X,\mathcal T)$ and $(Y,\mathcal V)$ be two topological spaces. If $f:X\to 
 > i. If $y_0\in V$, then $f^{-1}(V)=X\in\mathcal T$.
 > ii. Assume that $y_0\notin V$. Then $f^{-1}(V)=\emptyset\in\mathcal T$.
 >
-> Therefore $f$ is $\mathcal T$-$\mathcal V$ continuous, by [[Definition 5 (Continuous Functions)]].
+> Therefore $f$ is $\mathcal T$-$\mathcal V$ continuous, by [[Definition 05 (Continuous Functions)]].
 
 ###### Bibliography.
 

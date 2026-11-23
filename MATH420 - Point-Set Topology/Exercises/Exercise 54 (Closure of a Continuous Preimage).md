@@ -5,9 +5,9 @@
 > [!pf] *Proof.* Since $B\subseteq\overline B$, taking preimages gives $f^{-1}(B)\subseteq f^{-1}(\overline B)$. Moreover, $\overline B$ is closed in $Y$, so continuity of $f$ implies that $f^{-1}(\overline B)$ is closed in $X$. Since $\overline{f^{-1}(B)}$ is the smallest closed set containing $f^{-1}(B)$, we conclude that $\overline{f^{-1}(B)}\subseteq f^{-1}(\overline B)$.$\blacksquare$
 
 ###### Dependencies.
-- [[Definition 1 (Topological Space)]]
-- [[Definition 5 (Continuous Functions)]]
-- [[Theorem 2 (Continuity via Closed Sets)]]
+- [[Definition 01 (Topological Space)]]
+- [[Definition 05 (Continuous Functions)]]
+- [[Theorem 02 (Continuity via Closed Sets)]]
 - [[Definition 19 (Closure)]]
 - [[Theorem 12 (Closure Properties)]]
 

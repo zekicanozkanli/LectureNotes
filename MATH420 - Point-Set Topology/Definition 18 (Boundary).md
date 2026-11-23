@@ -12,11 +12,11 @@
 > [!pf] *Proof.* For the complement identity, $\partial(X\setminus A)=X\setminus((X\setminus A)^\circ\cup\operatorname{ext}(X\setminus A))=X\setminus(\operatorname{ext}(A)\cup A^\circ)=\partial A$.$\blacksquare$
 
 ###### Dependencies.
-- [[Definition 1 (Topological Space)]]
-- [[Definition 2 (Closed Sets)]]
+- [[Definition 01 (Topological Space)]]
+- [[Definition 02 (Closed Sets)]]
 - [[Definition 16 (Interior)]]
 - [[Definition 17 (Exterior)]]
-- [[Theorem 9 (Interior as Largest Open Subset)]]
+- [[Theorem 09 (Interior as Largest Open Subset)]]
 
 ###### References.
 [1] Talu (2026 Fall) *Lecture*.

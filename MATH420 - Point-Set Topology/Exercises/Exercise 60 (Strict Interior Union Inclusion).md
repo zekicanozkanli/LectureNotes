@@ -5,9 +5,9 @@
 > [!sol] *Solution.* The source depicts an interval around an integer $m$ containing points outside $\mathbb Z$, so $A^\circ=\emptyset$. The complement of the integers is open, hence $B^\circ=\mathbb R\setminus\mathbb Z=B$. Consequently, $A^\circ\cup B^\circ=B$. Since $A\cup B=\mathbb R$, $(A\cup B)^\circ=\mathbb R$. Therefore $A^\circ\cup B^\circ\ne(A\cup B)^\circ$.$\blacksquare$
 
 ###### Dependencies.
-- [[Definition 1 (Topological Space)]]
+- [[Definition 01 (Topological Space)]]
 - [[Definition 16 (Interior)]]
-- [[Theorem 9 (Interior as Largest Open Subset)]]
+- [[Theorem 09 (Interior as Largest Open Subset)]]
 - [[Theorem 10 (Interior and Set Operations)]]
 
 ###### References.
