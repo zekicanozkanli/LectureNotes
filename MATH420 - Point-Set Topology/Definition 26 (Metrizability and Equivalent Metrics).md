@@ -1,7 +1,7 @@
 
 > [!def] [Definition 26 (Metrizability and Equivalent Metrics)](Definition%2026%20%28Metrizability%20and%20Equivalent%20Metrics%29.md): A topological space $(X,\mathcal{T})$ is **metrizable** if there exists a metric $d$ on $X$ inducing $\mathcal{T}$. Two metrics $d_1,d_2$ on $X$ are **equivalent metrics** if $\mathcal{T}_{d_1}=\mathcal{T}_{d_2}$.
 
-> [!rem] A metric inducing a metrizable topology need not be unique.
+*Remark.* Sabit bir metric $d$, open ball’ları aracılığıyla **tek bir topology** $\mathcal T_d$ induce eder. Aynı topology’yi ise **birden fazla metric** induce edebilir. Moreover, bir topology bir metric ile elde edilebiliyorsa, aynı topology bir bounded metric ile de elde edilebilir. Because, $d'(x,y)=\min\{d(x,y),1\}$. Peki mesafeyi değiştirince nasıl aynı topology’yi elde ediyoruz? Bir kümenin open olup olmadığını belirlemek için, her noktasının etrafında kümenin içine sığan **bir tane yeterince küçük open ball** bulmak yeterli.
 
 ###### Examples.
 > [!eg] Ex. 1: The usual topology on $\mathbb{R}$ is metrizable (see [Exercise 81 (Usual Metric Induces Usual Topology)](Exercises/Exercise%2081%20%28Usual%20Metric%20Induces%20Usual%20Topology%29.md)).

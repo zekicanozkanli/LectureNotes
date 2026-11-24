@@ -5,8 +5,9 @@
 > iii. $d(x,y)\leq d(x,z)+d(z,y)$ (triangle inequality).  
 > iv. $d(x,y)=0$ if and only if $x=y$.  
 > The pair $(X,d)$ is a **metric space**.
+A metric $\rho$ on $Y$ is **bounded** if there is $M>0$ such that $\rho(x,y)\leq M$ for all $x,y\in Y$.
 
-> [!rem] For $n>1$, the Euclidean, maximum, and taxicab metrics below are different metrics. A metric $\rho$ on $Y$ is **bounded** if there is $M>0$ such that $\rho(x,y)\leq M$ for all $x,y\in Y$.
+> [!rem] For $n>1$, the Euclidean, maximum, and taxicab metrics below are different metrics. 
 
 ###### Examples.
 > [!eg] Ex. 1: On $\mathbb{R}^{n}$, $d(x,y)=\sqrt{\sum_{i=1}^{n}(x_i-y_i)^2}$ is the usual, or Euclidean, metric. For $n=1$, $d(x,y)=\sqrt{(x-y)^2}=|x-y|$. For $n=2$, $d((x_1,x_2),(y_1,y_2))=\sqrt{(x_1-y_1)^2+(x_2-y_2)^2}$.

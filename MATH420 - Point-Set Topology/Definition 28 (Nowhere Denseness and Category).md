@@ -3,6 +3,7 @@
 
 > [!rem] In a metric space, $A$ is nowhere dense if and only if its closure contains no nonempty open set, if and only if $B_d(x,\varepsilon)\nsubseteq\overline{A}$ for every $x\in X$ and $\varepsilon>0$, if and only if every such ball meets $X\setminus\overline{A}$, if and only if $X\setminus\overline{A}$ is dense in $X$.
 
+Empty-set condition'ları genel olarak bir şeylerle kesişimi olmayan kümeler olarak da görülebilir. Örneğin, $$\operatorname{int}_X(\overline A^{\,X})=\varnothing \quad\Longleftrightarrow\quad \text{Her nonempty open }U\subseteq X\text{ içinde, } \overline A^{\,X}\text{ ile kesişmeyen nonempty open bir }V\subseteq U\text{ vardır.}$$
 ###### Examples.
 > [!eg] Ex. 1: In the usual real line, $\mathbb{Z}$ is nowhere dense because $\overline{\mathbb{Z}}=\mathbb{Z}$ and $\mathbb{Z}^\circ=\emptyset$. Every finite subset of $\mathbb{R}$ is also nowhere dense.
 
