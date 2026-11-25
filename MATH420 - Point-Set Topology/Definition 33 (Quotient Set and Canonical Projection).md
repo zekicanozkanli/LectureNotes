@@ -1,8 +1,6 @@
 
 > [!def] [Definition 33 (Quotient Set and Canonical Projection)](Definition%2033%20%28Quotient%20Set%20and%20Canonical%20Projection%29.md): Let $E$ be an equivalence relation on $X$. The **quotient set** $X/E$ is the set of equivalence classes. The **natural function**, **canonical projection**, or **canonical function** $\pi:X\to X/E$ is defined by $\pi(x)=[x]$; it is onto.
 
-> [!rem] The supplied lecture ends after introducing the search for the finest topology on $X/E$. The quotient-topology definition and verification are not present: {unresolved continuation}.
-
 ###### Motivation.
 For a topological space $(X,\mathcal{T})$, the lecture seeks a topology on the range $X/E$ making $\pi$ continuous. The coarsest such topology is indiscrete, so the construction instead seeks the *finest* such topology.
 
