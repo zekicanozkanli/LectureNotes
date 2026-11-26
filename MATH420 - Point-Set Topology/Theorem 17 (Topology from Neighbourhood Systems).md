@@ -1,8 +1,7 @@
 
 > [!thm] [Theorem 17 (Topology from Neighbourhood Systems)](Theorem%2017%20%28Topology%20from%20Neighbourhood%20Systems%29.md): Let $X$ be nonempty. Suppose each $x\in X$ is assigned a nonempty class $\eta(x)$ of subsets of $X$ satisfying the four properties in [Theorem 16 (Neighbourhood System Properties)](Theorem%2016%20%28Neighbourhood%20System%20Properties%29.md). Then there is exactly one topology $\mathcal{T}$ on $X$ for which $\eta(x)$ is the neighbourhood system of $x$. It is $\mathcal{T}=\{U\subseteq X\mid U\in\eta(x)\text{ for every }x\in U\}$.
 
-> [!rem] The supplied proof establishes the topology and its neighbourhood systems; a separate uniqueness argument is not supplied.
-
+Begin by choosing an arbitrary $U \subseteq X$. Then for every $x \in U$, look at the associated $\eta(x).$ Verify $U \in \eta(x) \quad \forall x\in U.$ 
 ###### Examples.
 > [!eg] Ex. 1: The given three-point neighbourhood systems determine $\{\emptyset,\{a\},\{b\},\{a,b\},X\}$ (see [Exercise 75 (Reconstructing a Three-Point Topology)](Exercises/Exercise%2075%20%28Reconstructing%20a%20Three-Point%20Topology%29.md)).
 

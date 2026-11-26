@@ -6,6 +6,8 @@
 
 > [!eg] Ex. 2: The product of two metrizable spaces is metrizable; in particular, the usual topology of $\mathbb{R}^2$ is the product of the usual real topologies (see [Exercise 90 (Metrizability of Metric Products)](Exercises/Exercise%2090%20%28Metrizability%20of%20Metric%20Products%29.md)).
 
+> [!eg] Ex. 3: The torus is the product $S^1\times S^1$ of two unit circles (see [Exercise 98 (Torus from the Unit Square)](Exercises/Exercise%2098%20%28Torus%20from%20the%20Unit%20Square%29.md)).
+
 ###### Proof.
 > [!pf] *Proof.* Because $X\times Y\in\mathcal{B}$, the members of $\mathcal{B}$ cover $X\times Y$. If $(x,y)\in(U_1\times V_1)\cap(U_2\times V_2)$, then $(U_1\times V_1)\cap(U_2\times V_2)=(U_1\cap U_2)\times(V_1\cap V_2)\in\mathcal{B}$ and contains $(x,y)$. Thus the conditions in [Theorem 04 (Conditions For A Collection To Form A Basis)](Theorem%2004%20(Conditions%20For%20A%20Collection%20To%20Form%20A%20Basis).md) hold.$\blacksquare$
 
@@ -18,5 +20,7 @@
 ###### References.
 [1] Talu (2026 Fall) *Lecture*.
 [2] [420-Week 8-Lecture 1.pdf](_attachments/420-Week%208-Lecture%201.pdf) (pp. 185 (5), 186 (6)).
+
+[3] [420-Week 9-Lecture 2.pdf](_attachments/420-Week%209-Lecture%202.pdf) (pp. 230 (8)).
 
 #mathematics #point-set-topology #theorem

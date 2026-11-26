@@ -2,7 +2,34 @@
 > [!thm] [Theorem 18 (Continuity Is Pointwise)](Theorem%2018%20%28Continuity%20Is%20Pointwise%29.md): A function $f:(X,\mathcal{T})\to(Y,\mathcal{V})$ is continuous if and only if it is continuous at every $x\in X$.
 
 ###### Proof.
-> [!pf] *Proof.* ($\Rightarrow$) Let $f$ be continuous, $x\in X$, and $N\in\eta_Y(f(x))$. Choose $V\in\mathcal{V}$ with $f(x)\in V\subseteq N$. Then $x\in f^{-1}(V)\subseteq f^{-1}(N)$ and $f^{-1}(V)$ is open. Thus $f^{-1}(N)\in\eta_X(x)$, and $f(f^{-1}(N))\subseteq N$, proving continuity at $x$. ($\Leftarrow$) Suppose $f$ is continuous at every point. Let $V\in\mathcal{V}$ and $x\in f^{-1}(V)$. Then $f(x)\in V$, and the open set $V$ is a neighbourhood of $f(x)$. Continuity at $x$ gives $N\in\eta_X(x)$ with $f(N)\subseteq V$, hence $N\subseteq f^{-1}(V)$. Choose open $U$ with $x\in U\subseteq N\subseteq f^{-1}(V)$. Thus $x\in(f^{-1}(V))^\circ$ for every $x\in f^{-1}(V)$, so $f^{-1}(V)$ equals its interior and is open. Therefore $f$ is continuous.$\blacksquare$
+> [!pf] *Proof.* $(\Rightarrow)$ Suppose $f$ is continuous. Let $x\in X$ and $N\in\eta_Y(f(x))$.
+>
+> By [Definition 22 (Neighbourhoods and Neighbourhood Systems)](Definition%2022%20%28Neighbourhoods%20and%20Neighbourhood%20Systems%29.md), there exists $V\in\mathcal{V}$ such that $f(x)\in V\subseteq N$. Since $f$ is continuous,
+>
+> $$
+> x\in f^{-1}(V)\in\mathcal{T}.
+> $$
+>
+> Taking $M=f^{-1}(V)$, we have $M\in\eta_X(x)$ and
+>
+> $$
+> f(M)=f(f^{-1}(V))\subseteq V\subseteq N.
+> $$
+>
+> Thus $f$ is continuous at $x$ by [Definition 23 (Continuity at a Point)](Definition%2023%20%28Continuity%20at%20a%20Point%29.md).
+>
+> $(\Leftarrow)$ Suppose $f$ is continuous at every $x\in X$. Let $V\in\mathcal{V}$ and $x\in f^{-1}(V)$.
+>
+> Since $V\in\eta_Y(f(x))$, there exists $M\in\eta_X(x)$ such that
+>
+> $$
+> f(M)\subseteq V
+> \implies M\subseteq f^{-1}(V).
+> $$
+>
+> By [Theorem 16 (Neighbourhood System Properties)](Theorem%2016%20%28Neighbourhood%20System%20Properties%29.md)(iii), $f^{-1}(V)\in\eta_X(x)$. Since this holds for every $x\in f^{-1}(V)$, [Theorem 15 (Openness via Neighbourhoods)](Theorem%2015%20%28Openness%20via%20Neighbourhoods%29.md) implies that $f^{-1}(V)\in\mathcal{T}$.
+>
+> Therefore, $f$ is continuous.$\blacksquare$
 
 ###### Dependencies.
 - [Definition 01 (Topological Space)](Definition%2001%20(Topological%20Space).md)
@@ -10,7 +37,7 @@
 - [Definition 22 (Neighbourhoods and Neighbourhood Systems)](Definition%2022%20%28Neighbourhoods%20and%20Neighbourhood%20Systems%29.md)
 - [Definition 23 (Continuity at a Point)](Definition%2023%20%28Continuity%20at%20a%20Point%29.md)
 - [Theorem 15 (Openness via Neighbourhoods)](Theorem%2015%20%28Openness%20via%20Neighbourhoods%29.md)
-- [Theorem 09 (Interior as Largest Open Subset)](Theorem%2009%20(Interior%20as%20Largest%20Open%20Subset).md)
+- [Theorem 16 (Neighbourhood System Properties)](Theorem%2016%20%28Neighbourhood%20System%20Properties%29.md)
 - [0-Preliminaries](0-Preliminaries.md)
 
 ###### References.
