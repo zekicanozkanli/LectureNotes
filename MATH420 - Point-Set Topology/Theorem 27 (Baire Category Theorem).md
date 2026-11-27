@@ -1,11 +1,9 @@
 
-> [!thm] [Theorem 27 (Baire Category Theorem)](Theorem%2027%20%28Baire%20Category%20Theorem%29.md): Let $(X,d)$ be a complete metric space. The lecture gives the following forms:  
+> [!thm] [Theorem 27 (Baire Category Theorem)](Theorem%2027%20%28Baire%20Category%20Theorem%29.md): Let $(X,d)$ be a complete metric space.
 > i. If each $U_n$ is dense and open in $X$, then $\bigcap_{n=1}^{\infty}U_n$ is dense in $X$.  
 > ii. If each $A_n$ is nowhere dense in $X$, then $\left(\bigcup_{n=1}^{\infty}A_n\right)^\circ=\emptyset$.  
 > iii. The space $(X,\mathcal{T}_d)$ is of second category.
-
-> [!rem] The lecture labels these as Versions 1, 2, and 3, respectively. The referenced additional pages are included in the supplied PDF; no proof of the theorem is supplied.
-
+$(i) \iff (ii) \implies (iii).$
 ###### Examples.
 > [!eg] Ex. 1: The usual real line is uncountable (see [Exercise 83 (Uncountability via Baire Category)](Exercises/Exercise%2083%20%28Uncountability%20via%20Baire%20Category%29.md)).
 

@@ -1,8 +1,6 @@
 
 > [!thm] [Theorem 42 (Open and Closed Identification Maps)](Theorem%2042%20%28Open%20and%20Closed%20Identification%20Maps%29.md): Let $f:(X,\mathcal{T})\to(Y,\mathcal{V})$ be a continuous onto function. If $f$ is open or closed, then $f$ is an identification map.
 
-> [!rem] The printed statement omits continuity; it is required for the conclusion. Only the open-map case is proved in the supplied material.
-
 ###### Proof.
 > [!pf] *Proof.* Suppose $f$ is open and let $U\subseteq Y$ satisfy $f^{-1}(U)\in\mathcal{T}$. Since $f$ is onto, $f(f^{-1}(U))=U$, and openness of $f$ makes this set open in $Y$. Thus the topology on $Y$ is the finest topology for which $f$ is continuous, so $f$ is an identification map.$\blacksquare$
 

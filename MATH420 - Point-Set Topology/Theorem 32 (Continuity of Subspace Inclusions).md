@@ -1,6 +1,7 @@
 
-> [!thm] [Theorem 32 (Continuity of Subspace Inclusions)](Theorem%2032%20%28Continuity%20of%20Subspace%20Inclusions%29.md): Let $Y$ be a subspace of $(X,\mathcal{T})$. The inclusion $j:Y\longrightarrow X$, $j(y)=y$, is continuous. Moreover, the subspace topology $\mathcal{T}_Y$ is the coarsest topology on $Y$ making $j$ continuous.
+> [!thm] [Theorem 32 (Continuity of Subspace Inclusions)](Theorem%2032%20%28Continuity%20of%20Subspace%20Inclusions%29.md): Let $Y$ be a subspace of $(X,\mathcal{T})$. The inclusion map $j:Y\hookrightarrow X$, $j(y)=y$, is continuous. Moreover, the subspace topology $\mathcal{T}_Y$ is the coarsest topology on $Y$ making $j$ continuous.
 
+*Remark.* Every inclusion map is injective. Furthermore, it is a topological embedding when its domain carries the subspace topology.
 ###### Examples.
 > [!eg] Ex. 1: The topology on a subspace is initial for its inclusion (see [Definition 29 (Initial Topology)](Definition%2029%20%28Initial%20Topology%29.md)).
 

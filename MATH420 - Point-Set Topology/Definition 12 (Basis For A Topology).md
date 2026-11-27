@@ -1,6 +1,7 @@
 
 > [!def] [[Definition 12 (Basis For A Topology)]]: Let $(X,\mathcal T)$ be a topological space. A class $\mathcal B$ of $\mathcal T$-open subsets of $X$ is called a **basis** for $\mathcal T$ if every open set $U\in\mathcal T$ can be written as the union of members of $\mathcal B$.
 
+*Remark.* A basis need not contain the intersection of two of its elements. Instead, it satisfies the *weaker* condition, see [[Theorem 04 (Conditions For A Collection To Form A Basis)]] part (ii).
 ###### Examples.
 > [!eg] Ex. 1: The intervals $(a,b]$ form a basis for the upper-limit topology (see [[Exercise 20 (Right-Closed Intervals Form A Basis)]]).
 

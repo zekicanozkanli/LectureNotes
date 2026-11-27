@@ -10,11 +10,22 @@
 
 > [!eg] Ex. 2: Taking $S=\mathbb{N}$ gives $\mathcal{B}(\mathbb{N})=\ell_{\infty}$, the space of bounded scalar sequences $x=(x_{n})$ with $\|x\|_{\infty}=\sup_{n\in\mathbb{N}}|x_{n}|$.
 
+> [!eg] Ex. 3. Let $(E_{i},\|\cdot\|_{i})$, $1\leq i\leq k$, be normed linear spaces over $\mathbb{K}$. Their product $E=E_{1}\times\cdots\times E_{k}$ is a vector space under coordinatewise addition and scalar multiplication. For $1\leq p<\infty$, it carries the norms
+>
+> $$
+> \|x\|_{p}=\left(\sum_{i=1}^{k}\|x_{i}\|_{i}^{p}\right)^{1/p},\qquad
+> \|x\|_{\infty}=\max_{1\leq i\leq k}\|x_{i}\|_{i}.
+> $$
+>
+> They satisfy $\|x\|_{\infty}\leq\|x\|_{p}\leq k\|x\|_{\infty}$ and are equivalent.
+
 ###### Dependencies.
 - Vector Space {unresolved}
 - Metric Space {unresolved}
 
 ###### References.
 [1] Yurdakul (2026 Fall) *Lecture* (Week 7, Lecture 1, pp. 2–3)
+
+[2] Yurdakul (2026 Fall) *Lecture* (Week 8, Lecture 1, pp. 1–2).
 
 #mathematics #functional-analysis #definition

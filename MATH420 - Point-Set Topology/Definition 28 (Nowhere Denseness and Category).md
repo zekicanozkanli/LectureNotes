@@ -4,6 +4,10 @@
 > [!rem] In a metric space, $A$ is nowhere dense if and only if its closure contains no nonempty open set, if and only if $B_d(x,\varepsilon)\nsubseteq\overline{A}$ for every $x\in X$ and $\varepsilon>0$, if and only if every such ball meets $X\setminus\overline{A}$, if and only if $X\setminus\overline{A}$ is dense in $X$.
 
 Empty-set condition'ları genel olarak bir şeylerle kesişimi olmayan kümeler olarak da görülebilir. Örneğin, $$\operatorname{int}_X(\overline A^{\,X})=\varnothing \quad\Longleftrightarrow\quad \text{Her nonempty open }U\subseteq X\text{ içinde, } \overline A^{\,X}\text{ ile kesişmeyen nonempty open bir }V\subseteq U\text{ vardır.}$$
+
+###### Motivation.
+Category measures *topological size*: can a space be covered by countably many topologically negligible subsets? Empty interior alone is insufficient, since $\mathbb{Q}^\circ=\emptyset$ but $\overline{\mathbb{Q}}=\mathbb{R}$ in the usual real topology; nowhere denseness requires the stronger condition $(\overline{A})^\circ=\emptyset$. A countable union of nowhere dense sets may be dense (e.g. $\mathbb{Q}=\bigcup_{q\in\mathbb{Q}}\{q\}$), but whether such a union covers the entire space distinguishes first from second category. The [Theorem 27 (Baire Category Theorem)](Theorem%2027%20%28Baire%20Category%20Theorem%29.md) connects category with completeness: every nonempty complete metric space is of second category, and countably many dense open conditions can be satisfied simultaneously in every nonempty open subset.
+
 ###### Examples.
 > [!eg] Ex. 1: In the usual real line, $\mathbb{Z}$ is nowhere dense because $\overline{\mathbb{Z}}=\mathbb{Z}$ and $\mathbb{Z}^\circ=\emptyset$. Every finite subset of $\mathbb{R}$ is also nowhere dense.
 

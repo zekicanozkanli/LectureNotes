@@ -1,7 +1,10 @@
 
 > [!thm] [Theorem 31 (Closure and Interior in Subspaces)](Theorem%2031%20%28Closure%20and%20Interior%20in%20Subspaces%29.md): Let $A\subseteq Y\subseteq X$, with $Y$ carrying the subspace topology. Then:  
 > i. $\operatorname{cl}_Y(A)=\operatorname{cl}_X(A)\cap Y$.  
-> ii. $\operatorname{int}_Y(A)=\operatorname{int}_X(X\setminus(Y\setminus A))\cap Y$.
+> ii. $\operatorname{int}_Y(A)=\operatorname{ext}_X(Y\setminus A) \cap Y= \operatorname{int}_X(X\setminus(Y\setminus A))\cap Y$.
+> iii. $\operatorname{int}_X(A) \subseteq \operatorname{int}_Y(A)$
+
+> [!rem] If $\mathcal{T}_Y$ is an arbitrary topology on $Y\subseteq X$, neither $\operatorname{int}_X(A)\subseteq\operatorname{int}_Y(A)$ nor the reverse inclusion holds in general. Let $\mathcal{T}_{X|Y}=\{U\cap Y\mid U\in\mathcal{T}_X\}$ be the subspace topology. If $\mathcal{T}_{X|Y}\subseteq\mathcal{T}_Y$, then $\operatorname{int}_X(A)\subseteq\operatorname{int}_Y(A)$ for every $A\subseteq Y$. For $X=\{a,b,c\}$, $Y=\{a,b\}$ and $A=\{a\}$, the discrete topology on $X$ and indiscrete topology on $Y$ give $\operatorname{int}_X(A)=\{a\}$ and $\operatorname{int}_Y(A)=\emptyset$; reversing the topologies reverses these interiors.
 
 ###### Examples.
 > [!eg] Ex. 1: The finite example has $\operatorname{int}_Y(A)=\{a\}$, $\operatorname{int}_Y(B)=B$, $\operatorname{cl}_Y(A)=A$, and $\operatorname{cl}_Y(B)=Y$ (see [Exercise 87 (Finite Subspace Interior and Closure)](Exercises/Exercise%2087%20%28Finite%20Subspace%20Interior%20and%20Closure%29.md)).
